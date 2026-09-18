@@ -1,0 +1,736 @@
+{
+  "updatedAt": "2026-09-18T17:30:02.341Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Amager Volley.3",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "Farum-Holte.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "Hillerød G&I",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "VK Næstved",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "Gentofte Volley.3",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "B1960",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "Aarby Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "Grøndal EV",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "KSV.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-09-20",
+      "time": "12:00",
+      "home": "Aarby Volley",
+      "away": "Hillerød G&I",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "16:30",
+      "home": "Gentofte Volley.3",
+      "away": "Farum-Holte.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "10:00",
+      "home": "Amager Volley.3",
+      "away": "Grøndal EV",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "14:00",
+      "home": "Gentofte Volley.3",
+      "away": "B1960",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "11:00",
+      "home": "Farum-Holte.2",
+      "away": "Aarby Volley",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "18:00",
+      "home": "KSV.2",
+      "away": "B1960",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "12:00",
+      "home": "VK Næstved",
+      "away": "Gentofte Volley.3",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "Amager Volley.3",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-18",
+      "time": "11:00",
+      "home": "Farum-Holte.2",
+      "away": "KSV.2",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "12:00",
+      "home": "VK Næstved",
+      "away": "Amager Volley.3",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home": "Grøndal EV",
+      "away": "Gentofte Volley.3",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home": "Aarby Volley",
+      "away": "KSV.2",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "Farum-Holte.2",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14:00",
+      "home": "B1960",
+      "away": "VK Næstved",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "09:00",
+      "home": "Farum-Holte.2",
+      "away": "Grøndal EV",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "10:00",
+      "home": "Amager Volley.3",
+      "away": "Aarby Volley",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "KSV.2",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "14:00",
+      "home": "Gentofte Volley.3",
+      "away": "Amager Volley.3",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "12:00",
+      "home": "Amager Volley.3",
+      "away": "KSV.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "18:00",
+      "home": "B1960",
+      "away": "Hillerød G&I",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "VK Næstved",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "12:00",
+      "home": "Aarby Volley",
+      "away": "B1960",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "18:30",
+      "home": "KSV.2",
+      "away": "Grøndal EV",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "14:00",
+      "home": "Gentofte Volley.3",
+      "away": "Hillerød G&I",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "18:00",
+      "home": "KSV.2",
+      "away": "VK Næstved",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "12:00",
+      "home": "Grøndal EV",
+      "away": "Aarby Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "14:00",
+      "home": "B1960",
+      "away": "Farum-Holte.2",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "14:00",
+      "home": "Amager Volley.3",
+      "away": "B1960",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "10:00",
+      "home": "Aarby Volley",
+      "away": "Gentofte Volley.3",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "12:00",
+      "home": "VK Næstved",
+      "away": "Farum-Holte.2",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "14:00",
+      "home": "Grøndal EV",
+      "away": "Hillerød G&I",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "14:00",
+      "home": "VK Næstved",
+      "away": "Aarby Volley",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "11:00",
+      "home": "Farum-Holte.2",
+      "away": "Amager Volley.3",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "14:00",
+      "home": "KSV.2",
+      "away": "Gentofte Volley.3",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "18:00",
+      "home": "B1960",
+      "away": "Grøndal EV",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "09:00",
+      "home": "Farum-Holte.2",
+      "away": "Gentofte Volley.3",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "14:00",
+      "home": "B1960",
+      "away": "Amager Volley.3",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "12:00",
+      "home": "VK Næstved",
+      "away": "Grøndal EV",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-16",
+      "time": "14:00",
+      "home": "B1960",
+      "away": "KSV.2",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "09:30",
+      "home": "Farum-Holte.2",
+      "away": "Hillerød G&I",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "Aarby Volley",
+      "away": "Grøndal EV",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "12:00",
+      "home": "Gentofte Volley.3",
+      "away": "VK Næstved",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "10:00",
+      "home": "B1960",
+      "away": "Aarby Volley",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "12:00",
+      "home": "VK Næstved",
+      "away": "KSV.2",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "14:00",
+      "home": "Grøndal EV",
+      "away": "Farum-Holte.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "14:00",
+      "home": "Amager Volley.3",
+      "away": "Gentofte Volley.3",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "12:00",
+      "home": "KSV.2",
+      "away": "Farum-Holte.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:00",
+      "home": "Grøndal EV",
+      "away": "Amager Volley.3",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:00",
+      "home": "Aarby Volley",
+      "away": "VK Næstved",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "Gentofte Volley.3",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-06",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "Aarby Volley",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "16:00",
+      "home": "Grøndal EV",
+      "away": "VK Næstved",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "16:00",
+      "home": "KSV.2",
+      "away": "Hillerød G&I",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "16:30",
+      "home": "Amager Volley.3",
+      "away": "VK Næstved",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "12:00",
+      "home": "Gentofte Volley.3",
+      "away": "Grøndal EV",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "13:00",
+      "home": "Farum-Holte.2",
+      "away": "B1960",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-06",
+      "time": "16:00",
+      "home": "KSV.2",
+      "away": "Aarby Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "12:00",
+      "home": "VK Næstved",
+      "away": "B1960",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "14:00",
+      "home": "Amager Volley.3",
+      "away": "Hillerød G&I",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "12:00",
+      "home": "Aarby Volley",
+      "away": "Amager Volley.3",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "13:00",
+      "home": "Farum-Holte.2",
+      "away": "VK Næstved",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "Grøndal EV",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "18:00",
+      "home": "B1960",
+      "away": "Gentofte Volley.3",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "10:00",
+      "home": "Aarby Volley",
+      "away": "Farum-Holte.2",
+      "venue": "Aarby Fritidscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:00",
+      "home": "Grøndal EV",
+      "away": "KSV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "B1960",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "12:00",
+      "home": "VK Næstved",
+      "away": "Hillerød G&I",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "12:00",
+      "home": "Gentofte Volley.3",
+      "away": "Aarby Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "14:00",
+      "home": "Grøndal EV",
+      "away": "B1960",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "14:00",
+      "home": "KSV.2",
+      "away": "Amager Volley.3",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "12:00",
+      "home": "Amager Volley.3",
+      "away": "Farum-Holte.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "14:00",
+      "home": "Gentofte Volley.3",
+      "away": "KSV.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    }
+  ]
+}

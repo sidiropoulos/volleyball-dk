@@ -1,0 +1,736 @@
+{
+  "updatedAt": "2026-09-18T17:30:01.723Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Brøndby VK Wildcard",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "Frederiksberg Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "DTU Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "Lyngby-Gladsaxe Volley.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "Enghave VK",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "VLI.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "Lyngby-Gladsaxe WC",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "KSV.3",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "Rosenlund Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-09-20",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Frederiksberg Volley",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "11:30",
+      "home": "VLI.2",
+      "away": "KSV.3",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "14:00",
+      "home": "KSV.3",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-01",
+      "time": "20:00",
+      "home": "Rosenlund Volley",
+      "away": "DTU Volley",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-01",
+      "time": "20:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "10:00",
+      "home": "Frederiksberg Volley",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "13:00",
+      "home": "DTU Volley",
+      "away": "Enghave VK",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "12:00",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "Rosenlund Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "16:30",
+      "home": "KSV.3",
+      "away": "DTU Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "18:00",
+      "home": "Enghave VK",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-24",
+      "time": "13:00",
+      "home": "Rosenlund Volley",
+      "away": "KSV.3",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-24",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-10-30",
+      "time": "20:00",
+      "home": "VLI.2",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "10:00",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "DTU Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Rosenlund Volley",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:30",
+      "home": "KSV.3",
+      "away": "Frederiksberg Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "19:30",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Gladsaxe Idrætshal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "14:00",
+      "home": "Frederiksberg Volley",
+      "away": "VLI.2",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "16:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "DTU Volley",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "14:00",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "Enghave VK",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "Frederiksberg Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "12:00",
+      "home": "KSV.3",
+      "away": "Enghave VK",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-20",
+      "time": "20:00",
+      "home": "Frederiksberg Volley",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "12:00",
+      "home": "KSV.3",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "19:30",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "VLI.2",
+      "venue": "Buddingehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Kildebakkeg%C3%A5rds%20Alle%20155%2C%202860%20S%C3%B8borg",
+      "score": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "13:00",
+      "home": "Rosenlund Volley",
+      "away": "Frederiksberg Volley",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "10:00",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "KSV.3",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "14:30",
+      "home": "VLI.2",
+      "away": "Enghave VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "VLI.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "12:00",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "Rosenlund Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "16:00",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "16:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "Frederiksberg Volley",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "16:00",
+      "home": "VLI.2",
+      "away": "Rosenlund Volley",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "13:00",
+      "home": "Rosenlund Volley",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "15:30",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "VLI.2",
+      "venue": "Buddingehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Kildebakkeg%C3%A5rds%20Alle%20155%2C%202860%20S%C3%B8borg",
+      "score": null
+    },
+    {
+      "date": "2027-01-16",
+      "time": "14:00",
+      "home": "VLI.2",
+      "away": "DTU Volley",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "12:00",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "Frederiksberg Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "12:00",
+      "home": "Enghave VK",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-23",
+      "time": "16:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "VLI.2",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "14:00",
+      "home": "KSV.3",
+      "away": "Rosenlund Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "14:30",
+      "home": "Frederiksberg Volley",
+      "away": "DTU Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "13:00",
+      "home": "Rosenlund Volley",
+      "away": "VLI.2",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "14:30",
+      "home": "DTU Volley",
+      "away": "KSV.3",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:30",
+      "home": "Frederiksberg Volley",
+      "away": "Enghave VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "16:30",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "DTU Volley",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "12:00",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "14:30",
+      "home": "DTU Volley",
+      "away": "Rosenlund Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "16:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "Enghave VK",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "11:30",
+      "home": "Frederiksberg Volley",
+      "away": "KSV.3",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "12:00",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-03-06",
+      "time": "14:30",
+      "home": "DTU Volley",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-03-13",
+      "time": "13:00",
+      "home": "Rosenlund Volley",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "12:00",
+      "home": "Enghave VK",
+      "away": "VLI.2",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-20",
+      "time": "16:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "Rosenlund Volley",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-20",
+      "time": "16:30",
+      "home": "Lyngby-Gladsaxe Volley.2",
+      "away": "DTU Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "KSV.3",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "10:00",
+      "home": "VLI.2",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-03",
+      "time": "14:00",
+      "home": "KSV.3",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-03",
+      "time": "14:30",
+      "home": "DTU Volley",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:00",
+      "home": "Frederiksberg Volley",
+      "away": "Brøndby VK Wildcard",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2027-04-10",
+      "time": "13:00",
+      "home": "Rosenlund Volley",
+      "away": "Lyngby-Gladsaxe WC",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-10",
+      "time": "16:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "KSV.3",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "12:00",
+      "home": "VLI.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-17",
+      "time": "16:00",
+      "home": "Brøndby VK Wildcard",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Stadionhal 1",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "10:00",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "Enghave VK",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "16:30",
+      "home": "KSV.3",
+      "away": "VLI.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "16:30",
+      "home": "Frederiksberg Volley",
+      "away": "Rosenlund Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-24",
+      "time": "13:00",
+      "home": "Rosenlund Volley",
+      "away": "Enghave VK",
+      "venue": "Ny Rosenlundhal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-24",
+      "time": "16:30",
+      "home": "Lyngby-Gladsaxe WC",
+      "away": "KSV.3",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "16:30",
+      "home": "VLI.2",
+      "away": "Lyngby-Gladsaxe Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    }
+  ]
+}

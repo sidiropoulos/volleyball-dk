@@ -1,0 +1,736 @@
+{
+  "updatedAt": "2026-09-18T17:30:01.873Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Tårnfalkene",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "Hvidovre VK.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "Taastrup IK",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "Hillerød G&I",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "Roskilde VK",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "Glostrup IC",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "VLI.3",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "VK Vestsjælland",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "KSV.4",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-09-20",
+      "time": "12:00",
+      "home": "Tårnfalkene",
+      "away": "Hillerød G&I",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "15:30",
+      "home": "VLI.3",
+      "away": "Roskilde VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-09-26",
+      "time": "13:00",
+      "home": "Taastrup IK",
+      "away": "Hvidovre VK.2",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "14:00",
+      "home": "Glostrup IC",
+      "away": "VLI.3",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "18:00",
+      "home": "KSV.4",
+      "away": "Hillerød G&I",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "11:00",
+      "home": "Hvidovre VK.2",
+      "away": "KSV.4",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "10:00",
+      "home": "Roskilde VK",
+      "away": "Glostrup IC",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "VLI.3",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-20",
+      "time": "19:15",
+      "home": "Tårnfalkene",
+      "away": "VK Vestsjælland",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "10:00",
+      "home": "Roskilde VK",
+      "away": "KSV.4",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "12:00",
+      "home": "Glostrup IC",
+      "away": "Hvidovre VK.2",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "VK Vestsjælland",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "13:00",
+      "home": "Hvidovre VK.2",
+      "away": "Roskilde VK",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14:00",
+      "home": "KSV.4",
+      "away": "Tårnfalkene",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "10:00",
+      "home": "VLI.3",
+      "away": "Taastrup IK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "17:00",
+      "home": "VK Vestsjælland",
+      "away": "Glostrup IC",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "11:00",
+      "home": "Hvidovre VK.2",
+      "away": "VLI.3",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "Taastrup IK",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "12:00",
+      "home": "Tårnfalkene",
+      "away": "Roskilde VK",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:00",
+      "home": "VK Vestsjælland",
+      "away": "KSV.4",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "10:00",
+      "home": "Roskilde VK",
+      "away": "Taastrup IK",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:00",
+      "home": "KSV.4",
+      "away": "VLI.3",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "12:00",
+      "home": "Roskilde VK",
+      "away": "Hillerød G&I",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "14:00",
+      "home": "Glostrup IC",
+      "away": "Tårnfalkene",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:00",
+      "home": "VK Vestsjælland",
+      "away": "Hvidovre VK.2",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "13:00",
+      "home": "Taastrup IK",
+      "away": "VK Vestsjælland",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "10:00",
+      "home": "Glostrup IC",
+      "away": "KSV.4",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:30",
+      "home": "VLI.3",
+      "away": "Tårnfalkene",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "13:00",
+      "home": "Taastrup IK",
+      "away": "Glostrup IC",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "15:00",
+      "home": "Hvidovre VK.2",
+      "away": "Hillerød G&I",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "17:00",
+      "home": "VK Vestsjælland",
+      "away": "Roskilde VK",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "10:00",
+      "home": "KSV.4",
+      "away": "Taastrup IK",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "10:00",
+      "home": "VLI.3",
+      "away": "VK Vestsjælland",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "12:00",
+      "home": "Tårnfalkene",
+      "away": "Hvidovre VK.2",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "Glostrup IC",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "13:00",
+      "home": "Taastrup IK",
+      "away": "Roskilde VK",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "12:00",
+      "home": "Tårnfalkene",
+      "away": "VLI.3",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "12:00",
+      "home": "Glostrup IC",
+      "away": "VK Vestsjælland",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "Hvidovre VK.2",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-16",
+      "time": "16:00",
+      "home": "Hvidovre VK.2",
+      "away": "Tårnfalkene",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "14:00",
+      "home": "Glostrup IC",
+      "away": "Roskilde VK",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "14:00",
+      "home": "VK Vestsjælland",
+      "away": "Hillerød G&I",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "14:30",
+      "home": "VLI.3",
+      "away": "KSV.4",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-01-23",
+      "time": "13:00",
+      "home": "Taastrup IK",
+      "away": "Tårnfalkene",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "15:30",
+      "home": "Hvidovre VK.2",
+      "away": "Glostrup IC",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "10:00",
+      "home": "KSV.4",
+      "away": "Glostrup IC",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "Tårnfalkene",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "12:00",
+      "home": "Roskilde VK",
+      "away": "VK Vestsjælland",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-06",
+      "time": "13:00",
+      "home": "Taastrup IK",
+      "away": "KSV.4",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "10:00",
+      "home": "VLI.3",
+      "away": "Hillerød G&I",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "12:00",
+      "home": "Roskilde VK",
+      "away": "Tårnfalkene",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "14:00",
+      "home": "KSV.4",
+      "away": "VK Vestsjælland",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "10:00",
+      "home": "Glostrup IC",
+      "away": "Taastrup IK",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "14:00",
+      "home": "KSV.4",
+      "away": "Hvidovre VK.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "12:00",
+      "home": "VK Vestsjælland",
+      "away": "VLI.3",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-06",
+      "time": "13:00",
+      "home": "Taastrup IK",
+      "away": "Hillerød G&I",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-06",
+      "time": "18:00",
+      "home": "Tårnfalkene",
+      "away": "KSV.4",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "12:00",
+      "home": "Roskilde VK",
+      "away": "VLI.3",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-13",
+      "time": "13:30",
+      "home": "Hvidovre VK.2",
+      "away": "VK Vestsjælland",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "Roskilde VK",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "12:00",
+      "home": "Tårnfalkene",
+      "away": "Taastrup IK",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "14:00",
+      "home": "VLI.3",
+      "away": "Glostrup IC",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-03",
+      "time": "15:00",
+      "home": "Hvidovre VK.2",
+      "away": "Taastrup IK",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-03",
+      "time": "16:00",
+      "home": "Tårnfalkene",
+      "away": "Glostrup IC",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:00",
+      "home": "Hillerød G&I",
+      "away": "KSV.4",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "10:00",
+      "home": "VLI.3",
+      "away": "Hvidovre VK.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "12:00",
+      "home": "KSV.4",
+      "away": "Roskilde VK",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "16:00",
+      "home": "Glostrup IC",
+      "away": "Hillerød G&I",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "16:00",
+      "home": "VK Vestsjælland",
+      "away": "Taastrup IK",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-15",
+      "time": "19:30",
+      "home": "Taastrup IK",
+      "away": "VLI.3",
+      "venue": "Taastrup Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "10:00",
+      "home": "Roskilde VK",
+      "away": "Hvidovre VK.2",
+      "venue": "Roskilde Gym.",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "14:00",
+      "home": "VK Vestsjælland",
+      "away": "Tårnfalkene",
+      "venue": "Korsørhallen",
+      "mapsUrl": null,
+      "score": null
+    }
+  ]
+}

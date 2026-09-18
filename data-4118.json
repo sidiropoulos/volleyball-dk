@@ -1,0 +1,907 @@
+{
+  "updatedAt": "2026-09-18T17:30:02.204Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Amager Volley.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "Hvidovre VK.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "Frederiksberg Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "DTU Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "Gentofte Volley.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "RS Rødovre",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "Enghave VK",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "VLI",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "Team Køge",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 10,
+      "name": "KSV",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-10-03",
+      "time": "13:30",
+      "home": "Hvidovre VK.2",
+      "away": "Enghave VK",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "15:00",
+      "home": "Amager Volley.2",
+      "away": "RS Rødovre",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "11:00",
+      "home": "DTU Volley",
+      "away": "Team Køge",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "12:00",
+      "home": "Frederiksberg Volley",
+      "away": "VLI",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-10-10",
+      "time": "13:30",
+      "home": "Team Køge",
+      "away": "Gentofte Volley.2",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "10:00",
+      "home": "KSV",
+      "away": "DTU Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "11:00",
+      "home": "RS Rødovre",
+      "away": "Hvidovre VK.2",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "14:30",
+      "home": "VLI",
+      "away": "Amager Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "16:00",
+      "home": "Enghave VK",
+      "away": "Frederiksberg Volley",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-24",
+      "time": "14:30",
+      "home": "DTU Volley",
+      "away": "Enghave VK",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "10:00",
+      "home": "Frederiksberg Volley",
+      "away": "RS Rødovre",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "11:00",
+      "home": "Amager Volley.2",
+      "away": "Team Køge",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "12:00",
+      "home": "Gentofte Volley.2",
+      "away": "VLI",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home": "Hvidovre VK.2",
+      "away": "KSV",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-26",
+      "time": "18:00",
+      "home": "Gentofte Volley.2",
+      "away": "KSV",
+      "venue": "Gentoftehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "13:00",
+      "home": "Team Køge",
+      "away": "RS Rødovre",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14:00",
+      "home": "VLI",
+      "away": "Hvidovre VK.2",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "12:00",
+      "home": "Enghave VK",
+      "away": "Amager Volley.2",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "14:30",
+      "home": "KSV",
+      "away": "Frederiksberg Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:30",
+      "home": "Gentofte Volley.2",
+      "away": "DTU Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "12:00",
+      "home": "Frederiksberg Volley",
+      "away": "Team Køge",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "13:00",
+      "home": "Hvidovre VK.2",
+      "away": "Gentofte Volley.2",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "15:00",
+      "home": "Amager Volley.2",
+      "away": "DTU Volley",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "13:00",
+      "home": "RS Rødovre",
+      "away": "KSV",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "14:30",
+      "home": "VLI",
+      "away": "Enghave VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "14:30",
+      "home": "DTU Volley",
+      "away": "RS Rødovre",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "10:00",
+      "home": "KSV",
+      "away": "Team Køge",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "15:30",
+      "home": "Team Køge",
+      "away": "VLI",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "10:00",
+      "home": "KSV",
+      "away": "Enghave VK",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "12:00",
+      "home": "Gentofte Volley.2",
+      "away": "Amager Volley.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "14:00",
+      "home": "Frederiksberg Volley",
+      "away": "Hvidovre VK.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "11:00",
+      "home": "RS Rødovre",
+      "away": "VLI",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "14:30",
+      "home": "DTU Volley",
+      "away": "Frederiksberg Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "15:30",
+      "home": "Team Køge",
+      "away": "Hvidovre VK.2",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "12:00",
+      "home": "Enghave VK",
+      "away": "Gentofte Volley.2",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-11",
+      "time": "20:00",
+      "home": "VLI",
+      "away": "KSV",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "10:00",
+      "home": "Gentofte Volley.2",
+      "away": "RS Rødovre",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "12:00",
+      "home": "Enghave VK",
+      "away": "Team Køge",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "12:00",
+      "home": "Amager Volley.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "14:00",
+      "home": "Hvidovre VK.2",
+      "away": "DTU Volley",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "13:00",
+      "home": "RS Rødovre",
+      "away": "Enghave VK",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "15:00",
+      "home": "Amager Volley.2",
+      "away": "Hvidovre VK.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "13:00",
+      "home": "DTU Volley",
+      "away": "VLI",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "14:30",
+      "home": "Frederiksberg Volley",
+      "away": "Gentofte Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-01-16",
+      "time": "13:00",
+      "home": "Team Køge",
+      "away": "DTU Volley",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-16",
+      "time": "16:00",
+      "home": "VLI",
+      "away": "Frederiksberg Volley",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Hvidovre VK.2",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "11:00",
+      "home": "RS Rødovre",
+      "away": "Amager Volley.2",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "14:30",
+      "home": "KSV",
+      "away": "Gentofte Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "KSV",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "11:00",
+      "home": "Amager Volley.2",
+      "away": "VLI",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:00",
+      "home": "Hvidovre VK.2",
+      "away": "RS Rødovre",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:30",
+      "home": "Gentofte Volley.2",
+      "away": "Team Køge",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "16:30",
+      "home": "Frederiksberg Volley",
+      "away": "Enghave VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "15:30",
+      "home": "Team Køge",
+      "away": "Amager Volley.2",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "10:00",
+      "home": "KSV",
+      "away": "Hvidovre VK.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "10:00",
+      "home": "VLI",
+      "away": "Gentofte Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "12:00",
+      "home": "Enghave VK",
+      "away": "DTU Volley",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-20",
+      "time": "14:00",
+      "home": "KSV",
+      "away": "Amager Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-21",
+      "time": "13:00",
+      "home": "RS Rødovre",
+      "away": "Frederiksberg Volley",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "16:00",
+      "home": "Hvidovre VK.2",
+      "away": "VLI",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "Gentofte Volley.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "11:00",
+      "home": "Amager Volley.2",
+      "away": "Enghave VK",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "13:30",
+      "home": "Frederiksberg Volley",
+      "away": "KSV",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "15:00",
+      "home": "RS Rødovre",
+      "away": "Team Køge",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-06",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "Amager Volley.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-03-13",
+      "time": "13:30",
+      "home": "Team Køge",
+      "away": "Frederiksberg Volley",
+      "venue": "Asgård skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "VLI",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "10:00",
+      "home": "Gentofte Volley.2",
+      "away": "Hvidovre VK.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "12:00",
+      "home": "KSV",
+      "away": "RS Rødovre",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-20",
+      "time": "11:00",
+      "home": "Hvidovre VK.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "12:00",
+      "home": "Enghave VK",
+      "away": "KSV",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "13:00",
+      "home": "Amager Volley.2",
+      "away": "Gentofte Volley.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "15:00",
+      "home": "RS Rødovre",
+      "away": "DTU Volley",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "16:30",
+      "home": "VLI",
+      "away": "Team Køge",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-03",
+      "time": "11:00",
+      "home": "Hvidovre VK.2",
+      "away": "Team Køge",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "10:00",
+      "home": "Frederiksberg Volley",
+      "away": "DTU Volley",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "11:00",
+      "home": "Amager Volley.2",
+      "away": "KSV",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "14:30",
+      "home": "VLI",
+      "away": "RS Rødovre",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "14:30",
+      "home": "Gentofte Volley.2",
+      "away": "Enghave VK",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "11:00",
+      "home": "RS Rødovre",
+      "away": "Gentofte Volley.2",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-17",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "Hvidovre VK.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "13:30",
+      "home": "Team Køge",
+      "away": "Enghave VK",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "14:30",
+      "home": "KSV",
+      "away": "VLI",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "14:30",
+      "home": "Frederiksberg Volley",
+      "away": "Amager Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-24",
+      "time": "11:00",
+      "home": "Hvidovre VK.2",
+      "away": "Amager Volley.2",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "10:00",
+      "home": "Gentofte Volley.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "RS Rødovre",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "12:00",
+      "home": "VLI",
+      "away": "DTU Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "15:30",
+      "home": "Team Køge",
+      "away": "KSV",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    }
+  ]
+}

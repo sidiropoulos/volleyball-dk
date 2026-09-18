@@ -1,0 +1,736 @@
+{
+  "updatedAt": "2026-09-18T17:30:02.555Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Gentofte Volley.4",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "Hvidovre VK.4",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "KV 61.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "Kanalbyens IF",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "Glostrup IC.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "Ishøj Volley.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "VLI.4",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "KSV.3",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "VK Holbæk.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-09-19",
+      "time": "14:00",
+      "home": "Kanalbyens IF",
+      "away": "Ishøj Volley.2",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "14:30",
+      "home": "Gentofte Volley.4",
+      "away": "KSV.3",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "17:30",
+      "home": "VLI.4",
+      "away": "VK Holbæk.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-09-26",
+      "time": "12:00",
+      "home": "VK Holbæk.2",
+      "away": "Kanalbyens IF",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "10:00",
+      "home": "KV 61.2",
+      "away": "Hvidovre VK.4",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "10:00",
+      "home": "Glostrup IC.2",
+      "away": "KSV.3",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "home": "Gentofte Volley.4",
+      "away": "Ishøj Volley.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "16:00",
+      "home": "Kanalbyens IF",
+      "away": "Hvidovre VK.4",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "16:00",
+      "home": "KSV.3",
+      "away": "VLI.4",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "10:00",
+      "home": "Glostrup IC.2",
+      "away": "Gentofte Volley.4",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "14:00",
+      "home": "Ishøj Volley.2",
+      "away": "VK Holbæk.2",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "16:00",
+      "home": "Ishøj Volley.2",
+      "away": "KSV.3",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-24",
+      "time": "14:00",
+      "home": "Kanalbyens IF",
+      "away": "Gentofte Volley.4",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "14:00",
+      "home": "KV 61.2",
+      "away": "VK Holbæk.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "16:00",
+      "home": "Glostrup IC.2",
+      "away": "VLI.4",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "18:00",
+      "home": "Hvidovre VK.4",
+      "away": "KSV.3",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "14:00",
+      "home": "VK Holbæk.2",
+      "away": "Glostrup IC.2",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "16:00",
+      "home": "VLI.4",
+      "away": "Hvidovre VK.4",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "18:30",
+      "home": "KSV.3",
+      "away": "KV 61.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "16:00",
+      "home": "Kanalbyens IF",
+      "away": "KV 61.2",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "12:00",
+      "home": "Gentofte Volley.4",
+      "away": "Hvidovre VK.4",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "16:30",
+      "home": "VLI.4",
+      "away": "Ishøj Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-21",
+      "time": "14:00",
+      "home": "Kanalbyens IF",
+      "away": "KSV.3",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "10:00",
+      "home": "Glostrup IC.2",
+      "away": "KV 61.2",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "18:00",
+      "home": "Hvidovre VK.4",
+      "away": "Ishøj Volley.2",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "16:00",
+      "home": "KSV.3",
+      "away": "VK Holbæk.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "10:00",
+      "home": "VLI.4",
+      "away": "Gentofte Volley.4",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "14:00",
+      "home": "Glostrup IC.2",
+      "away": "Kanalbyens IF",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "16:00",
+      "home": "KV 61.2",
+      "away": "Ishøj Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "12:00",
+      "home": "VK Holbæk.2",
+      "away": "Gentofte Volley.4",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-05",
+      "time": "13:00",
+      "home": "Hvidovre VK.4",
+      "away": "Glostrup IC.2",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "10:00",
+      "home": "KV 61.2",
+      "away": "VLI.4",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "11:30",
+      "home": "Gentofte Volley.4",
+      "away": "KV 61.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "14:30",
+      "home": "VLI.4",
+      "away": "Kanalbyens IF",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "16:00",
+      "home": "Ishøj Volley.2",
+      "away": "Glostrup IC.2",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "18:00",
+      "home": "Hvidovre VK.4",
+      "away": "VK Holbæk.2",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "14:00",
+      "home": "VK Holbæk.2",
+      "away": "KSV.3",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "16:00",
+      "home": "Gentofte Volley.4",
+      "away": "VLI.4",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "14:00",
+      "home": "KV 61.2",
+      "away": "Kanalbyens IF",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "16:00",
+      "home": "Glostrup IC.2",
+      "away": "Ishøj Volley.2",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-16",
+      "time": "10:00",
+      "home": "VK Holbæk.2",
+      "away": "KV 61.2",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "VLI.4",
+      "away": "KSV.3",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "Glostrup IC.2",
+      "away": "Hvidovre VK.4",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "16:00",
+      "home": "Ishøj Volley.2",
+      "away": "Kanalbyens IF",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-23",
+      "time": "14:00",
+      "home": "Kanalbyens IF",
+      "away": "VK Holbæk.2",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "13:45",
+      "home": "Hvidovre VK.4",
+      "away": "Gentofte Volley.4",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "14:00",
+      "home": "Ishøj Volley.2",
+      "away": "VLI.4",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-24",
+      "time": "18:00",
+      "home": "KSV.3",
+      "away": "Glostrup IC.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "14:00",
+      "home": "Kanalbyens IF",
+      "away": "Glostrup IC.2",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:00",
+      "home": "Ishøj Volley.2",
+      "away": "Gentofte Volley.4",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "14:30",
+      "home": "VLI.4",
+      "away": "Glostrup IC.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "16:00",
+      "home": "KSV.3",
+      "away": "Gentofte Volley.4",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "10:00",
+      "home": "Gentofte Volley.4",
+      "away": "Kanalbyens IF",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "16:00",
+      "home": "KV 61.2",
+      "away": "KSV.3",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "16:00",
+      "home": "Hvidovre VK.4",
+      "away": "VLI.4",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-06",
+      "time": "14:00",
+      "home": "VK Holbæk.2",
+      "away": "VLI.4",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "14:00",
+      "home": "Ishøj Volley.2",
+      "away": "Hvidovre VK.4",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-13",
+      "time": "12:00",
+      "home": "VK Holbæk.2",
+      "away": "Hvidovre VK.4",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-13",
+      "time": "16:00",
+      "home": "KV 61.2",
+      "away": "Glostrup IC.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "16:00",
+      "home": "KSV.3",
+      "away": "Kanalbyens IF",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "16:00",
+      "home": "Ishøj Volley.2",
+      "away": "KV 61.2",
+      "venue": "Ishøj Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-03",
+      "time": "16:00",
+      "home": "KSV.3",
+      "away": "Hvidovre VK.4",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:00",
+      "home": "Glostrup IC.2",
+      "away": "VK Holbæk.2",
+      "venue": "Hvissingehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "16:00",
+      "home": "KV 61.2",
+      "away": "Gentofte Volley.4",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "10:00",
+      "home": "Gentofte Volley.4",
+      "away": "VK Holbæk.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "16:00",
+      "home": "KSV.3",
+      "away": "Ishøj Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "16:00",
+      "home": "Hvidovre VK.4",
+      "away": "Kanalbyens IF",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "16:30",
+      "home": "VLI.4",
+      "away": "KV 61.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-17",
+      "time": "12:00",
+      "home": "VK Holbæk.2",
+      "away": "Ishøj Volley.2",
+      "venue": "Bjergmarkshallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-17",
+      "time": "14:00",
+      "home": "Kanalbyens IF",
+      "away": "VLI.4",
+      "venue": "Sluseholmen Skole",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "12:00",
+      "home": "Gentofte Volley.4",
+      "away": "Glostrup IC.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "16:00",
+      "home": "Hvidovre VK.4",
+      "away": "KV 61.2",
+      "venue": "Frihedens Idrætscenter",
+      "mapsUrl": null,
+      "score": null
+    }
+  ]
+}

@@ -1,0 +1,583 @@
+{
+  "updatedAt": "2026-09-18T17:30:02.683Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Amager Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "Farum-Holte",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "Gentofte Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "Grøndal EV",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "CBS Sport",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "KSV",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "Tårnfalkene",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "DTU Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-10-03",
+      "time": "10:00",
+      "home": "Amager Volley",
+      "away": "Gentofte Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "11:15",
+      "home": "Amager Volley",
+      "away": "KSV",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "12:30",
+      "home": "DTU Volley",
+      "away": "Gentofte Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "13:45",
+      "home": "DTU Volley",
+      "away": "KSV",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-10",
+      "time": "10:00",
+      "home": "Grøndal EV",
+      "away": "Tårnfalkene",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-10",
+      "time": "11:15",
+      "home": "Farum-Holte",
+      "away": "Grøndal EV",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-10",
+      "time": "12:30",
+      "home": "CBS Sport",
+      "away": "Tårnfalkene",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-10",
+      "time": "13:45",
+      "home": "CBS Sport",
+      "away": "Farum-Holte",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "14:00",
+      "home": "DTU Volley",
+      "away": "Grøndal EV",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "15:15",
+      "home": "Grøndal EV",
+      "away": "KSV",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "16:30",
+      "home": "DTU Volley",
+      "away": "Tårnfalkene",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-14",
+      "time": "17:45",
+      "home": "KSV",
+      "away": "Tårnfalkene",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "14:00",
+      "home": "Amager Volley",
+      "away": "CBS Sport",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "15:15",
+      "home": "Amager Volley",
+      "away": "Farum-Holte",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "16:30",
+      "home": "CBS Sport",
+      "away": "Gentofte Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "17:45",
+      "home": "Farum-Holte",
+      "away": "Gentofte Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "11:00",
+      "home": "DTU Volley",
+      "away": "Farum-Holte",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "12:15",
+      "home": "CBS Sport",
+      "away": "DTU Volley",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "13:30",
+      "home": "Farum-Holte",
+      "away": "KSV",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "14:45",
+      "home": "CBS Sport",
+      "away": "KSV",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "10:00",
+      "home": "Amager Volley",
+      "away": "Tårnfalkene",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "11:15",
+      "home": "Amager Volley",
+      "away": "Grøndal EV",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "12:30",
+      "home": "Gentofte Volley",
+      "away": "Tårnfalkene",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "13:45",
+      "home": "Gentofte Volley",
+      "away": "Grøndal EV",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "10:00",
+      "home": "DTU Volley",
+      "away": "Grøndal EV",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "11:15",
+      "home": "Amager Volley",
+      "away": "DTU Volley",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "12:30",
+      "home": "CBS Sport",
+      "away": "Grøndal EV",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "13:45",
+      "home": "Amager Volley",
+      "away": "CBS Sport",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "Gentofte Volley",
+      "away": "Tårnfalkene",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "11:15",
+      "home": "Gentofte Volley",
+      "away": "KSV",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "12:30",
+      "home": "Farum-Holte",
+      "away": "Tårnfalkene",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "13:45",
+      "home": "Farum-Holte",
+      "away": "KSV",
+      "venue": "Nordregårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "13:00",
+      "home": "Amager Volley",
+      "away": "Gentofte Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "14:15",
+      "home": "Amager Volley",
+      "away": "Tårnfalkene",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "15:30",
+      "home": "CBS Sport",
+      "away": "Gentofte Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "16:45",
+      "home": "CBS Sport",
+      "away": "Tårnfalkene",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "10:00",
+      "home": "Grøndal EV",
+      "away": "KSV",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "11:15",
+      "home": "DTU Volley",
+      "away": "KSV",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "12:30",
+      "home": "Farum-Holte",
+      "away": "Grøndal EV",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "13:45",
+      "home": "DTU Volley",
+      "away": "Farum-Holte",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "10:00",
+      "home": "KSV",
+      "away": "Tårnfalkene",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "11:15",
+      "home": "Farum-Holte",
+      "away": "Tårnfalkene",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "12:30",
+      "home": "Amager Volley",
+      "away": "KSV",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "13:45",
+      "home": "Amager Volley",
+      "away": "Farum-Holte",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "14:00",
+      "home": "CBS Sport",
+      "away": "DTU Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "15:15",
+      "home": "DTU Volley",
+      "away": "Gentofte Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "16:30",
+      "home": "CBS Sport",
+      "away": "Grøndal EV",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "17:45",
+      "home": "DTU Volley",
+      "away": "Grøndal EV",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "10:00",
+      "home": "Gentofte Volley",
+      "away": "KSV",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "10:00",
+      "home": "DTU Volley",
+      "away": "Tårnfalkene",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "11:15",
+      "home": "Amager Volley",
+      "away": "DTU Volley",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "11:15",
+      "home": "Farum-Holte",
+      "away": "Gentofte Volley",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "12:30",
+      "home": "CBS Sport",
+      "away": "KSV",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "12:30",
+      "home": "Grøndal EV",
+      "away": "Tårnfalkene",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "13:45",
+      "home": "CBS Sport",
+      "away": "Farum-Holte",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-11",
+      "time": "13:45",
+      "home": "Amager Volley",
+      "away": "Grøndal EV",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    }
+  ]
+}

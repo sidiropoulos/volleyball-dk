@@ -1,0 +1,907 @@
+{
+  "updatedAt": "2026-09-18T17:30:03.063Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Amager VK.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "DTU Volley.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "Enghave VK",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "Frederiksberg Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "KSV.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "Grøndal EV.3",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "Grøndal EV.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "Helsingør VK",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "Pan Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 10,
+      "name": "Farum-Holte.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-09-20",
+      "time": "10:00",
+      "home": "Grøndal EV.2",
+      "away": "Pan Volley",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "11:15",
+      "home": "Amager VK.2",
+      "away": "Grøndal EV.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "12:30",
+      "home": "Pan Volley",
+      "away": "Farum-Holte.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-09-20",
+      "time": "13:45",
+      "home": "Amager VK.2",
+      "away": "Farum-Holte.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "14:00",
+      "home": "Enghave VK",
+      "away": "Frederiksberg Volley",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "15:15",
+      "home": "Frederiksberg Volley",
+      "away": "KSV.2",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "16:30",
+      "home": "Enghave VK",
+      "away": "KSV.2",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "10:00",
+      "home": "DTU Volley.2",
+      "away": "Helsingør VK",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "11:15",
+      "home": "Helsingør VK",
+      "away": "Pan Volley",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "12:30",
+      "home": "DTU Volley.2",
+      "away": "Pan Volley",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "10:00",
+      "home": "Grøndal EV.3",
+      "away": "Frederiksberg Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "11:00",
+      "home": "Enghave VK",
+      "away": "Farum-Holte.2",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "11:15",
+      "home": "Grøndal EV.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "12:15",
+      "home": "Amager VK.2",
+      "away": "Enghave VK",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "12:30",
+      "home": "Grøndal EV.3",
+      "away": "KSV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "13:30",
+      "home": "Amager VK.2",
+      "away": "Farum-Holte.2",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "13:45",
+      "home": "Grøndal EV.2",
+      "away": "KSV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "10:00",
+      "home": "Amager VK.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "10:00",
+      "home": "Grøndal EV.3",
+      "away": "Pan Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "10:00",
+      "home": "DTU Volley.2",
+      "away": "Enghave VK",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "11:15",
+      "home": "KSV.2",
+      "away": "Pan Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "11:15",
+      "home": "Enghave VK",
+      "away": "Grøndal EV.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "11:15",
+      "home": "Amager VK.2",
+      "away": "Helsingør VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "12:30",
+      "home": "Frederiksberg Volley",
+      "away": "Helsingør VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "12:30",
+      "home": "DTU Volley.2",
+      "away": "Grøndal EV.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "12:30",
+      "home": "Grøndal EV.3",
+      "away": "Farum-Holte.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-15",
+      "time": "13:45",
+      "home": "KSV.2",
+      "away": "Farum-Holte.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Helsingør VK",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "11:15",
+      "home": "Enghave VK",
+      "away": "KSV.2",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "12:30",
+      "home": "KSV.2",
+      "away": "Helsingør VK",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "10:00",
+      "home": "Amager VK.2",
+      "away": "Grøndal EV.3",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "10:00",
+      "home": "DTU Volley.2",
+      "away": "Farum-Holte.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "11:15",
+      "home": "Frederiksberg Volley",
+      "away": "Farum-Holte.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "11:15",
+      "home": "Amager VK.2",
+      "away": "Pan Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "12:30",
+      "home": "Grøndal EV.3",
+      "away": "Grøndal EV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "12:30",
+      "home": "DTU Volley.2",
+      "away": "Frederiksberg Volley",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "13:45",
+      "home": "Grøndal EV.2",
+      "away": "Pan Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "10:00",
+      "home": "Grøndal EV.2",
+      "away": "Farum-Holte.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "11:15",
+      "home": "Helsingør VK",
+      "away": "Farum-Holte.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "12:30",
+      "home": "Grøndal EV.2",
+      "away": "Helsingør VK",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "Frederiksberg Volley",
+      "away": "Grøndal EV.3",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "Amager VK.2",
+      "away": "DTU Volley.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "11:15",
+      "home": "Amager VK.2",
+      "away": "KSV.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "11:15",
+      "home": "Enghave VK",
+      "away": "Grøndal EV.3",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "12:30",
+      "home": "Frederiksberg Volley",
+      "away": "Pan Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "12:30",
+      "home": "KSV.2",
+      "away": "DTU Volley.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "13:45",
+      "home": "Enghave VK",
+      "away": "Pan Volley",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Helsingør VK",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "11:15",
+      "home": "Enghave VK",
+      "away": "Grøndal EV.2",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "12:30",
+      "home": "Helsingør VK",
+      "away": "Grøndal EV.2",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "10:00",
+      "home": "Amager VK.2",
+      "away": "DTU Volley.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "11:00",
+      "home": "KSV.2",
+      "away": "Farum-Holte.2",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "11:15",
+      "home": "Amager VK.2",
+      "away": "Grøndal EV.3",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "12:15",
+      "home": "Frederiksberg Volley",
+      "away": "KSV.2",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "12:30",
+      "home": "Grøndal EV.3",
+      "away": "DTU Volley.2",
+      "venue": "DTU Hal 2",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "13:30",
+      "home": "Pan Volley",
+      "away": "Farum-Holte.2",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "14:45",
+      "home": "Frederiksberg Volley",
+      "away": "Pan Volley",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "10:00",
+      "home": "Amager VK.2",
+      "away": "Grøndal EV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "11:15",
+      "home": "Amager VK.2",
+      "away": "KSV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "12:30",
+      "home": "Grøndal EV.3",
+      "away": "Grøndal EV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-07",
+      "time": "13:45",
+      "home": "KSV.2",
+      "away": "Grøndal EV.3",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "10:00",
+      "home": "Helsingør VK",
+      "away": "DTU Volley.2",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "11:15",
+      "home": "DTU Volley.2",
+      "away": "Grøndal EV.3",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "12:30",
+      "home": "Helsingør VK",
+      "away": "Grøndal EV.3",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "10:00",
+      "home": "Farum-Holte.2",
+      "away": "Helsingør VK",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "11:15",
+      "home": "Frederiksberg Volley",
+      "away": "Farum-Holte.2",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "12:30",
+      "home": "Frederiksberg Volley",
+      "away": "Helsingør VK",
+      "venue": "Borupgårdskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "14:00",
+      "home": "DTU Volley.2",
+      "away": "Enghave VK",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "15:15",
+      "home": "DTU Volley.2",
+      "away": "Pan Volley",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "16:30",
+      "home": "Pan Volley",
+      "away": "Enghave VK",
+      "venue": "Bavnehøjhallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Frederiksberg Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "11:15",
+      "home": "Amager VK.2",
+      "away": "Enghave VK",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "12:30",
+      "home": "Amager VK.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "15:15",
+      "home": "KSV.2",
+      "away": "Helsingør VK",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "16:30",
+      "home": "Grøndal EV.3",
+      "away": "Helsingør VK",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "17:45",
+      "home": "KSV.2",
+      "away": "Pan Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-07",
+      "time": "19:00",
+      "home": "Grøndal EV.3",
+      "away": "Pan Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "10:00",
+      "home": "DTU Volley.2",
+      "away": "Grøndal EV.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "11:15",
+      "home": "DTU Volley.2",
+      "away": "Farum-Holte.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "12:30",
+      "home": "Grøndal EV.2",
+      "away": "Farum-Holte.2",
+      "venue": "Hillerødgades Sportssal",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "10:00",
+      "home": "Enghave VK",
+      "away": "Grøndal EV.3",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "10:00",
+      "home": "Amager VK.2",
+      "away": "Pan Volley",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "10:00",
+      "home": "Frederiksberg Volley",
+      "away": "Grøndal EV.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "11:15",
+      "home": "KSV.2",
+      "away": "Grøndal EV.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "11:15",
+      "home": "Helsingør VK",
+      "away": "Pan Volley",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "11:15",
+      "home": "Enghave VK",
+      "away": "Farum-Holte.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:30",
+      "home": "Grøndal EV.3",
+      "away": "Farum-Holte.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:30",
+      "home": "DTU Volley.2",
+      "away": "Frederiksberg Volley",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:30",
+      "home": "Amager VK.2",
+      "away": "Helsingør VK",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "13:45",
+      "home": "DTU Volley.2",
+      "away": "KSV.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    }
+  ]
+}

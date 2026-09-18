@@ -1,0 +1,907 @@
+{
+  "updatedAt": "2026-09-18T17:30:01.335Z",
+  "teams": [
+    {
+      "pos": 1,
+      "name": "Amager Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 2,
+      "name": "Amager Volley.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 3,
+      "name": "KV 61",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 4,
+      "name": "Farum VK 2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 5,
+      "name": "Gentofte Volley.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 6,
+      "name": "Lyngby-Gladsaxe Volley",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 7,
+      "name": "Lynge Uggeløse",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 8,
+      "name": "VLI",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "KSV.2",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 10,
+      "name": "KSV",
+      "k": 0,
+      "v": 0,
+      "t": 0,
+      "sets": "—",
+      "pts": 0
+    }
+  ],
+  "fixtures": [
+    {
+      "date": "2026-09-27",
+      "time": "12:00",
+      "home": "KV 61",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "14:00",
+      "home": "Amager Volley",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-10-03",
+      "time": "15:00",
+      "home": "Farum VK 2",
+      "away": "KSV.2",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "12:00",
+      "home": "KV 61",
+      "away": "VLI",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-04",
+      "time": "14:30",
+      "home": "Gentofte Volley.2",
+      "away": "KSV",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-10",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "KV 61",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2026-10-10",
+      "time": "14:30",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "Amager Volley.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "14:30",
+      "home": "KSV.2",
+      "away": "Gentofte Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-11",
+      "time": "16:30",
+      "home": "VLI",
+      "away": "Amager Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-10-17",
+      "time": "16:00",
+      "home": "KSV",
+      "away": "Amager Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-10-20",
+      "time": "20:00",
+      "home": "Amager Volley.2",
+      "away": "Lynge Uggeløse",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "10:00",
+      "home": "Amager Volley",
+      "away": "KSV.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "10:00",
+      "home": "Gentofte Volley.2",
+      "away": "VLI",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "12:00",
+      "home": "Amager Volley.2",
+      "away": "KSV",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-10-25",
+      "time": "12:00",
+      "home": "Farum VK 2",
+      "away": "Lynge Uggeløse",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-10-31",
+      "time": "16:00",
+      "home": "VLI",
+      "away": "Amager Volley.2",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "10:00",
+      "home": "KSV",
+      "away": "KV 61",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "12:00",
+      "home": "KSV.2",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "12:30",
+      "home": "Gentofte Volley.2",
+      "away": "Farum VK 2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-01",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "Amager Volley",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "14:00",
+      "home": "KV 61",
+      "away": "KSV.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "16:00",
+      "home": "Amager Volley.2",
+      "away": "Gentofte Volley.2",
+      "venue": "Sundbyhal 2",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-11-07",
+      "time": "17:00",
+      "home": "Amager Volley",
+      "away": "Farum VK 2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "10:00",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "KSV",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-11-08",
+      "time": "12:00",
+      "home": "VLI",
+      "away": "Lynge Uggeløse",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "10:00",
+      "home": "Gentofte Volley.2",
+      "away": "Amager Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "11:00",
+      "home": "Farum VK 2",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "14:30",
+      "home": "KSV.2",
+      "away": "VLI",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-22",
+      "time": "16:30",
+      "home": "KSV",
+      "away": "Lynge Uggeløse",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-28",
+      "time": "14:00",
+      "home": "KSV",
+      "away": "Farum VK 2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "12:00",
+      "home": "KV 61",
+      "away": "Amager Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "10:00",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "VLI",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "Gentofte Volley.2",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "15:30",
+      "home": "Farum VK 2",
+      "away": "KV 61",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "KSV.2",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2026-12-12",
+      "time": "18:00",
+      "home": "VLI",
+      "away": "KSV",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "10:00",
+      "home": "Amager Volley",
+      "away": "KV 61",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "14:00",
+      "home": "Amager Volley.2",
+      "away": "Farum VK 2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2026-12-13",
+      "time": "14:30",
+      "home": "Gentofte Volley.2",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "15:30",
+      "home": "Amager Volley",
+      "away": "Amager Volley.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-09",
+      "time": "15:30",
+      "home": "Farum VK 2",
+      "away": "VLI",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "12:00",
+      "home": "KV 61",
+      "away": "Gentofte Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-10",
+      "time": "19:30",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "Lynge Uggeløse",
+      "venue": "Buddingehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Kildebakkeg%C3%A5rds%20Alle%20155%2C%202860%20S%C3%B8borg",
+      "score": null
+    },
+    {
+      "date": "2027-01-16",
+      "time": "18:00",
+      "home": "VLI",
+      "away": "KV 61",
+      "venue": "Bülowsvejhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=B%C3%BClowsvej%2034%2C%201870%20Frederiksberg%20C",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "10:00",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "Amager Volley",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "12:00",
+      "home": "KSV",
+      "away": "Gentofte Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "Amager Volley.2",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2027-01-17",
+      "time": "16:30",
+      "home": "KSV.2",
+      "away": "Farum VK 2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "12:00",
+      "home": "Farum VK 2",
+      "away": "KSV",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2027-01-30",
+      "time": "15:30",
+      "home": "Amager Volley.2",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "12:30",
+      "home": "Gentofte Volley.2",
+      "away": "KSV.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "13:00",
+      "home": "Amager Volley",
+      "away": "VLI",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-01-31",
+      "time": "16:00",
+      "home": "KV 61",
+      "away": "Lynge Uggeløse",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-09",
+      "time": "20:00",
+      "home": "Lynge Uggeløse",
+      "away": "Farum VK 2",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2027-02-13",
+      "time": "14:30",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "KV 61",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "12:00",
+      "home": "KSV",
+      "away": "Amager Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "12:00",
+      "home": "VLI",
+      "away": "Gentofte Volley.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-02-14",
+      "time": "16:30",
+      "home": "KSV.2",
+      "away": "Amager Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-20",
+      "time": "16:00",
+      "home": "KSV.2",
+      "away": "Amager Volley.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-27",
+      "time": "15:30",
+      "home": "Amager Volley.2",
+      "away": "VLI",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "10:00",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "KSV.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "10:00",
+      "home": "KV 61",
+      "away": "KSV",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "11:30",
+      "home": "Farum VK 2",
+      "away": "Gentofte Volley.2",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2027-02-28",
+      "time": "13:00",
+      "home": "Amager Volley",
+      "away": "Lynge Uggeløse",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-03-06",
+      "time": "14:00",
+      "home": "KSV",
+      "away": "KSV.2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-13",
+      "time": "14:00",
+      "home": "Farum VK 2",
+      "away": "Amager Volley",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "10:00",
+      "home": "KSV.2",
+      "away": "KV 61",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "VLI",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "14:00",
+      "home": "KSV",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-03-14",
+      "time": "14:30",
+      "home": "Gentofte Volley.2",
+      "away": "Amager Volley.2",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-03-20",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "KSV",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2027-03-20",
+      "time": "14:30",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "Farum VK 2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-03-20",
+      "time": "15:30",
+      "home": "Amager Volley.2",
+      "away": "KV 61",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "11:00",
+      "home": "Amager Volley",
+      "away": "Gentofte Volley.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-03-21",
+      "time": "14:30",
+      "home": "VLI",
+      "away": "KSV.2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:00",
+      "home": "KV 61",
+      "away": "Farum VK 2",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "12:30",
+      "home": "Gentofte Volley.2",
+      "away": "Lynge Uggeløse",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "13:00",
+      "home": "Amager Volley.2",
+      "away": "KSV.2",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "15:00",
+      "home": "Amager Volley",
+      "away": "KSV",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-04",
+      "time": "16:30",
+      "home": "VLI",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-17",
+      "time": "16:00",
+      "home": "KV 61",
+      "away": "Amager Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "10:00",
+      "home": "KSV.2",
+      "away": "Lynge Uggeløse",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "12:00",
+      "home": "KSV",
+      "away": "VLI",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "12:00",
+      "home": "Lyngby-Gladsaxe Volley",
+      "away": "Gentofte Volley.2",
+      "venue": "Engelsborghallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
+      "score": null
+    },
+    {
+      "date": "2027-04-18",
+      "time": "12:30",
+      "home": "Farum VK 2",
+      "away": "Amager Volley.2",
+      "venue": "Ny Holtehal",
+      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
+      "score": null
+    },
+    {
+      "date": "2027-04-24",
+      "time": "13:00",
+      "home": "Lynge Uggeløse",
+      "away": "Lyngby-Gladsaxe Volley",
+      "venue": "Lyngehallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
+      "score": null
+    },
+    {
+      "date": "2027-04-24",
+      "time": "14:00",
+      "home": "KSV.2",
+      "away": "KSV",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "10:00",
+      "home": "VLI",
+      "away": "Farum VK 2",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "14:00",
+      "home": "Amager Volley.2",
+      "away": "Amager Volley",
+      "venue": "Sundbyhal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
+      "score": null
+    },
+    {
+      "date": "2027-04-25",
+      "time": "14:30",
+      "home": "Gentofte Volley.2",
+      "away": "KV 61",
+      "venue": "Kildeskovshal 1",
+      "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    }
+  ]
+}
