@@ -101,11 +101,15 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      overflow: hidden;
+      overflow-x: auto;
+      overflow-y: hidden;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: thin;
     }
 
     .standings-table {
       width: 100%;
+      min-width: 480px;
       border-collapse: collapse;
       font-size: 14px;
     }
@@ -115,10 +119,10 @@
     }
 
     .standings-table th {
-      padding: 10px 14px;
+      padding: 9px 10px;
       text-align: right;
-      font-size: 11px;
-      font-weight: 600;
+      font-size: 10px;
+      font-weight: 700;
       letter-spacing: 0.06em;
       text-transform: uppercase;
       color: var(--muted);
@@ -136,21 +140,23 @@
     .standings-table tbody tr:hover { background: var(--surface2); }
 
     .standings-table td {
-      padding: 13px 14px;
+      padding: 11px 10px;
       text-align: right;
       color: var(--text);
+      font-size: 13px;
     }
 
     .standings-table td.pos {
       color: var(--muted);
-      font-size: 12px;
-      font-weight: 600;
-      width: 32px;
+      font-size: 11px;
+      font-weight: 700;
+      width: 28px;
     }
 
     .standings-table td.team-name {
       font-weight: 600;
       text-align: left;
+      min-width: 160px;
     }
 
     .team-logo {
@@ -481,6 +487,30 @@
     .league-tab.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
     @media (max-width: 480px) {
+      .standings-card {
+        border-radius: 10px;
+      }
+
+      .standings-table {
+        min-width: 420px;
+        font-size: 12px;
+      }
+
+      .standings-table th,
+      .standings-table td {
+        padding-left: 8px;
+        padding-right: 8px;
+      }
+
+      .team-logo {
+        width: 26px;
+        height: 26px;
+      }
+
+      .team-name-cell {
+        gap: 8px;
+      }
+
       .fixture-team { font-size: 12px; }
       .fixture-score { font-size: 16px; }
       .fixture-center { min-width: 70px; }
