@@ -1,0 +1,12 @@
+{
+  "name": "dvbk-table",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "node scraper.js",
+    "serve": "npx serve ."
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
