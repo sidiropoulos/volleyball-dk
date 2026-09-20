@@ -77,6 +77,18 @@ Alternatively, open `index.html` directly in a browser — note that `fetch()` c
 
 Re-run `npm run scrape` whenever you want fresh standings and results. The scraper skips a league if it returns empty data to avoid overwriting good data with a failed fetch.
 
+### Automatic updates with GitHub Pages
+
+GitHub Actions refreshes the data daily. When standings or fixtures actually change, it commits the updated `data-*.json` files back to the repository. Timestamp-only changes are ignored.
+
+To host the site for free, enable GitHub Pages in the repository settings:
+
+1. Open **Settings → Pages**.
+2. Under **Build and deployment**, choose **Deploy from a branch**.
+3. Select the `main` branch and the `/ (root)` folder, then click **Save**.
+
+The site will be available at `https://<github-user>.github.io/<repository-name>/` after GitHub Pages finishes publishing.
+
 ## Tech stack
 
 - **Frontend** — vanilla HTML, CSS, and JavaScript (no framework or build step)
