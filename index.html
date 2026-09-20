@@ -277,10 +277,19 @@
     .fixture-team {
       font-size: 14px;
       font-weight: 600;
+      min-width: 0;
     }
 
     .fixture-team.home { text-align: right; }
     .fixture-team.away { text-align: left; }
+
+    .fixture-team-inner {
+      min-width: 0;
+    }
+
+    .fixture-team-inner > :last-child {
+      overflow-wrap: anywhere;
+    }
 
     .fixture-center {
       text-align: center;
@@ -516,9 +525,40 @@
         gap: 8px;
       }
 
-      .fixture-team { font-size: 12px; }
-      .fixture-score { font-size: 16px; }
-      .fixture-center { min-width: 70px; }
+      .fixture-card {
+        padding: 12px 10px;
+        gap: 6px;
+      }
+
+      .fixture-team {
+        font-size: 12px;
+        line-height: 1.25;
+      }
+
+      .fixture-team-inner {
+        gap: 6px;
+      }
+
+      .fixture-logo {
+        width: 28px;
+        height: 28px;
+      }
+
+      .fixture-score { font-size: 17px; }
+      .fixture-center { min-width: 58px; }
+      .fixture-meta { font-size: 10px; }
+      .fixture-venue { padding-top: 8px; }
+    }
+
+    @media (max-width: 340px) {
+      .fixture-list {
+        overflow-x: auto;
+        padding-bottom: 4px;
+      }
+
+      .fixture-card {
+        min-width: 300px;
+      }
     }
   </style>
 </head>
