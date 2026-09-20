@@ -101,15 +101,13 @@
       background: var(--surface);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      overflow-x: auto;
+      overflow-x: hidden;
       overflow-y: hidden;
-      -webkit-overflow-scrolling: touch;
-      scrollbar-width: thin;
     }
 
     .standings-table {
       width: 100%;
-      min-width: 480px;
+      max-width: 100%;
       border-collapse: collapse;
       font-size: 14px;
     }
@@ -137,6 +135,9 @@
     .standings-table th.left,
     .standings-table td.left { text-align: left; }
 
+    .standings-table th:first-child,
+    .standings-table td:first-child { text-align: center; }
+
     .standings-table tbody tr {
       border-top: 1px solid var(--border);
       transition: background 0.15s;
@@ -161,7 +162,7 @@
     .standings-table td.team-name {
       font-weight: 600;
       text-align: left;
-      min-width: 160px;
+      min-width: 0;
     }
 
     .team-logo {
@@ -506,14 +507,42 @@
       }
 
       .standings-table {
-        min-width: 420px;
+        table-layout: fixed;
         font-size: 12px;
       }
 
       .standings-table th,
       .standings-table td {
-        padding-left: 8px;
-        padding-right: 8px;
+        padding-left: 3px;
+        padding-right: 3px;
+      }
+
+      .standings-table th:nth-child(1),
+      .standings-table td:nth-child(1) {
+        width: 8%;
+        padding-left: 0;
+        padding-right: 0;
+      }
+
+      .standings-table th:nth-child(2),
+      .standings-table td:nth-child(2) { width: 43%; }
+
+      .standings-table th:nth-child(3),
+      .standings-table td:nth-child(3),
+      .standings-table th:nth-child(4),
+      .standings-table td:nth-child(4),
+      .standings-table th:nth-child(5),
+      .standings-table td:nth-child(5) { width: 7%; }
+
+      .standings-table th:nth-child(6),
+      .standings-table td:nth-child(6) { width: 19%; }
+
+      .standings-table th:nth-child(7),
+      .standings-table td:nth-child(7) { width: 10%; }
+
+      .standings-table th:last-child,
+      .standings-table td:last-child {
+        padding-right: 12px;
       }
 
       .team-logo {
@@ -523,6 +552,12 @@
 
       .team-name-cell {
         gap: 8px;
+        min-width: 0;
+      }
+
+      .team-name-cell .team-link {
+        min-width: 0;
+        overflow-wrap: anywhere;
       }
 
       .fixture-card {
@@ -914,7 +949,7 @@
 
       let data;
       try {
-        const res = await fetch(`./data-${id}.json`);
+        const res = await fetch(`./data/data-${id}.json`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         data = await res.json();
       } catch {

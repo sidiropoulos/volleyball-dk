@@ -49,7 +49,7 @@ The scraper fetches standings and fixtures for all 9 leagues from resultater.vol
 npm run scrape
 ```
 
-This produces `data-4128.json`, `data-4118.json`, etc. in the project root.
+This produces `data/data-4128.json`, `data/data-4118.json`, etc. in the `data/` directory.
 
 ### View the site
 
@@ -67,10 +67,10 @@ Alternatively, open `index.html` directly in a browser — note that `fetch()` c
 
 ```
 ├── index.html          # Single-page app — all HTML, CSS, and JS
-├── scraper.js          # Node.js scraper (cheerio) — writes data-*.json
+├── scraper.js          # Node.js scraper (cheerio) — writes data/*.json
 ├── package.json
 ├── logos/              # Team logo images
-└── data-*.json         # Generated data files (one per league)
+└── data/               # Generated data files (one per league)
 ```
 
 ## Keeping data up to date
@@ -79,7 +79,7 @@ Re-run `npm run scrape` whenever you want fresh standings and results. The scrap
 
 ### Automatic updates with GitHub Pages
 
-GitHub Actions refreshes the data daily. When standings or fixtures actually change, it commits the updated `data-*.json` files back to the repository. Timestamp-only changes are ignored.
+GitHub Actions refreshes the data daily. When standings or fixtures actually change, it commits the updated `data/*.json` files back to the repository. Timestamp-only changes are ignored.
 
 To host the site for free, enable GitHub Pages in the repository settings:
 

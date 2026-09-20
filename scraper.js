@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Scrapes standings + full schedule from volleyball.dk and writes data.json.
+// Scrapes standings + full schedule from volleyball.dk and writes data/*.json.
 // Run: node scraper.js  (requires Node 18+)
 
 import * as cheerio from 'cheerio';
@@ -115,7 +115,7 @@ async function scrapeLeague(puljeId) {
   }
 
   const data = { updatedAt: new Date().toISOString(), teams, fixtures };
-  const file = `data-${puljeId}.json`;
+  const file = `data/data-${puljeId}.json`;
   writeFileSync(file, JSON.stringify(data, null, 2), 'utf8');
   console.log(`  ✓ ${file} written`);
 }
