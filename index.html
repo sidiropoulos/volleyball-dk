@@ -1080,8 +1080,8 @@
           card.className   = "fixture-card";
           const homeLogo   = logoFor(f.home) ? `<img class="fixture-logo" src="${logoFor(f.home)}" alt="">` : "";
           const awayLogo   = logoFor(f.away) ? `<img class="fixture-logo" src="${logoFor(f.away)}" alt="">` : "";
-          const homeLabel  = activeTeam === f.home ? `<strong>${f.home}</strong>` : f.home;
-          const awayLabel  = activeTeam === f.away ? `<strong>${f.away}</strong>` : f.away;
+          const homeLabel  = `<span class="team-link">${activeTeam === f.home ? `<strong>${f.home}</strong>` : f.home}</span>`;
+          const awayLabel  = `<span class="team-link">${activeTeam === f.away ? `<strong>${f.away}</strong>` : f.away}</span>`;
           const scoreHtml  = f.score
             ? `<span class="fixture-score">${f.score}</span>`
             : `<span class="fixture-score pending">vs</span>`;
@@ -1099,6 +1099,10 @@
             <div class="fixture-team away"><div class="fixture-team-inner">${awayLogo}${awayLabel}</div></div>
             <div class="fixture-venue">${venueHtml}</div>
           `;
+          card.querySelectorAll(".team-link").forEach(link => {
+            const team = link.textContent.trim();
+            link.addEventListener("click", () => selectTeam(activeTeam === team ? null : team));
+          });
           list.appendChild(card);
         });
 
