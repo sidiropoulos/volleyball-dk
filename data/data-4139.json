@@ -1,17 +1,44 @@
 {
-  "updatedAt": "2026-09-18T17:30:02.033Z",
+  "updatedAt": "2026-09-21T12:05:36.649Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Hvidovre VK.3",
-      "k": 0,
-      "v": 0,
+      "name": "Gentofte Volley.4",
+      "k": 1,
+      "v": 1,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "3-0",
+      "pts": 3
     },
     {
       "pos": 2,
+      "name": "KSV.5",
+      "k": 1,
+      "v": 1,
+      "t": 0,
+      "sets": "3-0",
+      "pts": 3
+    },
+    {
+      "pos": 3,
+      "name": "Hvidovre VK.3",
+      "k": 1,
+      "v": 1,
+      "t": 0,
+      "sets": "3-2",
+      "pts": 3
+    },
+    {
+      "pos": 4,
+      "name": "Kanalbyens IF",
+      "k": 1,
+      "v": 0,
+      "t": 1,
+      "sets": "2-3",
+      "pts": 1
+    },
+    {
+      "pos": 5,
       "name": "Frederiksberg Volley.4",
       "k": 0,
       "v": 0,
@@ -20,25 +47,7 @@
       "pts": 0
     },
     {
-      "pos": 3,
-      "name": "Kanalbyens IF",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 4,
-      "name": "Glostrup IC.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 5,
+      "pos": 6,
       "name": "Farum VK.3",
       "k": 0,
       "v": 0,
@@ -47,7 +56,7 @@
       "pts": 0
     },
     {
-      "pos": 6,
+      "pos": 7,
       "name": "Aarby Volley",
       "k": 0,
       "v": 0,
@@ -56,30 +65,21 @@
       "pts": 0
     },
     {
-      "pos": 7,
-      "name": "VLI.4",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
       "pos": 8,
-      "name": "Gentofte Volley.4",
-      "k": 0,
+      "name": "VLI.4",
+      "k": 1,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 1,
+      "sets": "0-3",
       "pts": 0
     },
     {
       "pos": 9,
-      "name": "KSV.5",
-      "k": 0,
+      "name": "Glostrup IC.2",
+      "k": 1,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 1,
+      "sets": "0-3",
       "pts": 0
     }
   ],

@@ -1,17 +1,35 @@
 {
-  "updatedAt": "2026-09-18T17:30:03.063Z",
+  "updatedAt": "2026-09-21T12:05:38.048Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Amager VK.2",
-      "k": 0,
-      "v": 0,
+      "name": "Pan Volley",
+      "k": 2,
+      "v": 2,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "4-1",
+      "pts": 4
     },
     {
       "pos": 2,
+      "name": "Grøndal EV.2",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-2",
+      "pts": 2
+    },
+    {
+      "pos": 3,
+      "name": "Farum-Holte.2",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "2-2",
+      "pts": 2
+    },
+    {
+      "pos": 4,
       "name": "DTU Volley.2",
       "k": 0,
       "v": 0,
@@ -20,7 +38,7 @@
       "pts": 0
     },
     {
-      "pos": 3,
+      "pos": 5,
       "name": "Enghave VK",
       "k": 0,
       "v": 0,
@@ -29,7 +47,7 @@
       "pts": 0
     },
     {
-      "pos": 4,
+      "pos": 6,
       "name": "Frederiksberg Volley",
       "k": 0,
       "v": 0,
@@ -38,7 +56,7 @@
       "pts": 0
     },
     {
-      "pos": 5,
+      "pos": 7,
       "name": "KSV.2",
       "k": 0,
       "v": 0,
@@ -47,7 +65,7 @@
       "pts": 0
     },
     {
-      "pos": 6,
+      "pos": 8,
       "name": "Grøndal EV.3",
       "k": 0,
       "v": 0,
@@ -56,16 +74,7 @@
       "pts": 0
     },
     {
-      "pos": 7,
-      "name": "Grøndal EV.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 8,
+      "pos": 9,
       "name": "Helsingør VK",
       "k": 0,
       "v": 0,
@@ -74,21 +83,12 @@
       "pts": 0
     },
     {
-      "pos": 9,
-      "name": "Pan Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
       "pos": 10,
-      "name": "Farum-Holte.2",
-      "k": 0,
+      "name": "Amager VK.2",
+      "k": 2,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 2,
+      "sets": "0-4",
       "pts": 0
     }
   ],
@@ -98,7 +98,7 @@
       "time": "10:00",
       "home": "Grøndal EV.2",
       "away": "Pan Volley",
-      "venue": "Sundbyhal 1",
+      "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
       "score": null
     },
@@ -107,7 +107,7 @@
       "time": "11:15",
       "home": "Amager VK.2",
       "away": "Grøndal EV.2",
-      "venue": "Sundbyhal 1",
+      "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
       "score": null
     },
@@ -116,7 +116,7 @@
       "time": "12:30",
       "home": "Pan Volley",
       "away": "Farum-Holte.2",
-      "venue": "Sundbyhal 1",
+      "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
       "score": null
     },
@@ -125,7 +125,7 @@
       "time": "13:45",
       "home": "Amager VK.2",
       "away": "Farum-Holte.2",
-      "venue": "Sundbyhal 1",
+      "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
       "score": null
     },
