@@ -1,8 +1,26 @@
 {
-  "updatedAt": "2026-09-18T17:30:01.723Z",
+  "updatedAt": "2026-09-21T12:05:36.071Z",
   "teams": [
     {
       "pos": 1,
+      "name": "Enghave VK",
+      "k": 1,
+      "v": 1,
+      "t": 0,
+      "sets": "3-0",
+      "pts": 3
+    },
+    {
+      "pos": 2,
+      "name": "KSV.3",
+      "k": 1,
+      "v": 1,
+      "t": 0,
+      "sets": "3-1",
+      "pts": 3
+    },
+    {
+      "pos": 3,
       "name": "Brøndby VK Wildcard",
       "k": 0,
       "v": 0,
@@ -11,16 +29,7 @@
       "pts": 0
     },
     {
-      "pos": 2,
-      "name": "Frederiksberg Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 3,
+      "pos": 4,
       "name": "DTU Volley",
       "k": 0,
       "v": 0,
@@ -29,7 +38,7 @@
       "pts": 0
     },
     {
-      "pos": 4,
+      "pos": 5,
       "name": "Lyngby-Gladsaxe Volley.2",
       "k": 0,
       "v": 0,
@@ -38,25 +47,7 @@
       "pts": 0
     },
     {
-      "pos": 5,
-      "name": "Enghave VK",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
       "pos": 6,
-      "name": "VLI.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 7,
       "name": "Lyngby-Gladsaxe WC",
       "k": 0,
       "v": 0,
@@ -65,8 +56,8 @@
       "pts": 0
     },
     {
-      "pos": 8,
-      "name": "KSV.3",
+      "pos": 7,
+      "name": "Rosenlund Volley",
       "k": 0,
       "v": 0,
       "t": 0,
@@ -74,12 +65,21 @@
       "pts": 0
     },
     {
-      "pos": 9,
-      "name": "Rosenlund Volley",
-      "k": 0,
+      "pos": 8,
+      "name": "VLI.2",
+      "k": 1,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 1,
+      "sets": "1-3",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "Frederiksberg Volley",
+      "k": 1,
+      "v": 0,
+      "t": 1,
+      "sets": "0-3",
       "pts": 0
     }
   ],
