@@ -3,7 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>1. Division Kvinder Øst — Volleyball Danmark</title>
+  <meta name="description" content="KSV — matches, results, and standings for the club's teams." />
+  <meta property="og:title" content="KSV — Matches and standings" />
+  <meta property="og:description" content="Matches, results, and standings for KSV's teams." />
+  <meta property="og:type" content="website" />
+  <title>KSV — Matches and standings</title>
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -302,14 +306,18 @@
     }
 
     .fixture-score {
-      font-size: 20px;
-      font-weight: 800;
+      font-size: 18px;
+      font-weight: 700;
       font-variant-numeric: tabular-nums;
       letter-spacing: 0.02em;
       color: var(--text);
     }
 
-    .fixture-score.pending { color: var(--muted); font-size: 18px; }
+    .fixture-score.pending {
+      color: var(--muted);
+      font-size: 16px;
+      font-weight: 600;
+    }
 
     .fixture-meta {
       font-size: 11px;
@@ -1089,12 +1097,15 @@
           const venueHtml  = venueUrl
             ? `<a class="venue-link" href="${venueUrl}" target="_blank" rel="noopener">📍 ${f.venue}</a>`
             : `📍 ${f.venue}`;
+          const statusHtml = f.score
+            ? ""
+            : `<span class="status-pill pill-pending">${t('upcoming')}</span>`;
           card.innerHTML = `
             <div class="fixture-team home"><div class="fixture-team-inner">${homeLogo}${homeLabel}</div></div>
             <div class="fixture-center">
               ${scoreHtml}
               <span class="fixture-meta">${f.time}</span>
-              ${!f.score ? `<span class="status-pill pill-pending">${t('upcoming')}</span>` : ""}
+              ${statusHtml}
             </div>
             <div class="fixture-team away"><div class="fixture-team-inner">${awayLogo}${awayLabel}</div></div>
             <div class="fixture-venue">${venueHtml}</div>

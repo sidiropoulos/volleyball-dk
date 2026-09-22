@@ -64,6 +64,22 @@ async function scrapeStandings(puljeId) {
   return teams;
 }
 
+function normalizeScore(raw) {
+  if (!raw) return null;
+
+  const cleaned = raw
+    .replace(/\u2013|\u2014/g, '-')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+  if (!cleaned) return null;
+
+  const match = cleaned.match(/^(\d{1,2})\s*[-:]\s*(\d{1,2})(?:\s*\(.+\))?$/);
+  if (!match) return null;
+
+  return `${match[1]}-${match[2]}`;
+}
+
 async function scrapeFixtures(puljeId) {
   const $ = await fetchHtml(`${BASE}/Pulje-Komplet-Kampprogram.aspx?PuljeId=${puljeId}`);
   const fixtures = [];
@@ -83,8 +99,7 @@ async function scrapeFixtures(puljeId) {
 
     const venue   = cell('c05').find('a').text().trim();
     const resultRaw = cell('c06').text().trim();
-    // Expect "3-1" style set score, ignore anything else
-    const score   = /^\d-\d$/.test(resultRaw) ? resultRaw : null;
+    const score   = normalizeScore(resultRaw);
 
     fixtures.push({
       date:    parseDate(parts[0]),

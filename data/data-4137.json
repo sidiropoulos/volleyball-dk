@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T11:01:24.182Z",
+  "updatedAt": "2026-09-22T14:55:26.410Z",
   "teams": [
     {
       "pos": 1,
@@ -100,7 +100,7 @@
       "away": "Pan Volley",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "1-2"
     },
     {
       "date": "2026-09-20",
@@ -109,7 +109,7 @@
       "away": "Grøndal EV.2",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-2"
     },
     {
       "date": "2026-09-20",
@@ -118,7 +118,7 @@
       "away": "Farum-Holte.2",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "2-0"
     },
     {
       "date": "2026-09-20",
@@ -127,7 +127,7 @@
       "away": "Farum-Holte.2",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-2"
     },
     {
       "date": "2026-10-03",

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T11:01:23.461Z",
+  "updatedAt": "2026-09-22T14:55:25.659Z",
   "teams": [
     {
       "pos": 1,
@@ -91,7 +91,7 @@
       "away": "Hillerød G&I",
       "venue": "Aarby Fritidscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "3-1"
     },
     {
       "date": "2026-09-20",
@@ -100,7 +100,7 @@
       "away": "Farum-Holte.2",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "3-2"
     },
     {
       "date": "2026-09-27",
