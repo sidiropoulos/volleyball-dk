@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T12:05:36.371Z",
+  "updatedAt": "2026-09-22T11:01:22.546Z",
   "teams": [
     {
       "pos": 1,
@@ -294,18 +294,18 @@
     {
       "date": "2026-11-22",
       "time": "14:00",
-      "home": "Glostrup IC",
-      "away": "Tårnfalkene",
-      "venue": "Hvissingehallen",
+      "home": "VK Vestsjælland",
+      "away": "Hvidovre VK.2",
+      "venue": "Korsørhallen",
       "mapsUrl": null,
       "score": null
     },
     {
       "date": "2026-11-22",
-      "time": "16:00",
-      "home": "VK Vestsjælland",
-      "away": "Hvidovre VK.2",
-      "venue": "Korsørhallen",
+      "time": "14:00",
+      "home": "Glostrup IC",
+      "away": "Tårnfalkene",
+      "venue": "Hvissingehallen",
       "mapsUrl": null,
       "score": null
     },
@@ -689,19 +689,19 @@
     },
     {
       "date": "2027-04-11",
-      "time": "16:00",
-      "home": "Glostrup IC",
-      "away": "Hillerød G&I",
-      "venue": "Hvissingehallen",
+      "time": "14:00",
+      "home": "VK Vestsjælland",
+      "away": "Taastrup IK",
+      "venue": "Korsørhallen",
       "mapsUrl": null,
       "score": null
     },
     {
       "date": "2027-04-11",
       "time": "16:00",
-      "home": "VK Vestsjælland",
-      "away": "Taastrup IK",
-      "venue": "Korsørhallen",
+      "home": "Glostrup IC",
+      "away": "Hillerød G&I",
+      "venue": "Hvissingehallen",
       "mapsUrl": null,
       "score": null
     },
