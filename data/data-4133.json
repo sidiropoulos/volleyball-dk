@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T13:00:25.156Z",
+  "updatedAt": "2026-09-30T11:58:30.489Z",
   "teams": [
     {
       "pos": 1,
@@ -328,15 +328,6 @@
       "score": null
     },
     {
-      "date": "2026-11-29",
-      "time": "16:30",
-      "home": "VLI.3",
-      "away": "Tårnfalkene",
-      "venue": "Kedelhallen",
-      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
-    },
-    {
       "date": "2026-12-05",
       "time": "13:00",
       "home": "Taastrup IK",
@@ -352,6 +343,15 @@
       "away": "Hillerød G&I",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-12-06",
+      "time": "16:00",
+      "home": "VLI.3",
+      "away": "Tårnfalkene",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
       "score": null
     },
     {
