@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T11:58:30.963Z",
+  "updatedAt": "2026-10-01T12:30:50.926Z",
   "teams": [
     {
       "pos": 1,
@@ -135,24 +135,6 @@
       "home": "Team Køge",
       "away": "Gentofte Volley.2",
       "venue": "Spar Nord Arena",
-      "mapsUrl": null,
-      "score": null
-    },
-    {
-      "date": "2026-10-11",
-      "time": "10:00",
-      "home": "KSV",
-      "away": "DTU Volley",
-      "venue": "Idrætshuset",
-      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
-    },
-    {
-      "date": "2026-10-11",
-      "time": "11:00",
-      "home": "RS Rødovre",
-      "away": "Hvidovre VK.2",
-      "venue": "Rødovrehallen",
       "mapsUrl": null,
       "score": null
     },
@@ -319,6 +301,15 @@
       "score": null
     },
     {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "home": "RS Rødovre",
+      "away": "Hvidovre VK.2",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
       "date": "2026-11-14",
       "time": "14:30",
       "home": "DTU Volley",
@@ -379,6 +370,15 @@
       "away": "VLI",
       "venue": "Rødovrehallen",
       "mapsUrl": null,
+      "score": null
+    },
+    {
+      "date": "2026-11-29",
+      "time": "18:00",
+      "home": "KSV",
+      "away": "DTU Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
       "score": null
     },
     {
