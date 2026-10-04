@@ -1,36 +1,36 @@
 {
-  "updatedAt": "2026-10-03T11:09:52.902Z",
+  "updatedAt": "2026-10-04T11:49:42.934Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Amager Volley.2",
-      "k": 0,
-      "v": 0,
+      "name": "DTU Volley",
+      "k": 1,
+      "v": 1,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "3-0",
+      "pts": 3
     },
     {
       "pos": 2,
       "name": "Hvidovre VK.2",
-      "k": 0,
-      "v": 0,
+      "k": 1,
+      "v": 1,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "3-0",
+      "pts": 3
     },
     {
       "pos": 3,
-      "name": "Frederiksberg Volley",
-      "k": 0,
-      "v": 0,
+      "name": "RS Rødovre",
+      "k": 1,
+      "v": 1,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "3-0",
+      "pts": 3
     },
     {
       "pos": 4,
-      "name": "DTU Volley",
+      "name": "Frederiksberg Volley",
       "k": 0,
       "v": 0,
       "t": 0,
@@ -48,24 +48,6 @@
     },
     {
       "pos": 6,
-      "name": "RS Rødovre",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 7,
-      "name": "Enghave VK",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 8,
       "name": "VLI",
       "k": 0,
       "v": 0,
@@ -74,8 +56,8 @@
       "pts": 0
     },
     {
-      "pos": 9,
-      "name": "Team Køge",
+      "pos": 7,
+      "name": "KSV",
       "k": 0,
       "v": 0,
       "t": 0,
@@ -83,12 +65,30 @@
       "pts": 0
     },
     {
-      "pos": 10,
-      "name": "KSV",
-      "k": 0,
+      "pos": 8,
+      "name": "Amager Volley.2",
+      "k": 1,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 1,
+      "sets": "0-3",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "Enghave VK",
+      "k": 1,
+      "v": 0,
+      "t": 1,
+      "sets": "0-3",
+      "pts": 0
+    },
+    {
+      "pos": 10,
+      "name": "Team Køge",
+      "k": 1,
+      "v": 0,
+      "t": 1,
+      "sets": "0-3",
       "pts": 0
     }
   ],
@@ -100,7 +100,7 @@
       "away": "Enghave VK",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
       "date": "2026-10-03",
@@ -109,7 +109,7 @@
       "away": "RS Rødovre",
       "venue": "Sundbyhal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-3"
     },
     {
       "date": "2026-10-04",
@@ -118,7 +118,7 @@
       "away": "Team Køge",
       "venue": "Engelsborghallen",
       "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
-      "score": null
+      "score": "3-0"
     },
     {
       "date": "2026-10-04",
