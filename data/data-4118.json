@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T11:49:42.934Z",
+  "updatedAt": "2026-10-05T13:42:38.930Z",
   "teams": [
     {
       "pos": 1,
@@ -31,24 +31,24 @@
     {
       "pos": 4,
       "name": "Frederiksberg Volley",
-      "k": 0,
-      "v": 0,
+      "k": 1,
+      "v": 1,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "3-2",
+      "pts": 3
     },
     {
       "pos": 5,
-      "name": "Gentofte Volley.2",
-      "k": 0,
+      "name": "VLI",
+      "k": 1,
       "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "t": 1,
+      "sets": "2-3",
+      "pts": 1
     },
     {
       "pos": 6,
-      "name": "VLI",
+      "name": "Gentofte Volley.2",
       "k": 0,
       "v": 0,
       "t": 0,
@@ -127,7 +127,7 @@
       "away": "VLI",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "3-2"
     },
     {
       "date": "2026-10-10",
