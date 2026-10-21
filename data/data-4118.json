@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T10:58:20.405Z",
+  "updatedAt": "2026-10-21T11:14:07.380Z",
   "teams": [
     {
       "pos": 1,
@@ -212,15 +212,6 @@
     },
     {
       "date": "2026-10-31",
-      "time": "13:00",
-      "home": "Team Køge",
-      "away": "RS Rødovre",
-      "venue": "Spar Nord Arena",
-      "mapsUrl": null,
-      "score": null
-    },
-    {
-      "date": "2026-10-31",
       "time": "14:00",
       "home": "VLI",
       "away": "Hvidovre VK.2",
@@ -253,6 +244,15 @@
       "away": "DTU Volley",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "date": "2026-11-03",
+      "time": "19:00",
+      "home": "Team Køge",
+      "away": "RS Rødovre",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
       "score": null
     },
     {
