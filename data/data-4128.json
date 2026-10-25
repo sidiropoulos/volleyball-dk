@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:14:05.958Z",
+  "updatedAt": "2026-10-25T10:48:09.057Z",
   "teams": [
     {
       "pos": 1,
@@ -12,6 +12,15 @@
     },
     {
       "pos": 2,
+      "name": "KSV.2",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "7-3",
+      "pts": 6
+    },
+    {
+      "pos": 3,
       "name": "Lyngby-Gladsaxe Volley",
       "k": 3,
       "v": 2,
@@ -20,16 +29,16 @@
       "pts": 6
     },
     {
-      "pos": 3,
+      "pos": 4,
       "name": "Amager Volley",
-      "k": 3,
+      "k": 4,
       "v": 2,
-      "t": 1,
-      "sets": "6-6",
+      "t": 2,
+      "sets": "6-9",
       "pts": 6
     },
     {
-      "pos": 4,
+      "pos": 5,
       "name": "VLI",
       "k": 2,
       "v": 1,
@@ -38,7 +47,7 @@
       "pts": 4
     },
     {
-      "pos": 5,
+      "pos": 6,
       "name": "KV 61",
       "k": 3,
       "v": 1,
@@ -47,21 +56,12 @@
       "pts": 4
     },
     {
-      "pos": 6,
+      "pos": 7,
       "name": "Farum VK 2",
       "k": 1,
       "v": 1,
       "t": 0,
       "sets": "3-1",
-      "pts": 3
-    },
-    {
-      "pos": 7,
-      "name": "KSV.2",
-      "k": 2,
-      "v": 1,
-      "t": 1,
-      "sets": "4-3",
       "pts": 3
     },
     {
@@ -199,7 +199,7 @@
       "away": "KSV.2",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-3"
     },
     {
       "date": "2026-10-25",
