@@ -1,72 +1,72 @@
 {
-  "updatedAt": "2026-09-22T14:55:25.017Z",
+  "updatedAt": "2026-10-26T21:45:23.945Z",
   "teams": [
     {
       "pos": 1,
       "name": "VLI.3",
-      "k": 1,
-      "v": 1,
+      "k": 3,
+      "v": 3,
       "t": 0,
-      "sets": "3-0",
-      "pts": 3
+      "sets": "9-1",
+      "pts": 9
     },
     {
       "pos": 2,
-      "name": "Tårnfalkene",
-      "k": 1,
-      "v": 1,
-      "t": 0,
-      "sets": "3-1",
-      "pts": 3
+      "name": "Hvidovre VK.2",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "8-4",
+      "pts": 7
     },
     {
       "pos": 3,
-      "name": "Hvidovre VK.2",
-      "k": 0,
-      "v": 0,
+      "name": "Tårnfalkene",
+      "k": 2,
+      "v": 2,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "6-3",
+      "pts": 6
     },
     {
       "pos": 4,
-      "name": "Taastrup IK",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "KSV.4",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "6-5",
+      "pts": 6
     },
     {
       "pos": 5,
-      "name": "Glostrup IC",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Hillerød G&I",
+      "k": 4,
+      "v": 2,
+      "t": 2,
+      "sets": "7-7",
+      "pts": 6
     },
     {
       "pos": 6,
-      "name": "VK Vestsjælland",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Glostrup IC",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "4-6",
+      "pts": 3
     },
     {
       "pos": 7,
-      "name": "KSV.4",
-      "k": 0,
+      "name": "VK Vestsjælland",
+      "k": 2,
       "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "t": 2,
+      "sets": "3-6",
+      "pts": 1
     },
     {
       "pos": 8,
-      "name": "Hillerød G&I",
+      "name": "Taastrup IK",
       "k": 1,
       "v": 0,
       "t": 1,
@@ -76,15 +76,16 @@
     {
       "pos": 9,
       "name": "Roskilde VK",
-      "k": 1,
+      "k": 3,
       "v": 0,
-      "t": 1,
-      "sets": "0-3",
+      "t": 3,
+      "sets": "0-9",
       "pts": 0
     }
   ],
   "fixtures": [
     {
+      "matchId": 76630,
       "date": "2026-09-20",
       "time": "12:00",
       "home": "Tårnfalkene",
@@ -94,6 +95,7 @@
       "score": "3-1"
     },
     {
+      "matchId": 76641,
       "date": "2026-09-20",
       "time": "15:30",
       "home": "VLI.3",
@@ -103,96 +105,107 @@
       "score": "3-0"
     },
     {
+      "matchId": 76635,
       "date": "2026-09-26",
       "time": "13:00",
       "home": "Taastrup IK",
       "away": "Hvidovre VK.2",
       "venue": "Taastrup Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76652,
       "date": "2026-09-27",
       "time": "14:00",
       "home": "Glostrup IC",
       "away": "VLI.3",
       "venue": "Hvissingehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76618,
       "date": "2026-09-27",
       "time": "18:00",
       "home": "KSV.4",
       "away": "Hillerød G&I",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76620,
       "date": "2026-10-03",
       "time": "11:00",
       "home": "Hvidovre VK.2",
       "away": "KSV.4",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "2-3"
     },
     {
+      "matchId": 76646,
       "date": "2026-10-04",
       "time": "10:00",
       "home": "Roskilde VK",
       "away": "Glostrup IC",
       "venue": "Roskilde Gym.",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76622,
       "date": "2026-10-04",
       "time": "12:00",
       "home": "Hillerød G&I",
       "away": "VLI.3",
       "venue": "Sophienborgskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76619,
       "date": "2026-10-20",
       "time": "19:15",
       "home": "Tårnfalkene",
       "away": "VK Vestsjælland",
       "venue": "Nordregårdskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-2"
     },
     {
+      "matchId": 76613,
       "date": "2026-10-25",
       "time": "10:00",
       "home": "Roskilde VK",
       "away": "KSV.4",
       "venue": "Roskilde Gym.",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76614,
       "date": "2026-10-25",
       "time": "12:00",
       "home": "Glostrup IC",
       "away": "Hvidovre VK.2",
       "venue": "Hvissingehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76612,
       "date": "2026-10-25",
       "time": "12:00",
       "home": "Hillerød G&I",
       "away": "VK Vestsjælland",
       "venue": "Sophienborgskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 76629,
       "date": "2026-10-31",
       "time": "13:00",
       "home": "Hvidovre VK.2",
@@ -202,6 +215,7 @@
       "score": null
     },
     {
+      "matchId": 76643,
       "date": "2026-10-31",
       "time": "14:00",
       "home": "KSV.4",
@@ -211,6 +225,7 @@
       "score": null
     },
     {
+      "matchId": 76615,
       "date": "2026-11-01",
       "time": "10:00",
       "home": "VLI.3",
@@ -220,6 +235,7 @@
       "score": null
     },
     {
+      "matchId": 76627,
       "date": "2026-11-01",
       "time": "17:00",
       "home": "VK Vestsjælland",
@@ -229,6 +245,7 @@
       "score": null
     },
     {
+      "matchId": 76610,
       "date": "2026-11-07",
       "time": "11:00",
       "home": "Hvidovre VK.2",
@@ -238,6 +255,7 @@
       "score": null
     },
     {
+      "matchId": 76639,
       "date": "2026-11-08",
       "time": "12:00",
       "home": "Hillerød G&I",
@@ -247,6 +265,7 @@
       "score": null
     },
     {
+      "matchId": 76679,
       "date": "2026-11-08",
       "time": "12:00",
       "home": "Tårnfalkene",
@@ -256,6 +275,7 @@
       "score": null
     },
     {
+      "matchId": 76698,
       "date": "2026-11-08",
       "time": "16:00",
       "home": "VK Vestsjælland",
@@ -265,6 +285,7 @@
       "score": null
     },
     {
+      "matchId": 76695,
       "date": "2026-11-15",
       "time": "10:00",
       "home": "Roskilde VK",
@@ -274,6 +295,7 @@
       "score": null
     },
     {
+      "matchId": 76638,
       "date": "2026-11-15",
       "time": "16:00",
       "home": "KSV.4",
@@ -283,6 +305,7 @@
       "score": null
     },
     {
+      "matchId": 76626,
       "date": "2026-11-22",
       "time": "12:00",
       "home": "Roskilde VK",
@@ -292,6 +315,7 @@
       "score": null
     },
     {
+      "matchId": 76642,
       "date": "2026-11-22",
       "time": "14:00",
       "home": "VK Vestsjælland",
@@ -301,6 +325,7 @@
       "score": null
     },
     {
+      "matchId": 76654,
       "date": "2026-11-22",
       "time": "14:00",
       "home": "Glostrup IC",
@@ -310,6 +335,7 @@
       "score": null
     },
     {
+      "matchId": 76632,
       "date": "2026-11-28",
       "time": "13:00",
       "home": "Taastrup IK",
@@ -319,6 +345,7 @@
       "score": null
     },
     {
+      "matchId": 76633,
       "date": "2026-11-29",
       "time": "10:00",
       "home": "Glostrup IC",
@@ -328,15 +355,7 @@
       "score": null
     },
     {
-      "date": "2026-11-29",
-      "time": "16:30",
-      "home": "VLI.3",
-      "away": "Tårnfalkene",
-      "venue": "Kedelhallen",
-      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
-    },
-    {
+      "matchId": 76621,
       "date": "2026-12-05",
       "time": "13:00",
       "home": "Taastrup IK",
@@ -346,6 +365,7 @@
       "score": null
     },
     {
+      "matchId": 76645,
       "date": "2026-12-05",
       "time": "15:00",
       "home": "Hvidovre VK.2",
@@ -355,6 +375,17 @@
       "score": null
     },
     {
+      "matchId": 76624,
+      "date": "2026-12-06",
+      "time": "16:00",
+      "home": "VLI.3",
+      "away": "Tårnfalkene",
+      "venue": "Kedelhallen",
+      "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "matchId": 76617,
       "date": "2026-12-06",
       "time": "17:00",
       "home": "VK Vestsjælland",
@@ -364,6 +395,7 @@
       "score": null
     },
     {
+      "matchId": 76628,
       "date": "2026-12-13",
       "time": "10:00",
       "home": "KSV.4",
@@ -373,6 +405,7 @@
       "score": null
     },
     {
+      "matchId": 76647,
       "date": "2026-12-13",
       "time": "10:00",
       "home": "VLI.3",
@@ -382,6 +415,7 @@
       "score": null
     },
     {
+      "matchId": 76649,
       "date": "2026-12-13",
       "time": "12:00",
       "home": "Tårnfalkene",
@@ -391,6 +425,7 @@
       "score": null
     },
     {
+      "matchId": 76636,
       "date": "2026-12-13",
       "time": "14:00",
       "home": "Hillerød G&I",
@@ -400,6 +435,7 @@
       "score": null
     },
     {
+      "matchId": 76650,
       "date": "2027-01-09",
       "time": "13:00",
       "home": "Taastrup IK",
@@ -409,6 +445,7 @@
       "score": null
     },
     {
+      "matchId": 76669,
       "date": "2027-01-10",
       "time": "12:00",
       "home": "Tårnfalkene",
@@ -418,6 +455,7 @@
       "score": null
     },
     {
+      "matchId": 76672,
       "date": "2027-01-10",
       "time": "12:00",
       "home": "Glostrup IC",
@@ -427,6 +465,7 @@
       "score": null
     },
     {
+      "matchId": 76690,
       "date": "2027-01-10",
       "time": "12:00",
       "home": "Hillerød G&I",
@@ -436,6 +475,7 @@
       "score": null
     },
     {
+      "matchId": 76694,
       "date": "2027-01-16",
       "time": "16:00",
       "home": "Hvidovre VK.2",
@@ -445,6 +485,7 @@
       "score": null
     },
     {
+      "matchId": 76691,
       "date": "2027-01-17",
       "time": "14:00",
       "home": "Glostrup IC",
@@ -454,6 +495,7 @@
       "score": null
     },
     {
+      "matchId": 76657,
       "date": "2027-01-17",
       "time": "14:00",
       "home": "VK Vestsjælland",
@@ -463,6 +505,7 @@
       "score": null
     },
     {
+      "matchId": 76683,
       "date": "2027-01-17",
       "time": "14:30",
       "home": "VLI.3",
@@ -472,6 +515,7 @@
       "score": null
     },
     {
+      "matchId": 76689,
       "date": "2027-01-23",
       "time": "13:00",
       "home": "Taastrup IK",
@@ -481,6 +525,7 @@
       "score": null
     },
     {
+      "matchId": 76659,
       "date": "2027-01-24",
       "time": "15:30",
       "home": "Hvidovre VK.2",
@@ -490,6 +535,7 @@
       "score": null
     },
     {
+      "matchId": 76678,
       "date": "2027-01-31",
       "time": "10:00",
       "home": "KSV.4",
@@ -499,6 +545,7 @@
       "score": null
     },
     {
+      "matchId": 76675,
       "date": "2027-01-31",
       "time": "12:00",
       "home": "Hillerød G&I",
@@ -508,6 +555,7 @@
       "score": null
     },
     {
+      "matchId": 76662,
       "date": "2027-01-31",
       "time": "12:00",
       "home": "Roskilde VK",
@@ -517,6 +565,7 @@
       "score": null
     },
     {
+      "matchId": 76673,
       "date": "2027-02-06",
       "time": "13:00",
       "home": "Taastrup IK",
@@ -526,6 +575,7 @@
       "score": null
     },
     {
+      "matchId": 76667,
       "date": "2027-02-07",
       "time": "10:00",
       "home": "VLI.3",
@@ -535,6 +585,7 @@
       "score": null
     },
     {
+      "matchId": 76634,
       "date": "2027-02-07",
       "time": "12:00",
       "home": "Roskilde VK",
@@ -544,6 +595,7 @@
       "score": null
     },
     {
+      "matchId": 76653,
       "date": "2027-02-13",
       "time": "14:00",
       "home": "KSV.4",
@@ -553,6 +605,7 @@
       "score": null
     },
     {
+      "matchId": 76666,
       "date": "2027-02-14",
       "time": "10:00",
       "home": "Glostrup IC",
@@ -562,6 +615,7 @@
       "score": null
     },
     {
+      "matchId": 76665,
       "date": "2027-02-27",
       "time": "14:00",
       "home": "KSV.4",
@@ -571,6 +625,7 @@
       "score": null
     },
     {
+      "matchId": 76692,
       "date": "2027-02-28",
       "time": "12:00",
       "home": "VK Vestsjælland",
@@ -580,6 +635,7 @@
       "score": null
     },
     {
+      "matchId": 76684,
       "date": "2027-03-06",
       "time": "13:00",
       "home": "Taastrup IK",
@@ -589,6 +645,7 @@
       "score": null
     },
     {
+      "matchId": 76688,
       "date": "2027-03-06",
       "time": "18:00",
       "home": "Tårnfalkene",
@@ -598,6 +655,7 @@
       "score": null
     },
     {
+      "matchId": 76686,
       "date": "2027-03-07",
       "time": "12:00",
       "home": "Roskilde VK",
@@ -607,6 +665,7 @@
       "score": null
     },
     {
+      "matchId": 76687,
       "date": "2027-03-13",
       "time": "13:30",
       "home": "Hvidovre VK.2",
@@ -616,6 +675,7 @@
       "score": null
     },
     {
+      "matchId": 76671,
       "date": "2027-03-14",
       "time": "12:00",
       "home": "Hillerød G&I",
@@ -625,6 +685,7 @@
       "score": null
     },
     {
+      "matchId": 76644,
       "date": "2027-03-14",
       "time": "12:00",
       "home": "Tårnfalkene",
@@ -634,6 +695,7 @@
       "score": null
     },
     {
+      "matchId": 76697,
       "date": "2027-03-14",
       "time": "14:00",
       "home": "VLI.3",
@@ -643,6 +705,7 @@
       "score": null
     },
     {
+      "matchId": 76680,
       "date": "2027-04-03",
       "time": "15:00",
       "home": "Hvidovre VK.2",
@@ -652,6 +715,7 @@
       "score": null
     },
     {
+      "matchId": 76609,
       "date": "2027-04-03",
       "time": "16:00",
       "home": "Tårnfalkene",
@@ -661,6 +725,7 @@
       "score": null
     },
     {
+      "matchId": 76663,
       "date": "2027-04-04",
       "time": "12:00",
       "home": "Hillerød G&I",
@@ -670,6 +735,7 @@
       "score": null
     },
     {
+      "matchId": 76655,
       "date": "2027-04-11",
       "time": "10:00",
       "home": "VLI.3",
@@ -679,6 +745,7 @@
       "score": null
     },
     {
+      "matchId": 76658,
       "date": "2027-04-11",
       "time": "12:00",
       "home": "KSV.4",
@@ -688,6 +755,7 @@
       "score": null
     },
     {
+      "matchId": 76677,
       "date": "2027-04-11",
       "time": "14:00",
       "home": "VK Vestsjælland",
@@ -697,6 +765,7 @@
       "score": null
     },
     {
+      "matchId": 76681,
       "date": "2027-04-11",
       "time": "16:00",
       "home": "Glostrup IC",
@@ -706,6 +775,7 @@
       "score": null
     },
     {
+      "matchId": 76660,
       "date": "2027-04-15",
       "time": "19:30",
       "home": "Taastrup IK",
@@ -715,6 +785,7 @@
       "score": null
     },
     {
+      "matchId": 76674,
       "date": "2027-04-18",
       "time": "10:00",
       "home": "Roskilde VK",
@@ -724,6 +795,7 @@
       "score": null
     },
     {
+      "matchId": 76664,
       "date": "2027-04-18",
       "time": "14:00",
       "home": "VK Vestsjælland",

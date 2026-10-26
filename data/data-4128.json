@@ -1,234 +1,250 @@
 {
-  "updatedAt": "2026-09-22T14:55:24.645Z",
+  "updatedAt": "2026-10-26T21:45:14.032Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Amager Volley",
-      "k": 0,
-      "v": 0,
+      "name": "KSV",
+      "k": 3,
+      "v": 3,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "9-0",
+      "pts": 9
     },
     {
       "pos": 2,
-      "name": "Amager Volley.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "KSV.2",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "7-3",
+      "pts": 6
     },
     {
       "pos": 3,
-      "name": "KV 61",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Lynge Uggeløse",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "7-4",
+      "pts": 6
     },
     {
       "pos": 4,
-      "name": "Farum VK 2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Lyngby-Gladsaxe Volley",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "7-6",
+      "pts": 6
     },
     {
       "pos": 5,
-      "name": "Gentofte Volley.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Amager Volley",
+      "k": 4,
+      "v": 2,
+      "t": 2,
+      "sets": "6-9",
+      "pts": 6
     },
     {
       "pos": 6,
-      "name": "Lyngby-Gladsaxe Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "VLI",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "7-7",
+      "pts": 5
     },
     {
       "pos": 7,
-      "name": "Lynge Uggeløse",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "KV 61",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "6-7",
+      "pts": 4
     },
     {
       "pos": 8,
-      "name": "VLI",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Farum VK 2",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-4",
+      "pts": 3
     },
     {
       "pos": 9,
-      "name": "KSV.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Gentofte Volley.2",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "3-8",
+      "pts": 3
     },
     {
       "pos": 10,
-      "name": "KSV",
-      "k": 0,
+      "name": "Amager Volley.2",
+      "k": 3,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 3,
+      "sets": "2-9",
       "pts": 0
     }
   ],
   "fixtures": [
     {
+      "matchId": 76261,
       "date": "2026-09-27",
       "time": "12:00",
       "home": "KV 61",
       "away": "Lyngby-Gladsaxe Volley",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "2-3"
     },
     {
+      "matchId": 76249,
       "date": "2026-10-03",
       "time": "14:00",
       "home": "Amager Volley",
       "away": "Lyngby-Gladsaxe Volley",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 76252,
       "date": "2026-10-03",
       "time": "15:00",
       "home": "Farum VK 2",
       "away": "KSV.2",
       "venue": "Ny Holtehal",
       "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 76251,
       "date": "2026-10-04",
       "time": "12:00",
       "home": "KV 61",
       "away": "VLI",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76253,
       "date": "2026-10-04",
       "time": "14:30",
       "home": "Gentofte Volley.2",
       "away": "KSV",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76255,
       "date": "2026-10-10",
       "time": "13:00",
       "home": "Lynge Uggeløse",
       "away": "KV 61",
       "venue": "Lyngehallen",
       "mapsUrl": "https://maps.google.com/maps?q=Idr%C3%A6tsvej%2014%2C%203540%20Lynge",
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76254,
       "date": "2026-10-10",
       "time": "14:30",
       "home": "Lyngby-Gladsaxe Volley",
       "away": "Amager Volley.2",
       "venue": "Engelsborghallen",
       "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 76257,
       "date": "2026-10-11",
       "time": "14:30",
       "home": "KSV.2",
       "away": "Gentofte Volley.2",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 76256,
       "date": "2026-10-11",
       "time": "16:30",
       "home": "VLI",
       "away": "Amager Volley",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "2-3"
     },
     {
+      "matchId": 76283,
       "date": "2026-10-17",
       "time": "16:00",
       "home": "KSV",
       "away": "Amager Volley",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 76250,
       "date": "2026-10-20",
       "time": "20:00",
       "home": "Amager Volley.2",
       "away": "Lynge Uggeløse",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76259,
       "date": "2026-10-25",
       "time": "10:00",
       "home": "Amager Volley",
       "away": "KSV.2",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76263,
       "date": "2026-10-25",
       "time": "10:00",
       "home": "Gentofte Volley.2",
       "away": "VLI",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "3-2"
     },
     {
+      "matchId": 76260,
       "date": "2026-10-25",
       "time": "12:00",
       "home": "Amager Volley.2",
       "away": "KSV",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76262,
       "date": "2026-10-25",
       "time": "12:00",
       "home": "Farum VK 2",
       "away": "Lynge Uggeløse",
       "venue": "Ny Holtehal",
       "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76265,
       "date": "2026-10-31",
       "time": "16:00",
       "home": "VLI",
@@ -238,6 +254,7 @@
       "score": null
     },
     {
+      "matchId": 76268,
       "date": "2026-11-01",
       "time": "10:00",
       "home": "KSV",
@@ -247,6 +264,7 @@
       "score": null
     },
     {
+      "matchId": 76267,
       "date": "2026-11-01",
       "time": "12:00",
       "home": "KSV.2",
@@ -256,6 +274,7 @@
       "score": null
     },
     {
+      "matchId": 76266,
       "date": "2026-11-01",
       "time": "12:30",
       "home": "Gentofte Volley.2",
@@ -265,6 +284,7 @@
       "score": null
     },
     {
+      "matchId": 76264,
       "date": "2026-11-01",
       "time": "13:00",
       "home": "Lynge Uggeløse",
@@ -274,6 +294,7 @@
       "score": null
     },
     {
+      "matchId": 76272,
       "date": "2026-11-07",
       "time": "14:00",
       "home": "KV 61",
@@ -283,6 +304,7 @@
       "score": null
     },
     {
+      "matchId": 76269,
       "date": "2026-11-07",
       "time": "16:00",
       "home": "Amager Volley.2",
@@ -292,6 +314,7 @@
       "score": null
     },
     {
+      "matchId": 76270,
       "date": "2026-11-07",
       "time": "17:00",
       "home": "Amager Volley",
@@ -301,6 +324,7 @@
       "score": null
     },
     {
+      "matchId": 76273,
       "date": "2026-11-08",
       "time": "10:00",
       "home": "Lyngby-Gladsaxe Volley",
@@ -310,6 +334,7 @@
       "score": null
     },
     {
+      "matchId": 76271,
       "date": "2026-11-08",
       "time": "12:00",
       "home": "VLI",
@@ -319,6 +344,7 @@
       "score": null
     },
     {
+      "matchId": 76274,
       "date": "2026-11-22",
       "time": "10:00",
       "home": "Gentofte Volley.2",
@@ -328,6 +354,7 @@
       "score": null
     },
     {
+      "matchId": 76276,
       "date": "2026-11-22",
       "time": "11:00",
       "home": "Farum VK 2",
@@ -337,6 +364,7 @@
       "score": null
     },
     {
+      "matchId": 76277,
       "date": "2026-11-22",
       "time": "14:30",
       "home": "KSV.2",
@@ -346,6 +374,7 @@
       "score": null
     },
     {
+      "matchId": 76278,
       "date": "2026-11-22",
       "time": "16:30",
       "home": "KSV",
@@ -355,6 +384,7 @@
       "score": null
     },
     {
+      "matchId": 76258,
       "date": "2026-11-28",
       "time": "14:00",
       "home": "KSV",
@@ -364,6 +394,7 @@
       "score": null
     },
     {
+      "matchId": 76275,
       "date": "2026-11-29",
       "time": "12:00",
       "home": "KV 61",
@@ -373,6 +404,7 @@
       "score": null
     },
     {
+      "matchId": 76280,
       "date": "2026-12-06",
       "time": "10:00",
       "home": "Lyngby-Gladsaxe Volley",
@@ -382,6 +414,7 @@
       "score": null
     },
     {
+      "matchId": 76281,
       "date": "2026-12-06",
       "time": "13:00",
       "home": "Lynge Uggeløse",
@@ -391,8 +424,9 @@
       "score": null
     },
     {
+      "matchId": 76279,
       "date": "2026-12-06",
-      "time": "15:30",
+      "time": "13:00",
       "home": "Farum VK 2",
       "away": "KV 61",
       "venue": "Ny Holtehal",
@@ -400,6 +434,7 @@
       "score": null
     },
     {
+      "matchId": 76287,
       "date": "2026-12-12",
       "time": "13:00",
       "home": "Lynge Uggeløse",
@@ -409,6 +444,7 @@
       "score": null
     },
     {
+      "matchId": 76288,
       "date": "2026-12-12",
       "time": "18:00",
       "home": "VLI",
@@ -418,6 +454,7 @@
       "score": null
     },
     {
+      "matchId": 76284,
       "date": "2026-12-13",
       "time": "10:00",
       "home": "Amager Volley",
@@ -427,6 +464,7 @@
       "score": null
     },
     {
+      "matchId": 76285,
       "date": "2026-12-13",
       "time": "14:00",
       "home": "Amager Volley.2",
@@ -436,6 +474,7 @@
       "score": null
     },
     {
+      "matchId": 76286,
       "date": "2026-12-13",
       "time": "14:30",
       "home": "Gentofte Volley.2",
@@ -445,6 +484,7 @@
       "score": null
     },
     {
+      "matchId": 76289,
       "date": "2027-01-09",
       "time": "15:30",
       "home": "Amager Volley",
@@ -454,6 +494,7 @@
       "score": null
     },
     {
+      "matchId": 76291,
       "date": "2027-01-09",
       "time": "15:30",
       "home": "Farum VK 2",
@@ -463,6 +504,7 @@
       "score": null
     },
     {
+      "matchId": 76290,
       "date": "2027-01-10",
       "time": "12:00",
       "home": "KV 61",
@@ -472,6 +514,7 @@
       "score": null
     },
     {
+      "matchId": 76292,
       "date": "2027-01-10",
       "time": "19:30",
       "home": "Lyngby-Gladsaxe Volley",
@@ -481,6 +524,7 @@
       "score": null
     },
     {
+      "matchId": 76296,
       "date": "2027-01-16",
       "time": "18:00",
       "home": "VLI",
@@ -490,6 +534,7 @@
       "score": null
     },
     {
+      "matchId": 76294,
       "date": "2027-01-17",
       "time": "10:00",
       "home": "Lyngby-Gladsaxe Volley",
@@ -499,6 +544,7 @@
       "score": null
     },
     {
+      "matchId": 76298,
       "date": "2027-01-17",
       "time": "12:00",
       "home": "KSV",
@@ -508,6 +554,7 @@
       "score": null
     },
     {
+      "matchId": 76295,
       "date": "2027-01-17",
       "time": "13:00",
       "home": "Lynge Uggeløse",
@@ -517,6 +564,7 @@
       "score": null
     },
     {
+      "matchId": 76297,
       "date": "2027-01-17",
       "time": "16:30",
       "home": "KSV.2",
@@ -526,6 +574,7 @@
       "score": null
     },
     {
+      "matchId": 76303,
       "date": "2027-01-30",
       "time": "12:00",
       "home": "Farum VK 2",
@@ -535,6 +584,7 @@
       "score": null
     },
     {
+      "matchId": 76299,
       "date": "2027-01-30",
       "time": "15:30",
       "home": "Amager Volley.2",
@@ -544,6 +594,7 @@
       "score": null
     },
     {
+      "matchId": 76302,
       "date": "2027-01-31",
       "time": "12:30",
       "home": "Gentofte Volley.2",
@@ -553,6 +604,7 @@
       "score": null
     },
     {
+      "matchId": 76301,
       "date": "2027-01-31",
       "time": "13:00",
       "home": "Amager Volley",
@@ -562,6 +614,7 @@
       "score": null
     },
     {
+      "matchId": 76300,
       "date": "2027-01-31",
       "time": "16:00",
       "home": "KV 61",
@@ -571,6 +624,7 @@
       "score": null
     },
     {
+      "matchId": 76307,
       "date": "2027-02-09",
       "time": "20:00",
       "home": "Lynge Uggeløse",
@@ -580,6 +634,7 @@
       "score": null
     },
     {
+      "matchId": 76306,
       "date": "2027-02-13",
       "time": "14:30",
       "home": "Lyngby-Gladsaxe Volley",
@@ -589,6 +644,7 @@
       "score": null
     },
     {
+      "matchId": 76305,
       "date": "2027-02-14",
       "time": "12:00",
       "home": "KSV",
@@ -598,6 +654,7 @@
       "score": null
     },
     {
+      "matchId": 76308,
       "date": "2027-02-14",
       "time": "12:00",
       "home": "VLI",
@@ -607,6 +664,7 @@
       "score": null
     },
     {
+      "matchId": 76304,
       "date": "2027-02-14",
       "time": "16:30",
       "home": "KSV.2",
@@ -616,6 +674,7 @@
       "score": null
     },
     {
+      "matchId": 76282,
       "date": "2027-02-20",
       "time": "16:00",
       "home": "KSV.2",
@@ -625,6 +684,7 @@
       "score": null
     },
     {
+      "matchId": 76310,
       "date": "2027-02-27",
       "time": "15:30",
       "home": "Amager Volley.2",
@@ -634,6 +694,7 @@
       "score": null
     },
     {
+      "matchId": 76312,
       "date": "2027-02-28",
       "time": "10:00",
       "home": "Lyngby-Gladsaxe Volley",
@@ -643,6 +704,7 @@
       "score": null
     },
     {
+      "matchId": 76313,
       "date": "2027-02-28",
       "time": "10:00",
       "home": "KV 61",
@@ -652,6 +714,7 @@
       "score": null
     },
     {
+      "matchId": 76311,
       "date": "2027-02-28",
       "time": "11:30",
       "home": "Farum VK 2",
@@ -661,6 +724,7 @@
       "score": null
     },
     {
+      "matchId": 76309,
       "date": "2027-02-28",
       "time": "13:00",
       "home": "Amager Volley",
@@ -670,6 +734,7 @@
       "score": null
     },
     {
+      "matchId": 76293,
       "date": "2027-03-06",
       "time": "14:00",
       "home": "KSV",
@@ -679,6 +744,7 @@
       "score": null
     },
     {
+      "matchId": 76315,
       "date": "2027-03-13",
       "time": "14:00",
       "home": "Farum VK 2",
@@ -688,6 +754,7 @@
       "score": null
     },
     {
+      "matchId": 76317,
       "date": "2027-03-14",
       "time": "10:00",
       "home": "KSV.2",
@@ -697,6 +764,7 @@
       "score": null
     },
     {
+      "matchId": 76316,
       "date": "2027-03-14",
       "time": "13:00",
       "home": "Lynge Uggeløse",
@@ -706,6 +774,7 @@
       "score": null
     },
     {
+      "matchId": 76318,
       "date": "2027-03-14",
       "time": "14:00",
       "home": "KSV",
@@ -715,6 +784,7 @@
       "score": null
     },
     {
+      "matchId": 76314,
       "date": "2027-03-14",
       "time": "14:30",
       "home": "Gentofte Volley.2",
@@ -724,6 +794,7 @@
       "score": null
     },
     {
+      "matchId": 76323,
       "date": "2027-03-20",
       "time": "13:00",
       "home": "Lynge Uggeløse",
@@ -733,6 +804,7 @@
       "score": null
     },
     {
+      "matchId": 76321,
       "date": "2027-03-20",
       "time": "14:30",
       "home": "Lyngby-Gladsaxe Volley",
@@ -742,6 +814,7 @@
       "score": null
     },
     {
+      "matchId": 76320,
       "date": "2027-03-20",
       "time": "15:30",
       "home": "Amager Volley.2",
@@ -751,6 +824,7 @@
       "score": null
     },
     {
+      "matchId": 76319,
       "date": "2027-03-21",
       "time": "11:00",
       "home": "Amager Volley",
@@ -760,6 +834,7 @@
       "score": null
     },
     {
+      "matchId": 76322,
       "date": "2027-03-21",
       "time": "14:30",
       "home": "VLI",
@@ -769,6 +844,7 @@
       "score": null
     },
     {
+      "matchId": 76324,
       "date": "2027-04-04",
       "time": "12:00",
       "home": "KV 61",
@@ -778,6 +854,7 @@
       "score": null
     },
     {
+      "matchId": 76326,
       "date": "2027-04-04",
       "time": "12:30",
       "home": "Gentofte Volley.2",
@@ -787,6 +864,7 @@
       "score": null
     },
     {
+      "matchId": 76327,
       "date": "2027-04-04",
       "time": "13:00",
       "home": "Amager Volley.2",
@@ -796,6 +874,7 @@
       "score": null
     },
     {
+      "matchId": 76328,
       "date": "2027-04-04",
       "time": "15:00",
       "home": "Amager Volley",
@@ -805,6 +884,7 @@
       "score": null
     },
     {
+      "matchId": 76325,
       "date": "2027-04-04",
       "time": "16:30",
       "home": "VLI",
@@ -814,6 +894,7 @@
       "score": null
     },
     {
+      "matchId": 76329,
       "date": "2027-04-17",
       "time": "16:00",
       "home": "KV 61",
@@ -823,6 +904,7 @@
       "score": null
     },
     {
+      "matchId": 76332,
       "date": "2027-04-18",
       "time": "10:00",
       "home": "KSV.2",
@@ -832,6 +914,7 @@
       "score": null
     },
     {
+      "matchId": 76333,
       "date": "2027-04-18",
       "time": "12:00",
       "home": "KSV",
@@ -841,6 +924,7 @@
       "score": null
     },
     {
+      "matchId": 76331,
       "date": "2027-04-18",
       "time": "12:00",
       "home": "Lyngby-Gladsaxe Volley",
@@ -850,6 +934,7 @@
       "score": null
     },
     {
+      "matchId": 76330,
       "date": "2027-04-18",
       "time": "12:30",
       "home": "Farum VK 2",
@@ -859,6 +944,7 @@
       "score": null
     },
     {
+      "matchId": 76337,
       "date": "2027-04-24",
       "time": "13:00",
       "home": "Lynge Uggeløse",
@@ -868,6 +954,7 @@
       "score": null
     },
     {
+      "matchId": 76338,
       "date": "2027-04-24",
       "time": "14:00",
       "home": "KSV.2",
@@ -877,6 +964,7 @@
       "score": null
     },
     {
+      "matchId": 76336,
       "date": "2027-04-25",
       "time": "10:00",
       "home": "VLI",
@@ -886,6 +974,7 @@
       "score": null
     },
     {
+      "matchId": 76334,
       "date": "2027-04-25",
       "time": "14:00",
       "home": "Amager Volley.2",
@@ -895,6 +984,7 @@
       "score": null
     },
     {
+      "matchId": 76335,
       "date": "2027-04-25",
       "time": "14:30",
       "home": "Gentofte Volley.2",

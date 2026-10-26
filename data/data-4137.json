@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T14:55:26.410Z",
+  "updatedAt": "2026-10-26T21:45:30.919Z",
   "teams": [
     {
       "pos": 1,
@@ -12,6 +12,15 @@
     },
     {
       "pos": 2,
+      "name": "Enghave VK",
+      "k": 2,
+      "v": 2,
+      "t": 0,
+      "sets": "4-1",
+      "pts": 4
+    },
+    {
+      "pos": 3,
       "name": "Grøndal EV.2",
       "k": 2,
       "v": 1,
@@ -20,7 +29,16 @@
       "pts": 2
     },
     {
-      "pos": 3,
+      "pos": 4,
+      "name": "KSV.2",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-3",
+      "pts": 2
+    },
+    {
+      "pos": 5,
       "name": "Farum-Holte.2",
       "k": 2,
       "v": 1,
@@ -29,7 +47,7 @@
       "pts": 2
     },
     {
-      "pos": 4,
+      "pos": 6,
       "name": "DTU Volley.2",
       "k": 0,
       "v": 0,
@@ -38,34 +56,7 @@
       "pts": 0
     },
     {
-      "pos": 5,
-      "name": "Enghave VK",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 6,
-      "name": "Frederiksberg Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
       "pos": 7,
-      "name": "KSV.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 8,
       "name": "Grøndal EV.3",
       "k": 0,
       "v": 0,
@@ -74,12 +65,21 @@
       "pts": 0
     },
     {
-      "pos": 9,
+      "pos": 8,
       "name": "Helsingør VK",
       "k": 0,
       "v": 0,
       "t": 0,
       "sets": "—",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "Frederiksberg Volley",
+      "k": 2,
+      "v": 0,
+      "t": 2,
+      "sets": "1-4",
       "pts": 0
     },
     {
@@ -94,6 +94,7 @@
   ],
   "fixtures": [
     {
+      "matchId": 78035,
       "date": "2026-09-20",
       "time": "10:00",
       "home": "Grøndal EV.2",
@@ -103,6 +104,7 @@
       "score": "1-2"
     },
     {
+      "matchId": 78033,
       "date": "2026-09-20",
       "time": "11:15",
       "home": "Amager VK.2",
@@ -112,6 +114,7 @@
       "score": "0-2"
     },
     {
+      "matchId": 78036,
       "date": "2026-09-20",
       "time": "12:30",
       "home": "Pan Volley",
@@ -121,6 +124,7 @@
       "score": "2-0"
     },
     {
+      "matchId": 78034,
       "date": "2026-09-20",
       "time": "13:45",
       "home": "Amager VK.2",
@@ -130,33 +134,37 @@
       "score": "0-2"
     },
     {
+      "matchId": 78037,
       "date": "2026-10-03",
       "time": "14:00",
       "home": "Enghave VK",
       "away": "Frederiksberg Volley",
       "venue": "Bavnehøjhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-0"
     },
     {
+      "matchId": 78039,
       "date": "2026-10-03",
       "time": "15:15",
       "home": "Frederiksberg Volley",
       "away": "KSV.2",
       "venue": "Bavnehøjhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "1-2"
     },
     {
+      "matchId": 78038,
       "date": "2026-10-03",
       "time": "16:30",
       "home": "Enghave VK",
       "away": "KSV.2",
       "venue": "Bavnehøjhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-1"
     },
     {
+      "matchId": 78043,
       "date": "2026-10-31",
       "time": "10:00",
       "home": "DTU Volley.2",
@@ -166,6 +174,7 @@
       "score": null
     },
     {
+      "matchId": 78045,
       "date": "2026-10-31",
       "time": "11:15",
       "home": "Helsingør VK",
@@ -175,6 +184,7 @@
       "score": null
     },
     {
+      "matchId": 78044,
       "date": "2026-10-31",
       "time": "12:30",
       "home": "DTU Volley.2",
@@ -184,6 +194,7 @@
       "score": null
     },
     {
+      "matchId": 78049,
       "date": "2026-11-01",
       "time": "10:00",
       "home": "Grøndal EV.3",
@@ -193,6 +204,7 @@
       "score": null
     },
     {
+      "matchId": 78048,
       "date": "2026-11-01",
       "time": "11:00",
       "home": "Enghave VK",
@@ -202,6 +214,7 @@
       "score": null
     },
     {
+      "matchId": 78050,
       "date": "2026-11-01",
       "time": "11:15",
       "home": "Grøndal EV.2",
@@ -211,6 +224,7 @@
       "score": null
     },
     {
+      "matchId": 78046,
       "date": "2026-11-01",
       "time": "12:15",
       "home": "Amager VK.2",
@@ -220,6 +234,7 @@
       "score": null
     },
     {
+      "matchId": 78051,
       "date": "2026-11-01",
       "time": "12:30",
       "home": "Grøndal EV.3",
@@ -229,6 +244,7 @@
       "score": null
     },
     {
+      "matchId": 78047,
       "date": "2026-11-01",
       "time": "13:30",
       "home": "Amager VK.2",
@@ -238,6 +254,7 @@
       "score": null
     },
     {
+      "matchId": 78052,
       "date": "2026-11-01",
       "time": "13:45",
       "home": "Grøndal EV.2",
@@ -247,6 +264,7 @@
       "score": null
     },
     {
+      "matchId": 78053,
       "date": "2026-11-15",
       "time": "10:00",
       "home": "Amager VK.2",
@@ -256,6 +274,7 @@
       "score": null
     },
     {
+      "matchId": 78058,
       "date": "2026-11-15",
       "time": "10:00",
       "home": "Grøndal EV.3",
@@ -265,6 +284,7 @@
       "score": null
     },
     {
+      "matchId": 78060,
       "date": "2026-11-15",
       "time": "10:00",
       "home": "DTU Volley.2",
@@ -274,6 +294,7 @@
       "score": null
     },
     {
+      "matchId": 78056,
       "date": "2026-11-15",
       "time": "11:15",
       "home": "KSV.2",
@@ -283,6 +304,7 @@
       "score": null
     },
     {
+      "matchId": 78062,
       "date": "2026-11-15",
       "time": "11:15",
       "home": "Enghave VK",
@@ -292,6 +314,7 @@
       "score": null
     },
     {
+      "matchId": 78054,
       "date": "2026-11-15",
       "time": "11:15",
       "home": "Amager VK.2",
@@ -301,6 +324,7 @@
       "score": null
     },
     {
+      "matchId": 78055,
       "date": "2026-11-15",
       "time": "12:30",
       "home": "Frederiksberg Volley",
@@ -310,6 +334,7 @@
       "score": null
     },
     {
+      "matchId": 78061,
       "date": "2026-11-15",
       "time": "12:30",
       "home": "DTU Volley.2",
@@ -319,6 +344,7 @@
       "score": null
     },
     {
+      "matchId": 78059,
       "date": "2026-11-15",
       "time": "12:30",
       "home": "Grøndal EV.3",
@@ -328,6 +354,7 @@
       "score": null
     },
     {
+      "matchId": 78057,
       "date": "2026-11-15",
       "time": "13:45",
       "home": "KSV.2",
@@ -337,6 +364,7 @@
       "score": null
     },
     {
+      "matchId": 78071,
       "date": "2026-12-12",
       "time": "10:00",
       "home": "Enghave VK",
@@ -346,6 +374,7 @@
       "score": null
     },
     {
+      "matchId": 78070,
       "date": "2026-12-12",
       "time": "11:15",
       "home": "Enghave VK",
@@ -355,6 +384,7 @@
       "score": null
     },
     {
+      "matchId": 78072,
       "date": "2026-12-12",
       "time": "12:30",
       "home": "KSV.2",
@@ -364,6 +394,7 @@
       "score": null
     },
     {
+      "matchId": 78063,
       "date": "2026-12-13",
       "time": "10:00",
       "home": "Amager VK.2",
@@ -373,6 +404,7 @@
       "score": null
     },
     {
+      "matchId": 78068,
       "date": "2026-12-13",
       "time": "10:00",
       "home": "DTU Volley.2",
@@ -382,6 +414,7 @@
       "score": null
     },
     {
+      "matchId": 78069,
       "date": "2026-12-13",
       "time": "11:15",
       "home": "Frederiksberg Volley",
@@ -391,6 +424,7 @@
       "score": null
     },
     {
+      "matchId": 78064,
       "date": "2026-12-13",
       "time": "11:15",
       "home": "Amager VK.2",
@@ -400,6 +434,7 @@
       "score": null
     },
     {
+      "matchId": 78065,
       "date": "2026-12-13",
       "time": "12:30",
       "home": "Grøndal EV.3",
@@ -409,6 +444,7 @@
       "score": null
     },
     {
+      "matchId": 78067,
       "date": "2026-12-13",
       "time": "12:30",
       "home": "DTU Volley.2",
@@ -418,6 +454,7 @@
       "score": null
     },
     {
+      "matchId": 78066,
       "date": "2026-12-13",
       "time": "13:45",
       "home": "Grøndal EV.2",
@@ -427,6 +464,7 @@
       "score": null
     },
     {
+      "matchId": 78078,
       "date": "2027-01-10",
       "time": "10:00",
       "home": "Grøndal EV.2",
@@ -436,6 +474,7 @@
       "score": null
     },
     {
+      "matchId": 78079,
       "date": "2027-01-10",
       "time": "11:15",
       "home": "Helsingør VK",
@@ -445,6 +484,7 @@
       "score": null
     },
     {
+      "matchId": 78077,
       "date": "2027-01-10",
       "time": "12:30",
       "home": "Grøndal EV.2",
@@ -454,6 +494,7 @@
       "score": null
     },
     {
+      "matchId": 78075,
       "date": "2027-01-17",
       "time": "10:00",
       "home": "Frederiksberg Volley",
@@ -463,6 +504,7 @@
       "score": null
     },
     {
+      "matchId": 78080,
       "date": "2027-01-17",
       "time": "10:00",
       "home": "Amager VK.2",
@@ -472,6 +514,7 @@
       "score": null
     },
     {
+      "matchId": 78081,
       "date": "2027-01-17",
       "time": "11:15",
       "home": "Amager VK.2",
@@ -481,6 +524,7 @@
       "score": null
     },
     {
+      "matchId": 78073,
       "date": "2027-01-17",
       "time": "11:15",
       "home": "Enghave VK",
@@ -490,6 +534,7 @@
       "score": null
     },
     {
+      "matchId": 78076,
       "date": "2027-01-17",
       "time": "12:30",
       "home": "Frederiksberg Volley",
@@ -499,6 +544,7 @@
       "score": null
     },
     {
+      "matchId": 78082,
       "date": "2027-01-17",
       "time": "12:30",
       "home": "KSV.2",
@@ -508,6 +554,7 @@
       "score": null
     },
     {
+      "matchId": 78074,
       "date": "2027-01-17",
       "time": "13:45",
       "home": "Enghave VK",
@@ -517,6 +564,7 @@
       "score": null
     },
     {
+      "matchId": 78091,
       "date": "2027-01-30",
       "time": "10:00",
       "home": "Enghave VK",
@@ -526,6 +574,7 @@
       "score": null
     },
     {
+      "matchId": 78090,
       "date": "2027-01-30",
       "time": "11:15",
       "home": "Enghave VK",
@@ -535,6 +584,7 @@
       "score": null
     },
     {
+      "matchId": 78092,
       "date": "2027-01-30",
       "time": "12:30",
       "home": "Helsingør VK",
@@ -544,6 +594,7 @@
       "score": null
     },
     {
+      "matchId": 78087,
       "date": "2027-01-31",
       "time": "10:00",
       "home": "Amager VK.2",
@@ -553,6 +604,7 @@
       "score": null
     },
     {
+      "matchId": 78085,
       "date": "2027-01-31",
       "time": "11:00",
       "home": "KSV.2",
@@ -562,6 +614,7 @@
       "score": null
     },
     {
+      "matchId": 78088,
       "date": "2027-01-31",
       "time": "11:15",
       "home": "Amager VK.2",
@@ -571,6 +624,7 @@
       "score": null
     },
     {
+      "matchId": 78083,
       "date": "2027-01-31",
       "time": "12:15",
       "home": "Frederiksberg Volley",
@@ -580,6 +634,7 @@
       "score": null
     },
     {
+      "matchId": 78089,
       "date": "2027-01-31",
       "time": "12:30",
       "home": "Grøndal EV.3",
@@ -589,6 +644,7 @@
       "score": null
     },
     {
+      "matchId": 78086,
       "date": "2027-01-31",
       "time": "13:30",
       "home": "Pan Volley",
@@ -598,6 +654,7 @@
       "score": null
     },
     {
+      "matchId": 78084,
       "date": "2027-01-31",
       "time": "14:45",
       "home": "Frederiksberg Volley",
@@ -607,6 +664,7 @@
       "score": null
     },
     {
+      "matchId": 78097,
       "date": "2027-02-07",
       "time": "10:00",
       "home": "Amager VK.2",
@@ -616,6 +674,7 @@
       "score": null
     },
     {
+      "matchId": 78096,
       "date": "2027-02-07",
       "time": "11:15",
       "home": "Amager VK.2",
@@ -625,6 +684,7 @@
       "score": null
     },
     {
+      "matchId": 78099,
       "date": "2027-02-07",
       "time": "12:30",
       "home": "Grøndal EV.3",
@@ -634,6 +694,7 @@
       "score": null
     },
     {
+      "matchId": 78098,
       "date": "2027-02-07",
       "time": "13:45",
       "home": "KSV.2",
@@ -643,6 +704,7 @@
       "score": null
     },
     {
+      "matchId": 78041,
       "date": "2027-02-13",
       "time": "10:00",
       "home": "Helsingør VK",
@@ -652,6 +714,7 @@
       "score": null
     },
     {
+      "matchId": 78040,
       "date": "2027-02-13",
       "time": "11:15",
       "home": "DTU Volley.2",
@@ -661,6 +724,7 @@
       "score": null
     },
     {
+      "matchId": 78042,
       "date": "2027-02-13",
       "time": "12:30",
       "home": "Helsingør VK",
@@ -670,6 +734,7 @@
       "score": null
     },
     {
+      "matchId": 78102,
       "date": "2027-02-27",
       "time": "10:00",
       "home": "Farum-Holte.2",
@@ -679,6 +744,7 @@
       "score": null
     },
     {
+      "matchId": 78101,
       "date": "2027-02-27",
       "time": "11:15",
       "home": "Frederiksberg Volley",
@@ -688,6 +754,7 @@
       "score": null
     },
     {
+      "matchId": 78100,
       "date": "2027-02-27",
       "time": "12:30",
       "home": "Frederiksberg Volley",
@@ -697,6 +764,7 @@
       "score": null
     },
     {
+      "matchId": 78093,
       "date": "2027-02-28",
       "time": "14:00",
       "home": "DTU Volley.2",
@@ -706,6 +774,7 @@
       "score": null
     },
     {
+      "matchId": 78094,
       "date": "2027-02-28",
       "time": "15:15",
       "home": "DTU Volley.2",
@@ -715,6 +784,7 @@
       "score": null
     },
     {
+      "matchId": 78095,
       "date": "2027-02-28",
       "time": "16:30",
       "home": "Pan Volley",
@@ -724,6 +794,7 @@
       "score": null
     },
     {
+      "matchId": 78109,
       "date": "2027-03-07",
       "time": "10:00",
       "home": "Enghave VK",
@@ -733,6 +804,7 @@
       "score": null
     },
     {
+      "matchId": 78107,
       "date": "2027-03-07",
       "time": "11:15",
       "home": "Amager VK.2",
@@ -742,6 +814,7 @@
       "score": null
     },
     {
+      "matchId": 78108,
       "date": "2027-03-07",
       "time": "12:30",
       "home": "Amager VK.2",
@@ -751,6 +824,7 @@
       "score": null
     },
     {
+      "matchId": 78103,
       "date": "2027-03-07",
       "time": "15:15",
       "home": "KSV.2",
@@ -760,6 +834,7 @@
       "score": null
     },
     {
+      "matchId": 78105,
       "date": "2027-03-07",
       "time": "16:30",
       "home": "Grøndal EV.3",
@@ -769,6 +844,7 @@
       "score": null
     },
     {
+      "matchId": 78104,
       "date": "2027-03-07",
       "time": "17:45",
       "home": "KSV.2",
@@ -778,6 +854,7 @@
       "score": null
     },
     {
+      "matchId": 78106,
       "date": "2027-03-07",
       "time": "19:00",
       "home": "Grøndal EV.3",
@@ -787,6 +864,7 @@
       "score": null
     },
     {
+      "matchId": 78110,
       "date": "2027-03-14",
       "time": "10:00",
       "home": "DTU Volley.2",
@@ -796,6 +874,7 @@
       "score": null
     },
     {
+      "matchId": 78111,
       "date": "2027-03-14",
       "time": "11:15",
       "home": "DTU Volley.2",
@@ -805,6 +884,7 @@
       "score": null
     },
     {
+      "matchId": 78112,
       "date": "2027-03-14",
       "time": "12:30",
       "home": "Grøndal EV.2",
@@ -814,6 +894,7 @@
       "score": null
     },
     {
+      "matchId": 78116,
       "date": "2027-04-04",
       "time": "10:00",
       "home": "Enghave VK",
@@ -823,6 +904,7 @@
       "score": null
     },
     {
+      "matchId": 78114,
       "date": "2027-04-04",
       "time": "10:00",
       "home": "Amager VK.2",
@@ -832,6 +914,7 @@
       "score": null
     },
     {
+      "matchId": 78121,
       "date": "2027-04-04",
       "time": "10:00",
       "home": "Frederiksberg Volley",
@@ -841,6 +924,7 @@
       "score": null
     },
     {
+      "matchId": 78122,
       "date": "2027-04-04",
       "time": "11:15",
       "home": "KSV.2",
@@ -850,6 +934,7 @@
       "score": null
     },
     {
+      "matchId": 78115,
       "date": "2027-04-04",
       "time": "11:15",
       "home": "Helsingør VK",
@@ -859,6 +944,7 @@
       "score": null
     },
     {
+      "matchId": 78117,
       "date": "2027-04-04",
       "time": "11:15",
       "home": "Enghave VK",
@@ -868,6 +954,7 @@
       "score": null
     },
     {
+      "matchId": 78118,
       "date": "2027-04-04",
       "time": "12:30",
       "home": "Grøndal EV.3",
@@ -877,6 +964,7 @@
       "score": null
     },
     {
+      "matchId": 78119,
       "date": "2027-04-04",
       "time": "12:30",
       "home": "DTU Volley.2",
@@ -886,6 +974,7 @@
       "score": null
     },
     {
+      "matchId": 78113,
       "date": "2027-04-04",
       "time": "12:30",
       "home": "Amager VK.2",
@@ -895,6 +984,7 @@
       "score": null
     },
     {
+      "matchId": 78120,
       "date": "2027-04-04",
       "time": "13:45",
       "home": "DTU Volley.2",

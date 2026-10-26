@@ -1,90 +1,91 @@
 {
-  "updatedAt": "2026-09-22T14:55:25.659Z",
+  "updatedAt": "2026-10-26T21:45:28.397Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Aarby Volley",
-      "k": 1,
-      "v": 1,
+      "name": "Gentofte Volley.3",
+      "k": 4,
+      "v": 4,
       "t": 0,
-      "sets": "3-1",
-      "pts": 3
+      "sets": "12-3",
+      "pts": 12
     },
     {
       "pos": 2,
-      "name": "Gentofte Volley.3",
-      "k": 1,
-      "v": 1,
-      "t": 0,
-      "sets": "3-2",
-      "pts": 3
+      "name": "Hillerød G&I",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "7-3",
+      "pts": 6
     },
     {
       "pos": 3,
-      "name": "Farum-Holte.2",
-      "k": 1,
-      "v": 0,
+      "name": "KSV.2",
+      "k": 3,
+      "v": 2,
       "t": 1,
-      "sets": "2-3",
-      "pts": 1
+      "sets": "6-5",
+      "pts": 6
     },
     {
       "pos": 4,
-      "name": "Amager Volley.3",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Aarby Volley",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "5-4",
+      "pts": 4
     },
     {
       "pos": 5,
-      "name": "VK Næstved",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "B1960",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "4-3",
+      "pts": 3
     },
     {
       "pos": 6,
-      "name": "B1960",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Grøndal EV",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-3",
+      "pts": 3
     },
     {
       "pos": 7,
-      "name": "Grøndal EV",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Amager Volley.3",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "3-6",
+      "pts": 3
     },
     {
       "pos": 8,
-      "name": "KSV.2",
-      "k": 0,
+      "name": "Farum-Holte.2",
+      "k": 3,
       "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "t": 3,
+      "sets": "2-9",
+      "pts": 1
     },
     {
       "pos": 9,
-      "name": "Hillerød G&I",
-      "k": 1,
+      "name": "VK Næstved",
+      "k": 2,
       "v": 0,
-      "t": 1,
-      "sets": "1-3",
+      "t": 2,
+      "sets": "0-6",
       "pts": 0
     }
   ],
   "fixtures": [
     {
+      "matchId": 77379,
       "date": "2026-09-20",
       "time": "12:00",
       "home": "Aarby Volley",
@@ -94,6 +95,7 @@
       "score": "3-1"
     },
     {
+      "matchId": 77438,
       "date": "2026-09-20",
       "time": "16:30",
       "home": "Gentofte Volley.3",
@@ -103,24 +105,27 @@
       "score": "3-2"
     },
     {
+      "matchId": 77425,
       "date": "2026-09-27",
       "time": "10:00",
       "home": "Amager Volley.3",
       "away": "Grøndal EV",
       "venue": "Sundbyhal 2",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77410,
       "date": "2026-09-27",
       "time": "14:00",
       "home": "Gentofte Volley.3",
       "away": "B1960",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 77374,
       "date": "2026-10-03",
       "time": "11:00",
       "home": "Farum-Holte.2",
@@ -130,87 +135,87 @@
       "score": null
     },
     {
+      "matchId": 77391,
       "date": "2026-10-03",
       "time": "18:00",
       "home": "KSV.2",
       "away": "B1960",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77435,
       "date": "2026-10-04",
       "time": "12:00",
       "home": "VK Næstved",
       "away": "Gentofte Volley.3",
       "venue": "Kobberbakkeskolen, afd. Sydby",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77453,
       "date": "2026-10-04",
       "time": "14:00",
       "home": "Hillerød G&I",
       "away": "Amager Volley.3",
       "venue": "Sophienborgskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 77451,
       "date": "2026-10-18",
       "time": "11:00",
       "home": "Farum-Holte.2",
       "away": "KSV.2",
       "venue": "Ny Holtehal",
       "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77439,
       "date": "2026-10-25",
       "time": "12:00",
       "home": "VK Næstved",
       "away": "Amager Volley.3",
       "venue": "Kobberbakkeskolen, afd. Sydby",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77432,
       "date": "2026-10-25",
       "time": "14:00",
       "home": "Grøndal EV",
       "away": "Gentofte Volley.3",
       "venue": "Hillerødgades Sportssal",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77411,
       "date": "2026-10-25",
       "time": "14:00",
       "home": "Aarby Volley",
       "away": "KSV.2",
       "venue": "Aarby Fritidscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "2-3"
     },
     {
+      "matchId": 77399,
       "date": "2026-10-25",
       "time": "14:00",
       "home": "Hillerød G&I",
       "away": "Farum-Holte.2",
       "venue": "Sophienborgskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
-      "date": "2026-10-31",
-      "time": "14:00",
-      "home": "B1960",
-      "away": "VK Næstved",
-      "venue": "Nørrebrohallen",
-      "mapsUrl": null,
-      "score": null
-    },
-    {
+      "matchId": 77434,
       "date": "2026-11-01",
       "time": "09:00",
       "home": "Farum-Holte.2",
@@ -220,6 +225,7 @@
       "score": null
     },
     {
+      "matchId": 77433,
       "date": "2026-11-01",
       "time": "10:00",
       "home": "Amager Volley.3",
@@ -229,6 +235,7 @@
       "score": null
     },
     {
+      "matchId": 77396,
       "date": "2026-11-08",
       "time": "14:00",
       "home": "Hillerød G&I",
@@ -238,6 +245,7 @@
       "score": null
     },
     {
+      "matchId": 77398,
       "date": "2026-11-08",
       "time": "14:00",
       "home": "Gentofte Volley.3",
@@ -247,6 +255,17 @@
       "score": null
     },
     {
+      "matchId": 77445,
+      "date": "2026-11-09",
+      "time": "19:00",
+      "home": "VK Næstved",
+      "away": "B1960",
+      "venue": "Kobberbakkeskolen, afd. Sydby",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "matchId": 77383,
       "date": "2026-11-15",
       "time": "12:00",
       "home": "Amager Volley.3",
@@ -256,6 +275,7 @@
       "score": null
     },
     {
+      "matchId": 77430,
       "date": "2026-11-15",
       "time": "18:00",
       "home": "B1960",
@@ -265,6 +285,7 @@
       "score": null
     },
     {
+      "matchId": 77448,
       "date": "2026-11-22",
       "time": "12:00",
       "home": "Hillerød G&I",
@@ -274,6 +295,7 @@
       "score": null
     },
     {
+      "matchId": 77461,
       "date": "2026-11-22",
       "time": "12:00",
       "home": "Aarby Volley",
@@ -283,6 +305,7 @@
       "score": null
     },
     {
+      "matchId": 77401,
       "date": "2026-11-22",
       "time": "18:30",
       "home": "KSV.2",
@@ -292,6 +315,7 @@
       "score": null
     },
     {
+      "matchId": 77459,
       "date": "2026-11-28",
       "time": "14:00",
       "home": "Gentofte Volley.3",
@@ -301,6 +325,7 @@
       "score": null
     },
     {
+      "matchId": 77421,
       "date": "2026-11-28",
       "time": "18:00",
       "home": "KSV.2",
@@ -310,6 +335,7 @@
       "score": null
     },
     {
+      "matchId": 77395,
       "date": "2026-11-29",
       "time": "12:00",
       "home": "Grøndal EV",
@@ -319,6 +345,7 @@
       "score": null
     },
     {
+      "matchId": 77378,
       "date": "2026-11-29",
       "time": "14:00",
       "home": "B1960",
@@ -328,6 +355,7 @@
       "score": null
     },
     {
+      "matchId": 77373,
       "date": "2026-12-05",
       "time": "14:00",
       "home": "Amager Volley.3",
@@ -337,6 +365,7 @@
       "score": null
     },
     {
+      "matchId": 77405,
       "date": "2026-12-06",
       "time": "10:00",
       "home": "Aarby Volley",
@@ -346,6 +375,7 @@
       "score": null
     },
     {
+      "matchId": 77454,
       "date": "2026-12-06",
       "time": "12:00",
       "home": "VK Næstved",
@@ -355,6 +385,7 @@
       "score": null
     },
     {
+      "matchId": 77420,
       "date": "2026-12-06",
       "time": "14:00",
       "home": "Grøndal EV",
@@ -364,6 +395,7 @@
       "score": null
     },
     {
+      "matchId": 77386,
       "date": "2026-12-12",
       "time": "14:00",
       "home": "VK Næstved",
@@ -373,6 +405,7 @@
       "score": null
     },
     {
+      "matchId": 77458,
       "date": "2026-12-13",
       "time": "11:00",
       "home": "Farum-Holte.2",
@@ -382,6 +415,7 @@
       "score": null
     },
     {
+      "matchId": 77381,
       "date": "2026-12-13",
       "time": "14:00",
       "home": "KSV.2",
@@ -391,6 +425,7 @@
       "score": null
     },
     {
+      "matchId": 77404,
       "date": "2026-12-13",
       "time": "18:00",
       "home": "B1960",
@@ -400,6 +435,7 @@
       "score": null
     },
     {
+      "matchId": 77393,
       "date": "2027-01-09",
       "time": "09:00",
       "home": "Farum-Holte.2",
@@ -409,6 +445,7 @@
       "score": null
     },
     {
+      "matchId": 77418,
       "date": "2027-01-09",
       "time": "14:00",
       "home": "B1960",
@@ -418,6 +455,7 @@
       "score": null
     },
     {
+      "matchId": 77415,
       "date": "2027-01-10",
       "time": "12:00",
       "home": "VK Næstved",
@@ -427,6 +465,7 @@
       "score": null
     },
     {
+      "matchId": 77436,
       "date": "2027-01-16",
       "time": "14:00",
       "home": "B1960",
@@ -436,6 +475,7 @@
       "score": null
     },
     {
+      "matchId": 77444,
       "date": "2027-01-17",
       "time": "09:30",
       "home": "Farum-Holte.2",
@@ -445,6 +485,7 @@
       "score": null
     },
     {
+      "matchId": 77440,
       "date": "2027-01-17",
       "time": "10:00",
       "home": "Aarby Volley",
@@ -454,6 +495,7 @@
       "score": null
     },
     {
+      "matchId": 77390,
       "date": "2027-01-17",
       "time": "12:00",
       "home": "Gentofte Volley.3",
@@ -463,6 +505,7 @@
       "score": null
     },
     {
+      "matchId": 77416,
       "date": "2027-01-24",
       "time": "10:00",
       "home": "B1960",
@@ -472,6 +515,7 @@
       "score": null
     },
     {
+      "matchId": 77376,
       "date": "2027-01-24",
       "time": "12:00",
       "home": "VK Næstved",
@@ -481,6 +525,7 @@
       "score": null
     },
     {
+      "matchId": 77389,
       "date": "2027-01-24",
       "time": "14:00",
       "home": "Grøndal EV",
@@ -490,6 +535,7 @@
       "score": null
     },
     {
+      "matchId": 77443,
       "date": "2027-01-24",
       "time": "14:00",
       "home": "Amager Volley.3",
@@ -499,6 +545,7 @@
       "score": null
     },
     {
+      "matchId": 77406,
       "date": "2027-01-31",
       "time": "12:00",
       "home": "KSV.2",
@@ -508,6 +555,7 @@
       "score": null
     },
     {
+      "matchId": 77380,
       "date": "2027-01-31",
       "time": "14:00",
       "home": "Grøndal EV",
@@ -517,6 +565,7 @@
       "score": null
     },
     {
+      "matchId": 77431,
       "date": "2027-01-31",
       "time": "14:00",
       "home": "Aarby Volley",
@@ -526,6 +575,7 @@
       "score": null
     },
     {
+      "matchId": 77414,
       "date": "2027-01-31",
       "time": "14:00",
       "home": "Hillerød G&I",
@@ -535,6 +585,7 @@
       "score": null
     },
     {
+      "matchId": 77424,
       "date": "2027-02-06",
       "time": "14:00",
       "home": "Hillerød G&I",
@@ -544,6 +595,7 @@
       "score": null
     },
     {
+      "matchId": 77460,
       "date": "2027-02-07",
       "time": "16:00",
       "home": "Grøndal EV",
@@ -553,6 +605,7 @@
       "score": null
     },
     {
+      "matchId": 77441,
       "date": "2027-02-27",
       "time": "16:00",
       "home": "KSV.2",
@@ -562,6 +615,7 @@
       "score": null
     },
     {
+      "matchId": 77394,
       "date": "2027-02-27",
       "time": "16:30",
       "home": "Amager Volley.3",
@@ -571,6 +625,7 @@
       "score": null
     },
     {
+      "matchId": 77387,
       "date": "2027-02-28",
       "time": "12:00",
       "home": "Gentofte Volley.3",
@@ -580,6 +635,7 @@
       "score": null
     },
     {
+      "matchId": 77423,
       "date": "2027-02-28",
       "time": "13:00",
       "home": "Farum-Holte.2",
@@ -589,6 +645,7 @@
       "score": null
     },
     {
+      "matchId": 77456,
       "date": "2027-03-06",
       "time": "16:00",
       "home": "KSV.2",
@@ -598,6 +655,7 @@
       "score": null
     },
     {
+      "matchId": 77400,
       "date": "2027-03-07",
       "time": "12:00",
       "home": "VK Næstved",
@@ -607,6 +665,7 @@
       "score": null
     },
     {
+      "matchId": 77408,
       "date": "2027-03-07",
       "time": "14:00",
       "home": "Amager Volley.3",
@@ -616,6 +675,7 @@
       "score": null
     },
     {
+      "matchId": 77388,
       "date": "2027-03-14",
       "time": "12:00",
       "home": "Aarby Volley",
@@ -625,6 +685,7 @@
       "score": null
     },
     {
+      "matchId": 77409,
       "date": "2027-03-14",
       "time": "13:00",
       "home": "Farum-Holte.2",
@@ -634,6 +695,7 @@
       "score": null
     },
     {
+      "matchId": 77375,
       "date": "2027-03-14",
       "time": "14:00",
       "home": "Hillerød G&I",
@@ -643,6 +705,7 @@
       "score": null
     },
     {
+      "matchId": 77455,
       "date": "2027-03-14",
       "time": "18:00",
       "home": "B1960",
@@ -652,6 +715,7 @@
       "score": null
     },
     {
+      "matchId": 77419,
       "date": "2027-04-04",
       "time": "10:00",
       "home": "Aarby Volley",
@@ -661,6 +725,7 @@
       "score": null
     },
     {
+      "matchId": 77446,
       "date": "2027-04-04",
       "time": "12:00",
       "home": "Grøndal EV",
@@ -670,6 +735,7 @@
       "score": null
     },
     {
+      "matchId": 77385,
       "date": "2027-04-04",
       "time": "14:00",
       "home": "Hillerød G&I",
@@ -679,6 +745,7 @@
       "score": null
     },
     {
+      "matchId": 77403,
       "date": "2027-04-11",
       "time": "12:00",
       "home": "VK Næstved",
@@ -688,6 +755,7 @@
       "score": null
     },
     {
+      "matchId": 77450,
       "date": "2027-04-11",
       "time": "12:00",
       "home": "Gentofte Volley.3",
@@ -697,6 +765,7 @@
       "score": null
     },
     {
+      "matchId": 77449,
       "date": "2027-04-11",
       "time": "14:00",
       "home": "Grøndal EV",
@@ -706,6 +775,7 @@
       "score": null
     },
     {
+      "matchId": 77428,
       "date": "2027-04-11",
       "time": "14:00",
       "home": "KSV.2",
@@ -715,6 +785,7 @@
       "score": null
     },
     {
+      "matchId": 77413,
       "date": "2027-04-18",
       "time": "12:00",
       "home": "Amager Volley.3",
@@ -724,6 +795,7 @@
       "score": null
     },
     {
+      "matchId": 77426,
       "date": "2027-04-18",
       "time": "14:00",
       "home": "Gentofte Volley.3",

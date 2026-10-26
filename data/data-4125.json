@@ -1,71 +1,62 @@
 {
-  "updatedAt": "2026-09-22T14:55:24.807Z",
+  "updatedAt": "2026-10-26T21:45:18.892Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Enghave VK",
-      "k": 1,
-      "v": 1,
+      "name": "DTU Volley",
+      "k": 4,
+      "v": 4,
       "t": 0,
-      "sets": "3-0",
-      "pts": 3
+      "sets": "12-2",
+      "pts": 12
     },
     {
       "pos": 2,
-      "name": "KSV.3",
-      "k": 1,
-      "v": 1,
-      "t": 0,
-      "sets": "3-1",
-      "pts": 3
+      "name": "Enghave VK",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "6-3",
+      "pts": 6
     },
     {
       "pos": 3,
-      "name": "Brøndby VK Wildcard",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Rosenlund Volley",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "7-4",
+      "pts": 6
     },
     {
       "pos": 4,
-      "name": "DTU Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "KSV.3",
+      "k": 4,
+      "v": 2,
+      "t": 2,
+      "sets": "6-7",
+      "pts": 6
     },
     {
       "pos": 5,
-      "name": "Lyngby-Gladsaxe Volley.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Lyngby-Gladsaxe WC",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-4",
+      "pts": 3
     },
     {
       "pos": 6,
-      "name": "Lyngby-Gladsaxe WC",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Frederiksberg Volley",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-4",
+      "pts": 3
     },
     {
       "pos": 7,
-      "name": "Rosenlund Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
-    },
-    {
-      "pos": 8,
       "name": "VLI.2",
       "k": 1,
       "v": 0,
@@ -74,17 +65,27 @@
       "pts": 0
     },
     {
-      "pos": 9,
-      "name": "Frederiksberg Volley",
-      "k": 1,
+      "pos": 8,
+      "name": "Brøndby VK Wildcard",
+      "k": 2,
       "v": 0,
-      "t": 1,
-      "sets": "0-3",
+      "t": 2,
+      "sets": "1-6",
+      "pts": 0
+    },
+    {
+      "pos": 9,
+      "name": "Lyngby-Gladsaxe Volley.2",
+      "k": 3,
+      "v": 0,
+      "t": 3,
+      "sets": "3-9",
       "pts": 0
     }
   ],
   "fixtures": [
     {
+      "matchId": 76140,
       "date": "2026-09-20",
       "time": "10:00",
       "home": "Enghave VK",
@@ -94,6 +95,7 @@
       "score": "3-0"
     },
     {
+      "matchId": 76141,
       "date": "2026-09-20",
       "time": "11:30",
       "home": "VLI.2",
@@ -103,96 +105,107 @@
       "score": "1-3"
     },
     {
+      "matchId": 76192,
       "date": "2026-09-27",
       "time": "14:00",
       "home": "KSV.3",
       "away": "Lyngby-Gladsaxe WC",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 76143,
       "date": "2026-10-01",
       "time": "20:00",
       "home": "Rosenlund Volley",
       "away": "DTU Volley",
       "venue": "Ny Rosenlundhal",
       "mapsUrl": null,
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76144,
       "date": "2026-10-01",
       "time": "20:00",
       "home": "Brøndby VK Wildcard",
       "away": "Lyngby-Gladsaxe WC",
       "venue": "Stadionhal 1",
       "mapsUrl": null,
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76146,
       "date": "2026-10-04",
       "time": "10:00",
       "home": "Frederiksberg Volley",
       "away": "Lyngby-Gladsaxe Volley.2",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 76147,
       "date": "2026-10-04",
       "time": "13:00",
       "home": "DTU Volley",
       "away": "Enghave VK",
       "venue": "Engelsborghallen",
       "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 76149,
       "date": "2026-10-11",
       "time": "12:00",
       "home": "Lyngby-Gladsaxe Volley.2",
       "away": "Rosenlund Volley",
       "venue": "Engelsborghallen",
       "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 76153,
       "date": "2026-10-11",
       "time": "16:30",
       "home": "KSV.3",
       "away": "DTU Volley",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 76150,
       "date": "2026-10-11",
       "time": "18:00",
       "home": "Enghave VK",
       "away": "Brøndby VK Wildcard",
       "venue": "Bavnehøjhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 76158,
       "date": "2026-10-24",
       "time": "13:00",
       "home": "Rosenlund Volley",
       "away": "KSV.3",
       "venue": "Ny Rosenlundhal",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 76157,
       "date": "2026-10-24",
       "time": "16:30",
       "home": "DTU Volley",
       "away": "Lyngby-Gladsaxe Volley.2",
       "venue": "Engelsborghallen",
       "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 76161,
       "date": "2026-10-30",
       "time": "20:00",
       "home": "VLI.2",
@@ -202,6 +215,7 @@
       "score": null
     },
     {
+      "matchId": 76162,
       "date": "2026-11-01",
       "time": "10:00",
       "home": "Lyngby-Gladsaxe WC",
@@ -211,6 +225,7 @@
       "score": null
     },
     {
+      "matchId": 76160,
       "date": "2026-11-01",
       "time": "10:00",
       "home": "Enghave VK",
@@ -220,6 +235,7 @@
       "score": null
     },
     {
+      "matchId": 76163,
       "date": "2026-11-01",
       "time": "16:30",
       "home": "KSV.3",
@@ -229,6 +245,7 @@
       "score": null
     },
     {
+      "matchId": 76142,
       "date": "2026-11-03",
       "time": "19:30",
       "home": "Lyngby-Gladsaxe WC",
@@ -238,6 +255,7 @@
       "score": null
     },
     {
+      "matchId": 76166,
       "date": "2026-11-07",
       "time": "14:00",
       "home": "Frederiksberg Volley",
@@ -247,6 +265,7 @@
       "score": null
     },
     {
+      "matchId": 76164,
       "date": "2026-11-07",
       "time": "16:00",
       "home": "Brøndby VK Wildcard",
@@ -256,6 +275,7 @@
       "score": null
     },
     {
+      "matchId": 76167,
       "date": "2026-11-08",
       "time": "14:00",
       "home": "Lyngby-Gladsaxe Volley.2",
@@ -265,6 +285,7 @@
       "score": null
     },
     {
+      "matchId": 76170,
       "date": "2026-11-14",
       "time": "16:30",
       "home": "DTU Volley",
@@ -274,6 +295,7 @@
       "score": null
     },
     {
+      "matchId": 76183,
       "date": "2026-11-15",
       "time": "12:00",
       "home": "KSV.3",
@@ -283,6 +305,7 @@
       "score": null
     },
     {
+      "matchId": 76156,
       "date": "2026-11-20",
       "time": "20:00",
       "home": "Frederiksberg Volley",
@@ -292,6 +315,7 @@
       "score": null
     },
     {
+      "matchId": 76173,
       "date": "2026-11-22",
       "time": "12:00",
       "home": "KSV.3",
@@ -301,6 +325,7 @@
       "score": null
     },
     {
+      "matchId": 76172,
       "date": "2026-11-22",
       "time": "19:30",
       "home": "Lyngby-Gladsaxe WC",
@@ -310,6 +335,7 @@
       "score": null
     },
     {
+      "matchId": 76178,
       "date": "2026-11-28",
       "time": "13:00",
       "home": "Rosenlund Volley",
@@ -319,6 +345,7 @@
       "score": null
     },
     {
+      "matchId": 76176,
       "date": "2026-11-29",
       "time": "10:00",
       "home": "Lyngby-Gladsaxe Volley.2",
@@ -328,6 +355,7 @@
       "score": null
     },
     {
+      "matchId": 76177,
       "date": "2026-11-29",
       "time": "14:30",
       "home": "VLI.2",
@@ -337,6 +365,7 @@
       "score": null
     },
     {
+      "matchId": 76180,
       "date": "2026-12-05",
       "time": "16:30",
       "home": "DTU Volley",
@@ -346,6 +375,7 @@
       "score": null
     },
     {
+      "matchId": 76182,
       "date": "2026-12-06",
       "time": "12:00",
       "home": "Lyngby-Gladsaxe WC",
@@ -355,6 +385,7 @@
       "score": null
     },
     {
+      "matchId": 76181,
       "date": "2026-12-06",
       "time": "16:00",
       "home": "Lyngby-Gladsaxe Volley.2",
@@ -364,6 +395,7 @@
       "score": null
     },
     {
+      "matchId": 76184,
       "date": "2026-12-12",
       "time": "16:00",
       "home": "Brøndby VK Wildcard",
@@ -373,6 +405,7 @@
       "score": null
     },
     {
+      "matchId": 76188,
       "date": "2026-12-12",
       "time": "16:00",
       "home": "VLI.2",
@@ -382,6 +415,7 @@
       "score": null
     },
     {
+      "matchId": 76187,
       "date": "2026-12-13",
       "time": "10:00",
       "home": "Enghave VK",
@@ -391,6 +425,7 @@
       "score": null
     },
     {
+      "matchId": 76193,
       "date": "2027-01-09",
       "time": "13:00",
       "home": "Rosenlund Volley",
@@ -400,6 +435,7 @@
       "score": null
     },
     {
+      "matchId": 76191,
       "date": "2027-01-10",
       "time": "15:30",
       "home": "Lyngby-Gladsaxe Volley.2",
@@ -409,6 +445,7 @@
       "score": null
     },
     {
+      "matchId": 76195,
       "date": "2027-01-16",
       "time": "14:00",
       "home": "VLI.2",
@@ -418,6 +455,7 @@
       "score": null
     },
     {
+      "matchId": 76196,
       "date": "2027-01-17",
       "time": "12:00",
       "home": "Lyngby-Gladsaxe WC",
@@ -427,6 +465,7 @@
       "score": null
     },
     {
+      "matchId": 76194,
       "date": "2027-01-17",
       "time": "12:00",
       "home": "Enghave VK",
@@ -436,6 +475,7 @@
       "score": null
     },
     {
+      "matchId": 76199,
       "date": "2027-01-23",
       "time": "16:00",
       "home": "Brøndby VK Wildcard",
@@ -445,6 +485,7 @@
       "score": null
     },
     {
+      "matchId": 76203,
       "date": "2027-01-24",
       "time": "14:00",
       "home": "KSV.3",
@@ -454,6 +495,7 @@
       "score": null
     },
     {
+      "matchId": 76200,
       "date": "2027-01-24",
       "time": "14:30",
       "home": "Frederiksberg Volley",
@@ -463,6 +505,7 @@
       "score": null
     },
     {
+      "matchId": 76208,
       "date": "2027-01-30",
       "time": "13:00",
       "home": "Rosenlund Volley",
@@ -472,6 +515,7 @@
       "score": null
     },
     {
+      "matchId": 76206,
       "date": "2027-01-30",
       "time": "14:30",
       "home": "DTU Volley",
@@ -481,6 +525,7 @@
       "score": null
     },
     {
+      "matchId": 76205,
       "date": "2027-01-31",
       "time": "14:30",
       "home": "Frederiksberg Volley",
@@ -490,6 +535,7 @@
       "score": null
     },
     {
+      "matchId": 76212,
       "date": "2027-02-13",
       "time": "16:30",
       "home": "Lyngby-Gladsaxe WC",
@@ -499,6 +545,7 @@
       "score": null
     },
     {
+      "matchId": 76210,
       "date": "2027-02-14",
       "time": "10:00",
       "home": "Enghave VK",
@@ -508,6 +555,7 @@
       "score": null
     },
     {
+      "matchId": 76209,
       "date": "2027-02-14",
       "time": "12:00",
       "home": "Lyngby-Gladsaxe Volley.2",
@@ -517,6 +565,7 @@
       "score": null
     },
     {
+      "matchId": 76217,
       "date": "2027-02-27",
       "time": "14:30",
       "home": "DTU Volley",
@@ -526,6 +575,7 @@
       "score": null
     },
     {
+      "matchId": 76214,
       "date": "2027-02-27",
       "time": "16:00",
       "home": "Brøndby VK Wildcard",
@@ -535,6 +585,7 @@
       "score": null
     },
     {
+      "matchId": 76216,
       "date": "2027-02-28",
       "time": "11:30",
       "home": "Frederiksberg Volley",
@@ -544,6 +595,7 @@
       "score": null
     },
     {
+      "matchId": 76218,
       "date": "2027-02-28",
       "time": "12:00",
       "home": "Lyngby-Gladsaxe Volley.2",
@@ -553,6 +605,7 @@
       "score": null
     },
     {
+      "matchId": 76219,
       "date": "2027-03-06",
       "time": "14:30",
       "home": "DTU Volley",
@@ -562,6 +615,7 @@
       "score": null
     },
     {
+      "matchId": 76223,
       "date": "2027-03-13",
       "time": "13:00",
       "home": "Rosenlund Volley",
@@ -571,6 +625,7 @@
       "score": null
     },
     {
+      "matchId": 76221,
       "date": "2027-03-14",
       "time": "12:00",
       "home": "Enghave VK",
@@ -580,6 +635,7 @@
       "score": null
     },
     {
+      "matchId": 76224,
       "date": "2027-03-20",
       "time": "16:00",
       "home": "Brøndby VK Wildcard",
@@ -589,6 +645,7 @@
       "score": null
     },
     {
+      "matchId": 76226,
       "date": "2027-03-20",
       "time": "16:30",
       "home": "Lyngby-Gladsaxe Volley.2",
@@ -598,6 +655,7 @@
       "score": null
     },
     {
+      "matchId": 76227,
       "date": "2027-03-21",
       "time": "10:00",
       "home": "Enghave VK",
@@ -607,6 +665,7 @@
       "score": null
     },
     {
+      "matchId": 76228,
       "date": "2027-03-21",
       "time": "10:00",
       "home": "VLI.2",
@@ -616,6 +675,7 @@
       "score": null
     },
     {
+      "matchId": 76233,
       "date": "2027-04-03",
       "time": "14:00",
       "home": "KSV.3",
@@ -625,6 +685,7 @@
       "score": null
     },
     {
+      "matchId": 76231,
       "date": "2027-04-03",
       "time": "14:30",
       "home": "DTU Volley",
@@ -634,6 +695,7 @@
       "score": null
     },
     {
+      "matchId": 76230,
       "date": "2027-04-04",
       "time": "12:00",
       "home": "Frederiksberg Volley",
@@ -643,6 +705,7 @@
       "score": null
     },
     {
+      "matchId": 76238,
       "date": "2027-04-10",
       "time": "13:00",
       "home": "Rosenlund Volley",
@@ -652,6 +715,7 @@
       "score": null
     },
     {
+      "matchId": 76234,
       "date": "2027-04-10",
       "time": "16:00",
       "home": "Brøndby VK Wildcard",
@@ -661,6 +725,7 @@
       "score": null
     },
     {
+      "matchId": 76237,
       "date": "2027-04-11",
       "time": "12:00",
       "home": "VLI.2",
@@ -670,6 +735,7 @@
       "score": null
     },
     {
+      "matchId": 76239,
       "date": "2027-04-17",
       "time": "16:00",
       "home": "Brøndby VK Wildcard",
@@ -679,6 +745,7 @@
       "score": null
     },
     {
+      "matchId": 76242,
       "date": "2027-04-18",
       "time": "10:00",
       "home": "Lyngby-Gladsaxe WC",
@@ -688,6 +755,7 @@
       "score": null
     },
     {
+      "matchId": 76243,
       "date": "2027-04-18",
       "time": "16:30",
       "home": "KSV.3",
@@ -697,6 +765,7 @@
       "score": null
     },
     {
+      "matchId": 76240,
       "date": "2027-04-18",
       "time": "16:30",
       "home": "Frederiksberg Volley",
@@ -706,6 +775,7 @@
       "score": null
     },
     {
+      "matchId": 76248,
       "date": "2027-04-24",
       "time": "13:00",
       "home": "Rosenlund Volley",
@@ -715,6 +785,7 @@
       "score": null
     },
     {
+      "matchId": 76247,
       "date": "2027-04-24",
       "time": "16:30",
       "home": "Lyngby-Gladsaxe WC",
@@ -724,6 +795,7 @@
       "score": null
     },
     {
+      "matchId": 76246,
       "date": "2027-04-25",
       "time": "16:30",
       "home": "VLI.2",

@@ -1,90 +1,91 @@
 {
-  "updatedAt": "2026-09-22T14:55:25.277Z",
+  "updatedAt": "2026-10-26T21:45:27.048Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Gentofte Volley.4",
-      "k": 1,
-      "v": 1,
+      "name": "Hvidovre VK.3",
+      "k": 4,
+      "v": 4,
       "t": 0,
-      "sets": "3-0",
-      "pts": 3
+      "sets": "12-4",
+      "pts": 12
     },
     {
       "pos": 2,
-      "name": "KSV.5",
-      "k": 1,
-      "v": 1,
-      "t": 0,
-      "sets": "3-0",
-      "pts": 3
+      "name": "Kanalbyens IF",
+      "k": 4,
+      "v": 3,
+      "t": 1,
+      "sets": "11-3",
+      "pts": 10
     },
     {
       "pos": 3,
-      "name": "Hvidovre VK.3",
-      "k": 1,
-      "v": 1,
+      "name": "Farum VK.3",
+      "k": 3,
+      "v": 3,
       "t": 0,
-      "sets": "3-2",
-      "pts": 3
+      "sets": "9-3",
+      "pts": 9
     },
     {
       "pos": 4,
-      "name": "Kanalbyens IF",
-      "k": 1,
-      "v": 0,
+      "name": "Frederiksberg Volley.4",
+      "k": 3,
+      "v": 2,
       "t": 1,
-      "sets": "2-3",
-      "pts": 1
+      "sets": "6-4",
+      "pts": 6
     },
     {
       "pos": 5,
-      "name": "Frederiksberg Volley.4",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Gentofte Volley.4",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "3-6",
+      "pts": 3
     },
     {
       "pos": 6,
-      "name": "Farum VK.3",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Aarby Volley",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "4-8",
+      "pts": 3
     },
     {
       "pos": 7,
-      "name": "Aarby Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "KSV.5",
+      "k": 4,
+      "v": 1,
+      "t": 3,
+      "sets": "5-9",
+      "pts": 3
     },
     {
       "pos": 8,
-      "name": "VLI.4",
-      "k": 1,
+      "name": "Glostrup IC.2",
+      "k": 3,
       "v": 0,
-      "t": 1,
-      "sets": "0-3",
-      "pts": 0
+      "t": 3,
+      "sets": "4-9",
+      "pts": 2
     },
     {
       "pos": 9,
-      "name": "Glostrup IC.2",
-      "k": 1,
+      "name": "VLI.4",
+      "k": 3,
       "v": 0,
-      "t": 1,
-      "sets": "0-3",
+      "t": 3,
+      "sets": "1-9",
       "pts": 0
     }
   ],
   "fixtures": [
     {
+      "matchId": 77724,
       "date": "2026-09-19",
       "time": "14:00",
       "home": "Kanalbyens IF",
@@ -94,6 +95,7 @@
       "score": "2-3"
     },
     {
+      "matchId": 77651,
       "date": "2026-09-20",
       "time": "12:00",
       "home": "Gentofte Volley.4",
@@ -103,6 +105,7 @@
       "score": "3-0"
     },
     {
+      "matchId": 77682,
       "date": "2026-09-20",
       "time": "13:30",
       "home": "VLI.4",
@@ -112,114 +115,127 @@
       "score": "0-3"
     },
     {
+      "matchId": 77669,
       "date": "2026-09-27",
       "time": "10:00",
       "home": "Frederiksberg Volley.4",
       "away": "Hvidovre VK.3",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77691,
       "date": "2026-09-27",
       "time": "10:00",
       "home": "Gentofte Volley.4",
       "away": "Kanalbyens IF",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77720,
       "date": "2026-09-27",
       "time": "16:00",
       "home": "Glostrup IC.2",
       "away": "Aarby Volley",
       "venue": "Hvissingehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-3"
     },
     {
+      "matchId": 77674,
       "date": "2026-10-03",
       "time": "09:00",
       "home": "Farum VK.3",
       "away": "VLI.4",
       "venue": "Ny Holtehal",
       "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 77656,
       "date": "2026-10-03",
       "time": "14:00",
       "home": "Kanalbyens IF",
       "away": "Aarby Volley",
       "venue": "Sluseholmen Skole",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 77699,
       "date": "2026-10-03",
       "time": "14:00",
       "home": "KSV.5",
       "away": "Hvidovre VK.3",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 77666,
       "date": "2026-10-04",
       "time": "16:30",
       "home": "Frederiksberg Volley.4",
       "away": "Gentofte Volley.4",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 77712,
       "date": "2026-10-17",
       "time": "14:00",
       "home": "KSV.5",
       "away": "Farum VK.3",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 77685,
       "date": "2026-10-24",
       "time": "16:00",
       "home": "Kanalbyens IF",
       "away": "VLI.4",
       "venue": "Sluseholmen Skole",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 77708,
       "date": "2026-10-25",
       "time": "10:00",
       "home": "Glostrup IC.2",
       "away": "Hvidovre VK.3",
       "venue": "Hvissingehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-3"
     },
     {
+      "matchId": 77731,
       "date": "2026-10-25",
       "time": "12:00",
       "home": "Aarby Volley",
       "away": "Farum VK.3",
       "venue": "Aarby Fritidscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 77707,
       "date": "2026-10-25",
       "time": "16:30",
       "home": "Frederiksberg Volley.4",
       "away": "KSV.5",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 77721,
       "date": "2026-10-31",
       "time": "15:00",
       "home": "Hvidovre VK.3",
@@ -229,6 +245,7 @@
       "score": null
     },
     {
+      "matchId": 77692,
       "date": "2026-10-31",
       "time": "16:00",
       "home": "KSV.5",
@@ -238,6 +255,7 @@
       "score": null
     },
     {
+      "matchId": 77700,
       "date": "2026-11-01",
       "time": "11:00",
       "home": "Farum VK.3",
@@ -247,6 +265,7 @@
       "score": null
     },
     {
+      "matchId": 77673,
       "date": "2026-11-07",
       "time": "14:00",
       "home": "Kanalbyens IF",
@@ -256,6 +275,7 @@
       "score": null
     },
     {
+      "matchId": 77671,
       "date": "2026-11-08",
       "time": "10:00",
       "home": "Gentofte Volley.4",
@@ -265,6 +285,7 @@
       "score": null
     },
     {
+      "matchId": 77672,
       "date": "2026-11-15",
       "time": "14:00",
       "home": "KSV.5",
@@ -274,6 +295,7 @@
       "score": null
     },
     {
+      "matchId": 77697,
       "date": "2026-11-21",
       "time": "16:00",
       "home": "Kanalbyens IF",
@@ -283,6 +305,7 @@
       "score": null
     },
     {
+      "matchId": 77681,
       "date": "2026-11-22",
       "time": "10:00",
       "home": "Aarby Volley",
@@ -292,6 +315,7 @@
       "score": null
     },
     {
+      "matchId": 77657,
       "date": "2026-11-22",
       "time": "16:00",
       "home": "Glostrup IC.2",
@@ -301,6 +325,7 @@
       "score": null
     },
     {
+      "matchId": 77693,
       "date": "2026-11-22",
       "time": "16:00",
       "home": "Hvidovre VK.3",
@@ -310,6 +335,7 @@
       "score": null
     },
     {
+      "matchId": 77661,
       "date": "2026-11-28",
       "time": "12:00",
       "home": "Gentofte Volley.4",
@@ -319,6 +345,7 @@
       "score": null
     },
     {
+      "matchId": 77659,
       "date": "2026-11-29",
       "time": "12:00",
       "home": "VLI.4",
@@ -328,6 +355,7 @@
       "score": null
     },
     {
+      "matchId": 77660,
       "date": "2026-11-29",
       "time": "12:00",
       "home": "Glostrup IC.2",
@@ -337,6 +365,7 @@
       "score": null
     },
     {
+      "matchId": 77715,
       "date": "2026-12-06",
       "time": "09:00",
       "home": "Farum VK.3",
@@ -346,6 +375,7 @@
       "score": null
     },
     {
+      "matchId": 77684,
       "date": "2026-12-06",
       "time": "10:00",
       "home": "Frederiksberg Volley.4",
@@ -355,6 +385,7 @@
       "score": null
     },
     {
+      "matchId": 77710,
       "date": "2026-12-06",
       "time": "12:00",
       "home": "Aarby Volley",
@@ -364,6 +395,7 @@
       "score": null
     },
     {
+      "matchId": 77644,
       "date": "2026-12-12",
       "time": "14:00",
       "home": "Hvidovre VK.3",
@@ -373,6 +405,7 @@
       "score": null
     },
     {
+      "matchId": 77725,
       "date": "2026-12-13",
       "time": "09:00",
       "home": "Farum VK.3",
@@ -382,6 +415,7 @@
       "score": null
     },
     {
+      "matchId": 77690,
       "date": "2026-12-13",
       "time": "12:00",
       "home": "VLI.4",
@@ -391,6 +425,7 @@
       "score": null
     },
     {
+      "matchId": 77687,
       "date": "2026-12-13",
       "time": "12:00",
       "home": "KSV.5",
@@ -400,6 +435,7 @@
       "score": null
     },
     {
+      "matchId": 77686,
       "date": "2027-01-09",
       "time": "11:00",
       "home": "Farum VK.3",
@@ -409,6 +445,7 @@
       "score": null
     },
     {
+      "matchId": 77676,
       "date": "2027-01-09",
       "time": "14:00",
       "home": "Gentofte Volley.4",
@@ -418,6 +455,7 @@
       "score": null
     },
     {
+      "matchId": 77647,
       "date": "2027-01-10",
       "time": "10:00",
       "home": "Glostrup IC.2",
@@ -427,6 +465,7 @@
       "score": null
     },
     {
+      "matchId": 77732,
       "date": "2027-01-17",
       "time": "10:00",
       "home": "Gentofte Volley.4",
@@ -436,6 +475,7 @@
       "score": null
     },
     {
+      "matchId": 77648,
       "date": "2027-01-17",
       "time": "11:30",
       "home": "Farum VK.3",
@@ -445,6 +485,7 @@
       "score": null
     },
     {
+      "matchId": 77649,
       "date": "2027-01-17",
       "time": "12:00",
       "home": "Aarby Volley",
@@ -454,6 +495,7 @@
       "score": null
     },
     {
+      "matchId": 77730,
       "date": "2027-01-17",
       "time": "16:30",
       "home": "VLI.4",
@@ -463,6 +505,7 @@
       "score": null
     },
     {
+      "matchId": 77706,
       "date": "2027-01-23",
       "time": "13:30",
       "home": "Farum VK.3",
@@ -472,6 +515,7 @@
       "score": null
     },
     {
+      "matchId": 77705,
       "date": "2027-01-23",
       "time": "14:00",
       "home": "Kanalbyens IF",
@@ -481,6 +525,7 @@
       "score": null
     },
     {
+      "matchId": 77694,
       "date": "2027-01-24",
       "time": "12:00",
       "home": "Frederiksberg Volley.4",
@@ -490,6 +535,7 @@
       "score": null
     },
     {
+      "matchId": 77727,
       "date": "2027-01-24",
       "time": "16:00",
       "home": "KSV.5",
@@ -499,6 +545,7 @@
       "score": null
     },
     {
+      "matchId": 77704,
       "date": "2027-01-30",
       "time": "14:00",
       "home": "Hvidovre VK.3",
@@ -508,6 +555,7 @@
       "score": null
     },
     {
+      "matchId": 77655,
       "date": "2027-01-31",
       "time": "12:00",
       "home": "Frederiksberg Volley.4",
@@ -517,6 +565,7 @@
       "score": null
     },
     {
+      "matchId": 77675,
       "date": "2027-01-31",
       "time": "12:00",
       "home": "Aarby Volley",
@@ -526,6 +575,7 @@
       "score": null
     },
     {
+      "matchId": 77702,
       "date": "2027-02-07",
       "time": "16:30",
       "home": "VLI.4",
@@ -535,6 +585,7 @@
       "score": null
     },
     {
+      "matchId": 77729,
       "date": "2027-02-14",
       "time": "12:00",
       "home": "Glostrup IC.2",
@@ -544,6 +595,7 @@
       "score": null
     },
     {
+      "matchId": 77645,
       "date": "2027-02-28",
       "time": "09:30",
       "home": "Frederiksberg Volley.4",
@@ -553,6 +605,7 @@
       "score": null
     },
     {
+      "matchId": 77667,
       "date": "2027-02-28",
       "time": "11:00",
       "home": "Farum VK.3",
@@ -562,6 +615,7 @@
       "score": null
     },
     {
+      "matchId": 77679,
       "date": "2027-02-28",
       "time": "14:00",
       "home": "Hvidovre VK.3",
@@ -571,6 +625,7 @@
       "score": null
     },
     {
+      "matchId": 77726,
       "date": "2027-02-28",
       "time": "14:00",
       "home": "Gentofte Volley.4",
@@ -580,6 +635,7 @@
       "score": null
     },
     {
+      "matchId": 77717,
       "date": "2027-03-07",
       "time": "10:00",
       "home": "Aarby Volley",
@@ -589,6 +645,7 @@
       "score": null
     },
     {
+      "matchId": 77663,
       "date": "2027-03-13",
       "time": "11:30",
       "home": "Hvidovre VK.3",
@@ -598,6 +655,7 @@
       "score": null
     },
     {
+      "matchId": 77716,
       "date": "2027-03-14",
       "time": "10:00",
       "home": "VLI.4",
@@ -607,6 +665,7 @@
       "score": null
     },
     {
+      "matchId": 77701,
       "date": "2027-03-14",
       "time": "10:00",
       "home": "Aarby Volley",
@@ -616,6 +675,7 @@
       "score": null
     },
     {
+      "matchId": 77662,
       "date": "2027-03-14",
       "time": "18:00",
       "home": "KSV.5",
@@ -625,6 +685,7 @@
       "score": null
     },
     {
+      "matchId": 77689,
       "date": "2027-04-04",
       "time": "12:00",
       "home": "Aarby Volley",
@@ -634,6 +695,7 @@
       "score": null
     },
     {
+      "matchId": 77719,
       "date": "2027-04-04",
       "time": "12:00",
       "home": "VLI.4",
@@ -643,6 +705,7 @@
       "score": null
     },
     {
+      "matchId": 77718,
       "date": "2027-04-04",
       "time": "14:00",
       "home": "Frederiksberg Volley.4",
@@ -652,6 +715,7 @@
       "score": null
     },
     {
+      "matchId": 77696,
       "date": "2027-04-04",
       "time": "14:00",
       "home": "Glostrup IC.2",
@@ -661,6 +725,7 @@
       "score": null
     },
     {
+      "matchId": 77652,
       "date": "2027-04-11",
       "time": "10:00",
       "home": "KSV.5",
@@ -670,6 +735,7 @@
       "score": null
     },
     {
+      "matchId": 77680,
       "date": "2027-04-11",
       "time": "12:00",
       "home": "Glostrup IC.2",
@@ -679,6 +745,7 @@
       "score": null
     },
     {
+      "matchId": 77714,
       "date": "2027-04-11",
       "time": "14:00",
       "home": "Hvidovre VK.3",
@@ -688,6 +755,7 @@
       "score": null
     },
     {
+      "matchId": 77665,
       "date": "2027-04-11",
       "time": "14:30",
       "home": "VLI.4",
@@ -697,6 +765,7 @@
       "score": null
     },
     {
+      "matchId": 77670,
       "date": "2027-04-17",
       "time": "14:00",
       "home": "Kanalbyens IF",
@@ -706,6 +775,7 @@
       "score": null
     },
     {
+      "matchId": 77711,
       "date": "2027-04-18",
       "time": "10:00",
       "home": "Gentofte Volley.4",
@@ -715,6 +785,7 @@
       "score": null
     },
     {
+      "matchId": 77654,
       "date": "2027-04-18",
       "time": "14:00",
       "home": "Hvidovre VK.3",

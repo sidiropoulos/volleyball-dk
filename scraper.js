@@ -100,8 +100,13 @@ async function scrapeFixtures(puljeId) {
     const venue   = cell('c05').find('a').text().trim();
     const resultRaw = cell('c06').text().trim();
     const score   = normalizeScore(resultRaw);
+    const matchHref = cell('c01').find('a').attr('href');
+    const matchId = matchHref
+      ? new URL(matchHref, BASE).searchParams.get('KampId')
+      : null;
 
     fixtures.push({
+      matchId: matchId ? parseInt(matchId, 10) : null,
       date:    parseDate(parts[0]),
       time:    parts[1],
       home,

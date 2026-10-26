@@ -1,153 +1,162 @@
 {
-  "updatedAt": "2026-09-22T14:55:26.081Z",
+  "updatedAt": "2026-10-26T21:45:30.281Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Amager Volley",
-      "k": 0,
-      "v": 0,
+      "name": "CBS Sport",
+      "k": 2,
+      "v": 2,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "4-0",
+      "pts": 4
     },
     {
       "pos": 2,
-      "name": "Farum-Holte",
-      "k": 0,
-      "v": 0,
+      "name": "DTU Volley",
+      "k": 2,
+      "v": 2,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "4-0",
+      "pts": 4
     },
     {
       "pos": 3,
-      "name": "Gentofte Volley",
-      "k": 0,
-      "v": 0,
+      "name": "Grøndal EV",
+      "k": 2,
+      "v": 2,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "4-2",
+      "pts": 4
     },
     {
       "pos": 4,
-      "name": "Grøndal EV",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Amager Volley",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-3",
+      "pts": 2
     },
     {
       "pos": 5,
-      "name": "CBS Sport",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Gentofte Volley",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "2-3",
+      "pts": 2
     },
     {
       "pos": 6,
-      "name": "KSV",
-      "k": 0,
+      "name": "Tårnfalkene",
+      "k": 2,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 2,
+      "sets": "1-4",
       "pts": 0
     },
     {
       "pos": 7,
-      "name": "Tårnfalkene",
-      "k": 0,
+      "name": "KSV",
+      "k": 2,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 2,
+      "sets": "1-4",
       "pts": 0
     },
     {
       "pos": 8,
-      "name": "DTU Volley",
-      "k": 0,
+      "name": "Farum-Holte",
+      "k": 2,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 2,
+      "sets": "1-4",
       "pts": 0
     }
   ],
   "fixtures": [
     {
+      "matchId": 77845,
       "date": "2026-10-03",
       "time": "10:00",
       "home": "Amager Volley",
       "away": "Gentofte Volley",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "1-2"
     },
     {
+      "matchId": 77846,
       "date": "2026-10-03",
       "time": "11:15",
       "home": "Amager Volley",
       "away": "KSV",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "2-1"
     },
     {
+      "matchId": 77848,
       "date": "2026-10-03",
       "time": "12:30",
       "home": "DTU Volley",
       "away": "KSV",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "2-0"
     },
     {
+      "matchId": 77847,
       "date": "2026-10-03",
       "time": "13:45",
       "home": "DTU Volley",
       "away": "Gentofte Volley",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "2-0"
     },
     {
+      "matchId": 77852,
       "date": "2026-10-10",
       "time": "10:00",
       "home": "Grøndal EV",
       "away": "Tårnfalkene",
       "venue": "Nordregårdskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-1"
     },
     {
+      "matchId": 77851,
       "date": "2026-10-10",
       "time": "11:15",
       "home": "Farum-Holte",
       "away": "Grøndal EV",
       "venue": "Nordregårdskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "1-2"
     },
     {
+      "matchId": 77850,
       "date": "2026-10-10",
       "time": "12:30",
       "home": "CBS Sport",
       "away": "Tårnfalkene",
       "venue": "Nordregårdskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-0"
     },
     {
+      "matchId": 77849,
       "date": "2026-10-10",
       "time": "13:45",
       "home": "CBS Sport",
       "away": "Farum-Holte",
       "venue": "Nordregårdskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-0"
     },
     {
+      "matchId": 77853,
       "date": "2026-11-14",
       "time": "14:00",
       "home": "DTU Volley",
@@ -157,6 +166,7 @@
       "score": null
     },
     {
+      "matchId": 77855,
       "date": "2026-11-14",
       "time": "15:15",
       "home": "Grøndal EV",
@@ -166,6 +176,7 @@
       "score": null
     },
     {
+      "matchId": 77854,
       "date": "2026-11-14",
       "time": "16:30",
       "home": "DTU Volley",
@@ -175,6 +186,7 @@
       "score": null
     },
     {
+      "matchId": 77856,
       "date": "2026-11-14",
       "time": "17:45",
       "home": "KSV",
@@ -184,6 +196,7 @@
       "score": null
     },
     {
+      "matchId": 77857,
       "date": "2026-11-15",
       "time": "14:00",
       "home": "Amager Volley",
@@ -193,6 +206,7 @@
       "score": null
     },
     {
+      "matchId": 77858,
       "date": "2026-11-15",
       "time": "15:15",
       "home": "Amager Volley",
@@ -202,6 +216,7 @@
       "score": null
     },
     {
+      "matchId": 77859,
       "date": "2026-11-15",
       "time": "16:30",
       "home": "CBS Sport",
@@ -211,6 +226,7 @@
       "score": null
     },
     {
+      "matchId": 77860,
       "date": "2026-11-15",
       "time": "17:45",
       "home": "Farum-Holte",
@@ -220,6 +236,7 @@
       "score": null
     },
     {
+      "matchId": 77863,
       "date": "2026-11-29",
       "time": "11:00",
       "home": "DTU Volley",
@@ -229,6 +246,7 @@
       "score": null
     },
     {
+      "matchId": 77861,
       "date": "2026-11-29",
       "time": "12:15",
       "home": "CBS Sport",
@@ -238,6 +256,7 @@
       "score": null
     },
     {
+      "matchId": 77864,
       "date": "2026-11-29",
       "time": "13:30",
       "home": "Farum-Holte",
@@ -247,6 +266,7 @@
       "score": null
     },
     {
+      "matchId": 77862,
       "date": "2026-11-29",
       "time": "14:45",
       "home": "CBS Sport",
@@ -256,6 +276,7 @@
       "score": null
     },
     {
+      "matchId": 77866,
       "date": "2026-12-06",
       "time": "10:00",
       "home": "Amager Volley",
@@ -265,6 +286,7 @@
       "score": null
     },
     {
+      "matchId": 77865,
       "date": "2026-12-06",
       "time": "11:15",
       "home": "Amager Volley",
@@ -274,6 +296,7 @@
       "score": null
     },
     {
+      "matchId": 77868,
       "date": "2026-12-06",
       "time": "12:30",
       "home": "Gentofte Volley",
@@ -283,6 +306,7 @@
       "score": null
     },
     {
+      "matchId": 77867,
       "date": "2026-12-06",
       "time": "13:45",
       "home": "Gentofte Volley",
@@ -292,6 +316,7 @@
       "score": null
     },
     {
+      "matchId": 77872,
       "date": "2027-01-10",
       "time": "10:00",
       "home": "DTU Volley",
@@ -301,6 +326,7 @@
       "score": null
     },
     {
+      "matchId": 77870,
       "date": "2027-01-10",
       "time": "11:15",
       "home": "Amager Volley",
@@ -310,6 +336,7 @@
       "score": null
     },
     {
+      "matchId": 77871,
       "date": "2027-01-10",
       "time": "12:30",
       "home": "CBS Sport",
@@ -319,6 +346,7 @@
       "score": null
     },
     {
+      "matchId": 77869,
       "date": "2027-01-10",
       "time": "13:45",
       "home": "Amager Volley",
@@ -328,6 +356,7 @@
       "score": null
     },
     {
+      "matchId": 77876,
       "date": "2027-01-17",
       "time": "10:00",
       "home": "Gentofte Volley",
@@ -337,6 +366,7 @@
       "score": null
     },
     {
+      "matchId": 77875,
       "date": "2027-01-17",
       "time": "11:15",
       "home": "Gentofte Volley",
@@ -346,6 +376,7 @@
       "score": null
     },
     {
+      "matchId": 77874,
       "date": "2027-01-17",
       "time": "12:30",
       "home": "Farum-Holte",
@@ -355,6 +386,7 @@
       "score": null
     },
     {
+      "matchId": 77873,
       "date": "2027-01-17",
       "time": "13:45",
       "home": "Farum-Holte",
@@ -364,6 +396,7 @@
       "score": null
     },
     {
+      "matchId": 77877,
       "date": "2027-01-30",
       "time": "13:00",
       "home": "Amager Volley",
@@ -373,6 +406,7 @@
       "score": null
     },
     {
+      "matchId": 77878,
       "date": "2027-01-30",
       "time": "14:15",
       "home": "Amager Volley",
@@ -382,6 +416,7 @@
       "score": null
     },
     {
+      "matchId": 77879,
       "date": "2027-01-30",
       "time": "15:30",
       "home": "CBS Sport",
@@ -391,6 +426,7 @@
       "score": null
     },
     {
+      "matchId": 77880,
       "date": "2027-01-30",
       "time": "16:45",
       "home": "CBS Sport",
@@ -400,6 +436,7 @@
       "score": null
     },
     {
+      "matchId": 77884,
       "date": "2027-02-07",
       "time": "10:00",
       "home": "Grøndal EV",
@@ -409,6 +446,7 @@
       "score": null
     },
     {
+      "matchId": 77882,
       "date": "2027-02-07",
       "time": "11:15",
       "home": "DTU Volley",
@@ -418,6 +456,7 @@
       "score": null
     },
     {
+      "matchId": 77883,
       "date": "2027-02-07",
       "time": "12:30",
       "home": "Farum-Holte",
@@ -427,6 +466,7 @@
       "score": null
     },
     {
+      "matchId": 77881,
       "date": "2027-02-07",
       "time": "13:45",
       "home": "DTU Volley",
@@ -436,6 +476,7 @@
       "score": null
     },
     {
+      "matchId": 77892,
       "date": "2027-03-07",
       "time": "10:00",
       "home": "KSV",
@@ -445,6 +486,7 @@
       "score": null
     },
     {
+      "matchId": 77891,
       "date": "2027-03-07",
       "time": "11:15",
       "home": "Farum-Holte",
@@ -454,6 +496,7 @@
       "score": null
     },
     {
+      "matchId": 77890,
       "date": "2027-03-07",
       "time": "12:30",
       "home": "Amager Volley",
@@ -463,6 +506,7 @@
       "score": null
     },
     {
+      "matchId": 77889,
       "date": "2027-03-07",
       "time": "13:45",
       "home": "Amager Volley",
@@ -472,6 +516,7 @@
       "score": null
     },
     {
+      "matchId": 77885,
       "date": "2027-03-07",
       "time": "14:00",
       "home": "CBS Sport",
@@ -481,6 +526,7 @@
       "score": null
     },
     {
+      "matchId": 77887,
       "date": "2027-03-07",
       "time": "15:15",
       "home": "DTU Volley",
@@ -490,6 +536,7 @@
       "score": null
     },
     {
+      "matchId": 77886,
       "date": "2027-03-07",
       "time": "16:30",
       "home": "CBS Sport",
@@ -499,6 +546,7 @@
       "score": null
     },
     {
+      "matchId": 77888,
       "date": "2027-03-07",
       "time": "17:45",
       "home": "DTU Volley",
@@ -508,6 +556,7 @@
       "score": null
     },
     {
+      "matchId": 77900,
       "date": "2027-04-11",
       "time": "10:00",
       "home": "Gentofte Volley",
@@ -517,6 +566,7 @@
       "score": null
     },
     {
+      "matchId": 77895,
       "date": "2027-04-11",
       "time": "10:00",
       "home": "DTU Volley",
@@ -526,6 +576,7 @@
       "score": null
     },
     {
+      "matchId": 77893,
       "date": "2027-04-11",
       "time": "11:15",
       "home": "Amager Volley",
@@ -535,6 +586,7 @@
       "score": null
     },
     {
+      "matchId": 77899,
       "date": "2027-04-11",
       "time": "11:15",
       "home": "Farum-Holte",
@@ -544,6 +596,7 @@
       "score": null
     },
     {
+      "matchId": 77898,
       "date": "2027-04-11",
       "time": "12:30",
       "home": "CBS Sport",
@@ -553,6 +606,7 @@
       "score": null
     },
     {
+      "matchId": 77896,
       "date": "2027-04-11",
       "time": "12:30",
       "home": "Grøndal EV",
@@ -562,6 +616,7 @@
       "score": null
     },
     {
+      "matchId": 77897,
       "date": "2027-04-11",
       "time": "13:45",
       "home": "CBS Sport",
@@ -571,6 +626,7 @@
       "score": null
     },
     {
+      "matchId": 77894,
       "date": "2027-04-11",
       "time": "13:45",
       "home": "Amager Volley",

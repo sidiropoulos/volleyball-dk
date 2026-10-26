@@ -1,243 +1,230 @@
 {
-  "updatedAt": "2026-09-22T14:55:25.459Z",
+  "updatedAt": "2026-10-26T21:45:27.478Z",
   "teams": [
     {
       "pos": 1,
-      "name": "Amager Volley.2",
-      "k": 0,
-      "v": 0,
+      "name": "Frederiksberg Volley",
+      "k": 3,
+      "v": 3,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "9-2",
+      "pts": 9
     },
     {
       "pos": 2,
-      "name": "Hvidovre VK.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Gentofte Volley.2",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "8-5",
+      "pts": 7
     },
     {
       "pos": 3,
-      "name": "Frederiksberg Volley",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "VLI",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "8-6",
+      "pts": 7
     },
     {
       "pos": 4,
       "name": "DTU Volley",
-      "k": 0,
-      "v": 0,
+      "k": 2,
+      "v": 2,
       "t": 0,
-      "sets": "—",
-      "pts": 0
+      "sets": "6-0",
+      "pts": 6
     },
     {
       "pos": 5,
-      "name": "Gentofte Volley.2",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "KSV",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "5-3",
+      "pts": 4
     },
     {
       "pos": 6,
-      "name": "RS Rødovre",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Hvidovre VK.2",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-3",
+      "pts": 3
     },
     {
       "pos": 7,
-      "name": "Enghave VK",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "RS Rødovre",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-3",
+      "pts": 3
     },
     {
       "pos": 8,
-      "name": "VLI",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "Team Køge",
+      "k": 3,
+      "v": 1,
+      "t": 2,
+      "sets": "3-7",
+      "pts": 3
     },
     {
       "pos": 9,
-      "name": "Team Køge",
-      "k": 0,
+      "name": "Amager Volley.2",
+      "k": 3,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 3,
+      "sets": "2-9",
       "pts": 0
     },
     {
       "pos": 10,
-      "name": "KSV",
-      "k": 0,
+      "name": "Enghave VK",
+      "k": 3,
       "v": 0,
-      "t": 0,
-      "sets": "—",
+      "t": 3,
+      "sets": "0-9",
       "pts": 0
     }
   ],
   "fixtures": [
     {
+      "matchId": 75330,
       "date": "2026-10-03",
       "time": "13:30",
       "home": "Hvidovre VK.2",
       "away": "Enghave VK",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 75329,
       "date": "2026-10-03",
       "time": "15:00",
       "home": "Amager Volley.2",
       "away": "RS Rødovre",
       "venue": "Sundbyhal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 75332,
       "date": "2026-10-04",
       "time": "11:00",
       "home": "DTU Volley",
       "away": "Team Køge",
       "venue": "Engelsborghallen",
       "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 75331,
       "date": "2026-10-04",
       "time": "12:00",
       "home": "Frederiksberg Volley",
       "away": "VLI",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "3-2"
     },
     {
+      "matchId": 75337,
       "date": "2026-10-10",
       "time": "13:30",
       "home": "Team Køge",
       "away": "Gentofte Volley.2",
       "venue": "Spar Nord Arena",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
-      "date": "2026-10-11",
-      "time": "10:00",
-      "home": "KSV",
-      "away": "DTU Volley",
-      "venue": "Idrætshuset",
-      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
-    },
-    {
-      "date": "2026-10-11",
-      "time": "11:00",
-      "home": "RS Rødovre",
-      "away": "Hvidovre VK.2",
-      "venue": "Rødovrehallen",
-      "mapsUrl": null,
-      "score": null
-    },
-    {
+      "matchId": 75336,
       "date": "2026-10-11",
       "time": "14:30",
       "home": "VLI",
       "away": "Amager Volley.2",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "3-1"
     },
     {
+      "matchId": 75335,
       "date": "2026-10-11",
       "time": "16:00",
       "home": "Enghave VK",
       "away": "Frederiksberg Volley",
       "venue": "Bavnehøjhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 75342,
       "date": "2026-10-24",
       "time": "14:30",
       "home": "DTU Volley",
       "away": "Enghave VK",
       "venue": "Engelsborghallen",
       "mapsUrl": "https://maps.google.com/maps?q=Engelsborgvej%2093%2C%202800%20Kgs.%20Lyngby",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 75341,
       "date": "2026-10-25",
       "time": "10:00",
       "home": "Frederiksberg Volley",
       "away": "RS Rødovre",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
-      "score": null
+      "score": "3-0"
     },
     {
+      "matchId": 75339,
       "date": "2026-10-25",
       "time": "11:00",
       "home": "Amager Volley.2",
       "away": "Team Køge",
       "venue": "Sundbyhal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "1-3"
     },
     {
+      "matchId": 75343,
       "date": "2026-10-25",
       "time": "12:00",
       "home": "Gentofte Volley.2",
       "away": "VLI",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "2-3"
     },
     {
+      "matchId": 75340,
       "date": "2026-10-25",
       "time": "14:00",
       "home": "Hvidovre VK.2",
       "away": "KSV",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
+      "matchId": 75333,
       "date": "2026-10-26",
       "time": "18:00",
       "home": "Gentofte Volley.2",
       "away": "KSV",
       "venue": "Gentoftehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-2"
     },
     {
-      "date": "2026-10-31",
-      "time": "13:00",
-      "home": "Team Køge",
-      "away": "RS Rødovre",
-      "venue": "Spar Nord Arena",
-      "mapsUrl": null,
-      "score": null
-    },
-    {
+      "matchId": 75345,
       "date": "2026-10-31",
       "time": "14:00",
       "home": "VLI",
@@ -247,6 +234,7 @@
       "score": null
     },
     {
+      "matchId": 75344,
       "date": "2026-11-01",
       "time": "12:00",
       "home": "Enghave VK",
@@ -256,6 +244,7 @@
       "score": null
     },
     {
+      "matchId": 75348,
       "date": "2026-11-01",
       "time": "14:30",
       "home": "KSV",
@@ -265,6 +254,7 @@
       "score": null
     },
     {
+      "matchId": 75346,
       "date": "2026-11-01",
       "time": "16:30",
       "home": "Gentofte Volley.2",
@@ -274,6 +264,17 @@
       "score": null
     },
     {
+      "matchId": 75347,
+      "date": "2026-11-03",
+      "time": "19:00",
+      "home": "Team Køge",
+      "away": "RS Rødovre",
+      "venue": "Spar Nord Arena",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "matchId": 75352,
       "date": "2026-11-07",
       "time": "12:00",
       "home": "Frederiksberg Volley",
@@ -283,6 +284,7 @@
       "score": null
     },
     {
+      "matchId": 75349,
       "date": "2026-11-07",
       "time": "13:00",
       "home": "Hvidovre VK.2",
@@ -292,6 +294,7 @@
       "score": null
     },
     {
+      "matchId": 75350,
       "date": "2026-11-07",
       "time": "15:00",
       "home": "Amager Volley.2",
@@ -301,6 +304,7 @@
       "score": null
     },
     {
+      "matchId": 75353,
       "date": "2026-11-08",
       "time": "13:00",
       "home": "RS Rødovre",
@@ -310,6 +314,7 @@
       "score": null
     },
     {
+      "matchId": 75351,
       "date": "2026-11-08",
       "time": "14:30",
       "home": "VLI",
@@ -319,6 +324,17 @@
       "score": null
     },
     {
+      "matchId": 75334,
+      "date": "2026-11-11",
+      "time": "19:00",
+      "home": "RS Rødovre",
+      "away": "Hvidovre VK.2",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "matchId": 75356,
       "date": "2026-11-14",
       "time": "14:30",
       "home": "DTU Volley",
@@ -328,6 +344,7 @@
       "score": null
     },
     {
+      "matchId": 75373,
       "date": "2026-11-15",
       "time": "10:00",
       "home": "KSV",
@@ -337,6 +354,7 @@
       "score": null
     },
     {
+      "matchId": 75357,
       "date": "2026-11-21",
       "time": "15:30",
       "home": "Team Køge",
@@ -346,6 +364,7 @@
       "score": null
     },
     {
+      "matchId": 75358,
       "date": "2026-11-22",
       "time": "10:00",
       "home": "KSV",
@@ -355,6 +374,7 @@
       "score": null
     },
     {
+      "matchId": 75354,
       "date": "2026-11-22",
       "time": "12:00",
       "home": "Gentofte Volley.2",
@@ -364,6 +384,7 @@
       "score": null
     },
     {
+      "matchId": 75355,
       "date": "2026-11-22",
       "time": "14:00",
       "home": "Frederiksberg Volley",
@@ -373,6 +394,7 @@
       "score": null
     },
     {
+      "matchId": 75360,
       "date": "2026-11-29",
       "time": "11:00",
       "home": "RS Rødovre",
@@ -382,6 +404,17 @@
       "score": null
     },
     {
+      "matchId": 75338,
+      "date": "2026-11-29",
+      "time": "18:00",
+      "home": "KSV",
+      "away": "DTU Volley",
+      "venue": "Idrætshuset",
+      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "score": null
+    },
+    {
+      "matchId": 75359,
       "date": "2026-12-05",
       "time": "14:30",
       "home": "DTU Volley",
@@ -391,6 +424,7 @@
       "score": null
     },
     {
+      "matchId": 75362,
       "date": "2026-12-05",
       "time": "15:30",
       "home": "Team Køge",
@@ -400,6 +434,7 @@
       "score": null
     },
     {
+      "matchId": 75361,
       "date": "2026-12-06",
       "time": "12:00",
       "home": "Enghave VK",
@@ -409,6 +444,7 @@
       "score": null
     },
     {
+      "matchId": 75368,
       "date": "2026-12-11",
       "time": "20:00",
       "home": "VLI",
@@ -418,6 +454,7 @@
       "score": null
     },
     {
+      "matchId": 75366,
       "date": "2026-12-13",
       "time": "10:00",
       "home": "Gentofte Volley.2",
@@ -427,6 +464,7 @@
       "score": null
     },
     {
+      "matchId": 75367,
       "date": "2026-12-13",
       "time": "12:00",
       "home": "Enghave VK",
@@ -436,6 +474,7 @@
       "score": null
     },
     {
+      "matchId": 75364,
       "date": "2026-12-13",
       "time": "12:00",
       "home": "Amager Volley.2",
@@ -445,6 +484,7 @@
       "score": null
     },
     {
+      "matchId": 75365,
       "date": "2026-12-13",
       "time": "14:00",
       "home": "Hvidovre VK.2",
@@ -454,6 +494,7 @@
       "score": null
     },
     {
+      "matchId": 75372,
       "date": "2027-01-09",
       "time": "13:00",
       "home": "RS Rødovre",
@@ -463,6 +504,7 @@
       "score": null
     },
     {
+      "matchId": 75369,
       "date": "2027-01-09",
       "time": "15:00",
       "home": "Amager Volley.2",
@@ -472,6 +514,7 @@
       "score": null
     },
     {
+      "matchId": 75371,
       "date": "2027-01-10",
       "time": "13:00",
       "home": "DTU Volley",
@@ -481,6 +524,7 @@
       "score": null
     },
     {
+      "matchId": 75370,
       "date": "2027-01-10",
       "time": "14:30",
       "home": "Frederiksberg Volley",
@@ -490,6 +534,7 @@
       "score": null
     },
     {
+      "matchId": 75377,
       "date": "2027-01-16",
       "time": "13:00",
       "home": "Team Køge",
@@ -499,6 +544,7 @@
       "score": null
     },
     {
+      "matchId": 75376,
       "date": "2027-01-16",
       "time": "16:00",
       "home": "VLI",
@@ -508,6 +554,7 @@
       "score": null
     },
     {
+      "matchId": 75375,
       "date": "2027-01-17",
       "time": "10:00",
       "home": "Enghave VK",
@@ -517,6 +564,7 @@
       "score": null
     },
     {
+      "matchId": 75374,
       "date": "2027-01-17",
       "time": "11:00",
       "home": "RS Rødovre",
@@ -526,6 +574,7 @@
       "score": null
     },
     {
+      "matchId": 75378,
       "date": "2027-01-17",
       "time": "14:30",
       "home": "KSV",
@@ -535,6 +584,7 @@
       "score": null
     },
     {
+      "matchId": 75383,
       "date": "2027-01-30",
       "time": "16:30",
       "home": "DTU Volley",
@@ -544,6 +594,7 @@
       "score": null
     },
     {
+      "matchId": 75381,
       "date": "2027-01-31",
       "time": "11:00",
       "home": "Amager Volley.2",
@@ -553,6 +604,7 @@
       "score": null
     },
     {
+      "matchId": 75379,
       "date": "2027-01-31",
       "time": "14:00",
       "home": "Hvidovre VK.2",
@@ -562,6 +614,7 @@
       "score": null
     },
     {
+      "matchId": 75382,
       "date": "2027-01-31",
       "time": "14:30",
       "home": "Gentofte Volley.2",
@@ -571,6 +624,7 @@
       "score": null
     },
     {
+      "matchId": 75380,
       "date": "2027-01-31",
       "time": "16:30",
       "home": "Frederiksberg Volley",
@@ -580,6 +634,7 @@
       "score": null
     },
     {
+      "matchId": 75384,
       "date": "2027-02-13",
       "time": "15:30",
       "home": "Team Køge",
@@ -589,6 +644,7 @@
       "score": null
     },
     {
+      "matchId": 75385,
       "date": "2027-02-14",
       "time": "10:00",
       "home": "KSV",
@@ -598,6 +654,7 @@
       "score": null
     },
     {
+      "matchId": 75388,
       "date": "2027-02-14",
       "time": "10:00",
       "home": "VLI",
@@ -607,6 +664,7 @@
       "score": null
     },
     {
+      "matchId": 75387,
       "date": "2027-02-14",
       "time": "12:00",
       "home": "Enghave VK",
@@ -616,6 +674,7 @@
       "score": null
     },
     {
+      "matchId": 75363,
       "date": "2027-02-20",
       "time": "14:00",
       "home": "KSV",
@@ -625,6 +684,7 @@
       "score": null
     },
     {
+      "matchId": 75386,
       "date": "2027-02-21",
       "time": "13:00",
       "home": "RS Rødovre",
@@ -634,6 +694,7 @@
       "score": null
     },
     {
+      "matchId": 75390,
       "date": "2027-02-27",
       "time": "16:00",
       "home": "Hvidovre VK.2",
@@ -643,6 +704,7 @@
       "score": null
     },
     {
+      "matchId": 75391,
       "date": "2027-02-27",
       "time": "16:30",
       "home": "DTU Volley",
@@ -652,6 +714,7 @@
       "score": null
     },
     {
+      "matchId": 75389,
       "date": "2027-02-28",
       "time": "11:00",
       "home": "Amager Volley.2",
@@ -661,6 +724,7 @@
       "score": null
     },
     {
+      "matchId": 75393,
       "date": "2027-02-28",
       "time": "13:30",
       "home": "Frederiksberg Volley",
@@ -670,6 +734,7 @@
       "score": null
     },
     {
+      "matchId": 75392,
       "date": "2027-02-28",
       "time": "15:00",
       "home": "RS Rødovre",
@@ -679,6 +744,7 @@
       "score": null
     },
     {
+      "matchId": 75395,
       "date": "2027-03-06",
       "time": "16:30",
       "home": "DTU Volley",
@@ -688,6 +754,7 @@
       "score": null
     },
     {
+      "matchId": 75397,
       "date": "2027-03-13",
       "time": "13:30",
       "home": "Team Køge",
@@ -697,6 +764,7 @@
       "score": null
     },
     {
+      "matchId": 75396,
       "date": "2027-03-14",
       "time": "10:00",
       "home": "Enghave VK",
@@ -706,6 +774,7 @@
       "score": null
     },
     {
+      "matchId": 75394,
       "date": "2027-03-14",
       "time": "10:00",
       "home": "Gentofte Volley.2",
@@ -715,6 +784,7 @@
       "score": null
     },
     {
+      "matchId": 75398,
       "date": "2027-03-14",
       "time": "12:00",
       "home": "KSV",
@@ -724,6 +794,7 @@
       "score": null
     },
     {
+      "matchId": 75400,
       "date": "2027-03-20",
       "time": "11:00",
       "home": "Hvidovre VK.2",
@@ -733,6 +804,7 @@
       "score": null
     },
     {
+      "matchId": 75403,
       "date": "2027-03-21",
       "time": "12:00",
       "home": "Enghave VK",
@@ -742,6 +814,7 @@
       "score": null
     },
     {
+      "matchId": 75399,
       "date": "2027-03-21",
       "time": "13:00",
       "home": "Amager Volley.2",
@@ -751,6 +824,7 @@
       "score": null
     },
     {
+      "matchId": 75401,
       "date": "2027-03-21",
       "time": "15:00",
       "home": "RS Rødovre",
@@ -760,6 +834,7 @@
       "score": null
     },
     {
+      "matchId": 75402,
       "date": "2027-03-21",
       "time": "16:30",
       "home": "VLI",
@@ -769,6 +844,7 @@
       "score": null
     },
     {
+      "matchId": 75407,
       "date": "2027-04-03",
       "time": "11:00",
       "home": "Hvidovre VK.2",
@@ -778,6 +854,7 @@
       "score": null
     },
     {
+      "matchId": 75404,
       "date": "2027-04-04",
       "time": "10:00",
       "home": "Frederiksberg Volley",
@@ -787,6 +864,7 @@
       "score": null
     },
     {
+      "matchId": 75408,
       "date": "2027-04-04",
       "time": "11:00",
       "home": "Amager Volley.2",
@@ -796,6 +874,7 @@
       "score": null
     },
     {
+      "matchId": 75405,
       "date": "2027-04-04",
       "time": "14:30",
       "home": "VLI",
@@ -805,6 +884,7 @@
       "score": null
     },
     {
+      "matchId": 75406,
       "date": "2027-04-04",
       "time": "14:30",
       "home": "Gentofte Volley.2",
@@ -814,6 +894,7 @@
       "score": null
     },
     {
+      "matchId": 75411,
       "date": "2027-04-11",
       "time": "11:00",
       "home": "RS Rødovre",
@@ -823,6 +904,7 @@
       "score": null
     },
     {
+      "matchId": 75410,
       "date": "2027-04-17",
       "time": "16:30",
       "home": "DTU Volley",
@@ -832,6 +914,7 @@
       "score": null
     },
     {
+      "matchId": 75412,
       "date": "2027-04-18",
       "time": "13:30",
       "home": "Team Køge",
@@ -841,6 +924,7 @@
       "score": null
     },
     {
+      "matchId": 75413,
       "date": "2027-04-18",
       "time": "14:30",
       "home": "KSV",
@@ -850,6 +934,7 @@
       "score": null
     },
     {
+      "matchId": 75409,
       "date": "2027-04-18",
       "time": "14:30",
       "home": "Frederiksberg Volley",
@@ -859,6 +944,7 @@
       "score": null
     },
     {
+      "matchId": 75414,
       "date": "2027-04-24",
       "time": "11:00",
       "home": "Hvidovre VK.2",
@@ -868,6 +954,7 @@
       "score": null
     },
     {
+      "matchId": 75415,
       "date": "2027-04-25",
       "time": "10:00",
       "home": "Gentofte Volley.2",
@@ -877,6 +964,7 @@
       "score": null
     },
     {
+      "matchId": 75417,
       "date": "2027-04-25",
       "time": "10:00",
       "home": "Enghave VK",
@@ -886,6 +974,7 @@
       "score": null
     },
     {
+      "matchId": 75416,
       "date": "2027-04-25",
       "time": "12:00",
       "home": "VLI",
@@ -895,6 +984,7 @@
       "score": null
     },
     {
+      "matchId": 75418,
       "date": "2027-04-25",
       "time": "15:30",
       "home": "Team Køge",
