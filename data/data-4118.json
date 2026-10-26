@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T10:48:10.184Z",
+  "updatedAt": "2026-10-26T12:19:11.153Z",
   "teams": [
     {
       "pos": 1,
@@ -12,6 +12,15 @@
     },
     {
       "pos": 2,
+      "name": "VLI",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "8-6",
+      "pts": 7
+    },
+    {
+      "pos": 3,
       "name": "DTU Volley",
       "k": 2,
       "v": 2,
@@ -20,26 +29,17 @@
       "pts": 6
     },
     {
-      "pos": 3,
-      "name": "VLI",
+      "pos": 4,
+      "name": "Gentofte Volley.2",
       "k": 2,
       "v": 1,
       "t": 1,
-      "sets": "5-4",
+      "sets": "5-3",
       "pts": 4
     },
     {
-      "pos": 4,
-      "name": "Gentofte Volley.2",
-      "k": 1,
-      "v": 1,
-      "t": 0,
-      "sets": "3-0",
-      "pts": 3
-    },
-    {
       "pos": 5,
-      "name": "Hvidovre VK.2",
+      "name": "KSV",
       "k": 1,
       "v": 1,
       "t": 0,
@@ -48,7 +48,7 @@
     },
     {
       "pos": 6,
-      "name": "RS Rødovre",
+      "name": "Hvidovre VK.2",
       "k": 2,
       "v": 1,
       "t": 1,
@@ -57,29 +57,29 @@
     },
     {
       "pos": 7,
-      "name": "KSV",
-      "k": 0,
-      "v": 0,
-      "t": 0,
-      "sets": "—",
-      "pts": 0
+      "name": "RS Rødovre",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "3-3",
+      "pts": 3
     },
     {
       "pos": 8,
-      "name": "Amager Volley.2",
-      "k": 2,
-      "v": 0,
+      "name": "Team Køge",
+      "k": 3,
+      "v": 1,
       "t": 2,
-      "sets": "1-6",
-      "pts": 0
+      "sets": "3-7",
+      "pts": 3
     },
     {
       "pos": 9,
-      "name": "Team Køge",
-      "k": 2,
+      "name": "Amager Volley.2",
+      "k": 3,
       "v": 0,
-      "t": 2,
-      "sets": "0-6",
+      "t": 3,
+      "sets": "2-9",
       "pts": 0
     },
     {
@@ -181,7 +181,7 @@
       "away": "Team Køge",
       "venue": "Sundbyhal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Englandsvej%2061%2C%202300%20K%C3%B8benhavn%20S",
-      "score": null
+      "score": "1-3"
     },
     {
       "date": "2026-10-25",
@@ -190,7 +190,7 @@
       "away": "VLI",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "2-3"
     },
     {
       "date": "2026-10-25",
@@ -199,7 +199,7 @@
       "away": "KSV",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
       "date": "2026-10-26",

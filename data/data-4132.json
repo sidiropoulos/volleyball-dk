@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-25T10:48:10.639Z",
+  "updatedAt": "2026-10-26T12:19:11.699Z",
   "teams": [
     {
       "pos": 1,
       "name": "KSV.3",
-      "k": 4,
-      "v": 4,
+      "k": 5,
+      "v": 5,
       "t": 0,
-      "sets": "12-3",
-      "pts": 12
+      "sets": "15-5",
+      "pts": 15
     },
     {
       "pos": 2,
@@ -21,6 +21,15 @@
     },
     {
       "pos": 3,
+      "name": "Glostrup IC.2",
+      "k": 3,
+      "v": 2,
+      "t": 1,
+      "sets": "7-6",
+      "pts": 6
+    },
+    {
+      "pos": 4,
       "name": "Ishøj Volley.2",
       "k": 4,
       "v": 2,
@@ -29,7 +38,16 @@
       "pts": 6
     },
     {
-      "pos": 4,
+      "pos": 5,
+      "name": "Hvidovre VK.4",
+      "k": 2,
+      "v": 1,
+      "t": 1,
+      "sets": "5-3",
+      "pts": 4
+    },
+    {
+      "pos": 6,
       "name": "Gentofte Volley.4",
       "k": 4,
       "v": 1,
@@ -38,17 +56,8 @@
       "pts": 4
     },
     {
-      "pos": 5,
-      "name": "Hvidovre VK.4",
-      "k": 1,
-      "v": 1,
-      "t": 0,
-      "sets": "3-0",
-      "pts": 3
-    },
-    {
-      "pos": 6,
-      "name": "VLI.4",
+      "pos": 7,
+      "name": "KV 61.2",
       "k": 2,
       "v": 1,
       "t": 1,
@@ -56,31 +65,22 @@
       "pts": 3
     },
     {
-      "pos": 7,
-      "name": "Glostrup IC.2",
-      "k": 2,
+      "pos": 8,
+      "name": "VLI.4",
+      "k": 3,
       "v": 1,
-      "t": 1,
-      "sets": "4-5",
+      "t": 2,
+      "sets": "4-6",
       "pts": 3
     },
     {
-      "pos": 8,
-      "name": "VK Holbæk.2",
-      "k": 3,
-      "v": 0,
-      "t": 3,
-      "sets": "3-9",
-      "pts": 1
-    },
-    {
       "pos": 9,
-      "name": "KV 61.2",
-      "k": 1,
+      "name": "VK Holbæk.2",
+      "k": 4,
       "v": 0,
-      "t": 1,
-      "sets": "0-3",
-      "pts": 0
+      "t": 4,
+      "sets": "3-12",
+      "pts": 1
     }
   ],
   "fixtures": [
@@ -199,7 +199,7 @@
       "away": "VK Holbæk.2",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "3-0"
     },
     {
       "date": "2026-10-25",
@@ -208,7 +208,7 @@
       "away": "VLI.4",
       "venue": "Hvissingehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-1"
     },
     {
       "date": "2026-10-25",
@@ -217,7 +217,7 @@
       "away": "KSV.3",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "2-3"
     },
     {
       "date": "2026-10-27",
