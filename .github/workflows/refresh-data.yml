@@ -2,7 +2,9 @@ name: Refresh volleyball data
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0,30 10-19 * * 0,6"
+    - cron: "0 20 * * 0,6"
+    - cron: "0 17-23,0 * * 1-5"
   workflow_dispatch:
 
 jobs:
