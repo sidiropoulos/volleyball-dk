@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T01:03:23.468Z",
+  "updatedAt": "2026-10-29T21:40:35.874Z",
   "teams": [
     {
       "pos": 1,
@@ -304,16 +304,6 @@
       "score": null
     },
     {
-      "matchId": 75353,
-      "date": "2026-11-08",
-      "time": "13:00",
-      "home": "RS Rødovre",
-      "away": "KSV",
-      "venue": "Rødovrehallen",
-      "mapsUrl": null,
-      "score": null
-    },
-    {
       "matchId": 75351,
       "date": "2026-11-08",
       "time": "14:30",
@@ -391,6 +381,16 @@
       "away": "Hvidovre VK.2",
       "venue": "Kedelhallen",
       "mapsUrl": "https://maps.google.com/maps?q=Nyelandsvej%2075%2C%202000%20Frederiksberg",
+      "score": null
+    },
+    {
+      "matchId": 75353,
+      "date": "2026-11-25",
+      "time": "19:00",
+      "home": "RS Rødovre",
+      "away": "KSV",
+      "venue": "Rødovrehallen",
+      "mapsUrl": null,
       "score": null
     },
     {
