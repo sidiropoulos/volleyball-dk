@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:33:12.179Z",
+  "updatedAt": "2026-11-01T20:55:59.127Z",
   "teams": [
     {
       "pos": 1,
@@ -48,21 +48,21 @@
     },
     {
       "pos": 6,
-      "name": "Glostrup IC",
+      "name": "VK Vestsjælland",
       "k": 3,
       "v": 1,
       "t": 2,
-      "sets": "4-6",
-      "pts": 3
+      "sets": "6-8",
+      "pts": 4
     },
     {
       "pos": 7,
-      "name": "VK Vestsjælland",
-      "k": 2,
-      "v": 0,
-      "t": 2,
-      "sets": "3-6",
-      "pts": 1
+      "name": "Glostrup IC",
+      "k": 4,
+      "v": 1,
+      "t": 3,
+      "sets": "6-9",
+      "pts": 4
     },
     {
       "pos": 8,
@@ -242,7 +242,7 @@
       "away": "Glostrup IC",
       "venue": "Korsørhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-2"
     },
     {
       "matchId": 76610,
