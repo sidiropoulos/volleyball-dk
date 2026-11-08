@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T20:23:08.058Z",
+  "updatedAt": "2026-11-08T16:29:12.885Z",
   "teams": [
     {
       "pos": 1,
@@ -21,39 +21,39 @@
     },
     {
       "pos": 3,
-      "name": "KSV.4",
-      "k": 4,
+      "name": "Hillerød G&I",
+      "k": 5,
       "v": 3,
-      "t": 1,
-      "sets": "9-6",
+      "t": 2,
+      "sets": "10-8",
       "pts": 9
     },
     {
       "pos": 4,
-      "name": "Tårnfalkene",
-      "k": 3,
-      "v": 2,
-      "t": 1,
-      "sets": "7-6",
-      "pts": 6
+      "name": "KSV.4",
+      "k": 5,
+      "v": 3,
+      "t": 2,
+      "sets": "9-9",
+      "pts": 9
     },
     {
       "pos": 5,
-      "name": "Hillerød G&I",
+      "name": "VK Vestsjælland",
       "k": 4,
       "v": 2,
       "t": 2,
-      "sets": "7-7",
-      "pts": 6
+      "sets": "9-8",
+      "pts": 7
     },
     {
       "pos": 6,
-      "name": "VK Vestsjælland",
-      "k": 3,
-      "v": 1,
+      "name": "Tårnfalkene",
+      "k": 4,
+      "v": 2,
       "t": 2,
-      "sets": "6-8",
-      "pts": 4
+      "sets": "9-9",
+      "pts": 7
     },
     {
       "pos": 7,
@@ -66,20 +66,20 @@
     },
     {
       "pos": 8,
-      "name": "Taastrup IK",
-      "k": 2,
-      "v": 0,
-      "t": 2,
-      "sets": "2-6",
-      "pts": 0
+      "name": "Roskilde VK",
+      "k": 5,
+      "v": 1,
+      "t": 4,
+      "sets": "3-14",
+      "pts": 3
     },
     {
       "pos": 9,
-      "name": "Roskilde VK",
-      "k": 4,
+      "name": "Taastrup IK",
+      "k": 3,
       "v": 0,
-      "t": 4,
-      "sets": "0-12",
+      "t": 3,
+      "sets": "3-9",
       "pts": 0
     }
   ],
@@ -262,7 +262,7 @@
       "away": "Taastrup IK",
       "venue": "Sophienborgskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-1"
     },
     {
       "matchId": 76679,
@@ -272,7 +272,7 @@
       "away": "Roskilde VK",
       "venue": "Nordregårdskolen",
       "mapsUrl": null,
-      "score": null
+      "score": "2-3"
     },
     {
       "matchId": 76698,
@@ -282,7 +282,7 @@
       "away": "KSV.4",
       "venue": "Korsørhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-0"
     },
     {
       "matchId": 76695,
