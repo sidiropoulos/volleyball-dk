@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:36:25.782Z",
+  "updatedAt": "2026-11-11T23:22:51.301Z",
   "teams": [
     {
       "pos": 1,
@@ -123,16 +123,6 @@
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
       "score": "3-1"
-    },
-    {
-      "matchId": 77374,
-      "date": "2026-10-03",
-      "time": "11:00",
-      "home": "Farum-Holte.2",
-      "away": "Aarby Volley",
-      "venue": "Ny Holtehal",
-      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
-      "score": null
     },
     {
       "matchId": 77391,
@@ -435,11 +425,11 @@
       "score": null
     },
     {
-      "matchId": 77393,
-      "date": "2027-01-09",
-      "time": "09:00",
+      "matchId": 77374,
+      "date": "2026-12-19",
+      "time": "17:00",
       "home": "Farum-Holte.2",
-      "away": "Gentofte Volley.3",
+      "away": "Aarby Volley",
       "venue": "Ny Holtehal",
       "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
       "score": null
@@ -451,6 +441,16 @@
       "home": "B1960",
       "away": "Amager Volley.3",
       "venue": "Nørrebrohallen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
+      "matchId": 77393,
+      "date": "2027-01-09",
+      "time": "18:00",
+      "home": "Farum-Holte.2",
+      "away": "Gentofte Volley.3",
+      "venue": "Gl. Holtehal",
       "mapsUrl": null,
       "score": null
     },
@@ -555,6 +555,16 @@
       "score": null
     },
     {
+      "matchId": 77414,
+      "date": "2027-01-31",
+      "time": "14:00",
+      "home": "Hillerød G&I",
+      "away": "Gentofte Volley.3",
+      "venue": "Sophienborgskolen",
+      "mapsUrl": null,
+      "score": null
+    },
+    {
       "matchId": 77380,
       "date": "2027-01-31",
       "time": "14:00",
@@ -571,16 +581,6 @@
       "home": "Aarby Volley",
       "away": "VK Næstved",
       "venue": "Aarby Fritidscenter",
-      "mapsUrl": null,
-      "score": null
-    },
-    {
-      "matchId": 77414,
-      "date": "2027-01-31",
-      "time": "14:00",
-      "home": "Hillerød G&I",
-      "away": "Gentofte Volley.3",
-      "venue": "Sophienborgskolen",
       "mapsUrl": null,
       "score": null
     },

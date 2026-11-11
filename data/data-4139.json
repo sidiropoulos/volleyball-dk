@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:36:25.185Z",
+  "updatedAt": "2026-11-11T23:22:50.758Z",
   "teams": [
     {
       "pos": 1,
@@ -435,16 +435,6 @@
       "score": null
     },
     {
-      "matchId": 77686,
-      "date": "2027-01-09",
-      "time": "11:00",
-      "home": "Farum VK.3",
-      "away": "Aarby Volley",
-      "venue": "Ny Holtehal",
-      "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
-      "score": null
-    },
-    {
       "matchId": 77676,
       "date": "2027-01-09",
       "time": "14:00",
@@ -452,6 +442,16 @@
       "away": "Hvidovre VK.3",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
+      "score": null
+    },
+    {
+      "matchId": 77686,
+      "date": "2027-01-09",
+      "time": "16:00",
+      "home": "Farum VK.3",
+      "away": "Aarby Volley",
+      "venue": "Gl. Holtehal",
+      "mapsUrl": null,
       "score": null
     },
     {
