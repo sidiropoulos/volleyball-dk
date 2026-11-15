@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T20:51:12.929Z",
+  "updatedAt": "2026-11-15T16:45:00.012Z",
   "teams": [
     {
       "pos": 1,
@@ -66,21 +66,21 @@
     },
     {
       "pos": 8,
-      "name": "Roskilde VK",
-      "k": 5,
+      "name": "Taastrup IK",
+      "k": 4,
       "v": 1,
-      "t": 4,
-      "sets": "3-14",
+      "t": 3,
+      "sets": "6-9",
       "pts": 3
     },
     {
       "pos": 9,
-      "name": "Taastrup IK",
-      "k": 3,
-      "v": 0,
-      "t": 3,
-      "sets": "3-9",
-      "pts": 0
+      "name": "Roskilde VK",
+      "k": 6,
+      "v": 1,
+      "t": 5,
+      "sets": "3-17",
+      "pts": 3
     }
   ],
   "fixtures": [
@@ -292,7 +292,7 @@
       "away": "Taastrup IK",
       "venue": "Roskilde Gym.",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
       "matchId": 76638,
