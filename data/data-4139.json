@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T17:34:07.604Z",
+  "updatedAt": "2026-11-22T23:07:34.775Z",
   "teams": [
     {
       "pos": 1,
@@ -39,6 +39,15 @@
     },
     {
       "pos": 5,
+      "name": "Glostrup IC.2",
+      "k": 5,
+      "v": 2,
+      "t": 3,
+      "sets": "11-11",
+      "pts": 8
+    },
+    {
+      "pos": 6,
       "name": "KSV.5",
       "k": 7,
       "v": 2,
@@ -47,22 +56,13 @@
       "pts": 7
     },
     {
-      "pos": 6,
+      "pos": 7,
       "name": "Frederiksberg Volley.4",
       "k": 5,
       "v": 2,
       "t": 3,
       "sets": "6-10",
       "pts": 6
-    },
-    {
-      "pos": 7,
-      "name": "Glostrup IC.2",
-      "k": 4,
-      "v": 1,
-      "t": 3,
-      "sets": "8-9",
-      "pts": 5
     },
     {
       "pos": 8,
@@ -76,11 +76,11 @@
     {
       "pos": 9,
       "name": "VLI.4",
-      "k": 4,
+      "k": 5,
       "v": 0,
-      "t": 4,
-      "sets": "2-12",
-      "pts": 0
+      "t": 5,
+      "sets": "4-15",
+      "pts": 1
     }
   ],
   "fixtures": [
@@ -322,7 +322,7 @@
       "away": "VLI.4",
       "venue": "Hvissingehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-2"
     },
     {
       "matchId": 77693,
