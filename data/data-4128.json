@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-21T22:15:45.957Z",
+  "updatedAt": "2026-11-22T17:34:06.633Z",
   "teams": [
     {
       "pos": 1,
@@ -13,55 +13,55 @@
     {
       "pos": 2,
       "name": "KSV.2",
-      "k": 5,
-      "v": 4,
+      "k": 6,
+      "v": 5,
       "t": 1,
-      "sets": "13-3",
-      "pts": 12
+      "sets": "16-5",
+      "pts": 15
     },
     {
       "pos": 3,
       "name": "VLI",
-      "k": 5,
+      "k": 6,
       "v": 3,
-      "t": 2,
-      "sets": "13-7",
-      "pts": 11
+      "t": 3,
+      "sets": "15-10",
+      "pts": 12
     },
     {
       "pos": 4,
-      "name": "Gentofte Volley.2",
-      "k": 5,
-      "v": 3,
+      "name": "Amager Volley",
+      "k": 6,
+      "v": 4,
       "t": 2,
-      "sets": "9-8",
-      "pts": 9
+      "sets": "12-12",
+      "pts": 12
     },
     {
       "pos": 5,
-      "name": "Amager Volley",
-      "k": 5,
+      "name": "Gentofte Volley.2",
+      "k": 6,
       "v": 3,
-      "t": 2,
-      "sets": "9-10",
-      "pts": 9
+      "t": 3,
+      "sets": "11-11",
+      "pts": 10
     },
     {
       "pos": 6,
+      "name": "Lyngby-Gladsaxe Volley",
+      "k": 6,
+      "v": 3,
+      "t": 3,
+      "sets": "10-12",
+      "pts": 9
+    },
+    {
+      "pos": 7,
       "name": "Lynge Uggeløse",
       "k": 4,
       "v": 2,
       "t": 2,
       "sets": "7-7",
-      "pts": 6
-    },
-    {
-      "pos": 7,
-      "name": "Lyngby-Gladsaxe Volley",
-      "k": 5,
-      "v": 2,
-      "t": 3,
-      "sets": "7-12",
       "pts": 6
     },
     {
@@ -76,10 +76,10 @@
     {
       "pos": 9,
       "name": "Farum VK 2",
-      "k": 4,
+      "k": 5,
       "v": 1,
-      "t": 3,
-      "sets": "4-10",
+      "t": 4,
+      "sets": "4-13",
       "pts": 3
     },
     {
@@ -341,7 +341,7 @@
       "away": "Amager Volley",
       "venue": "Kildeskovshal 1",
       "mapsUrl": "https://maps.google.com/maps?q=Adolphsvej%2025%2C%202820%20Gentofte",
-      "score": null
+      "score": "2-3"
     },
     {
       "matchId": 76276,
@@ -351,7 +351,7 @@
       "away": "Lyngby-Gladsaxe Volley",
       "venue": "Ny Holtehal",
       "mapsUrl": "https://maps.google.com/maps?q=Kongevejen%20464%2C%202840%20Holte",
-      "score": null
+      "score": "0-3"
     },
     {
       "matchId": 76277,
@@ -361,7 +361,7 @@
       "away": "VLI",
       "venue": "Idrætshuset",
       "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
-      "score": null
+      "score": "3-2"
     },
     {
       "matchId": 76278,

@@ -1,8 +1,17 @@
 {
-  "updatedAt": "2026-11-21T22:15:46.940Z",
+  "updatedAt": "2026-11-22T17:34:07.604Z",
   "teams": [
     {
       "pos": 1,
+      "name": "Hvidovre VK.3",
+      "k": 6,
+      "v": 6,
+      "t": 0,
+      "sets": "18-7",
+      "pts": 18
+    },
+    {
+      "pos": 2,
       "name": "Kanalbyens IF",
       "k": 6,
       "v": 5,
@@ -11,21 +20,12 @@
       "pts": 16
     },
     {
-      "pos": 2,
-      "name": "Hvidovre VK.3",
-      "k": 5,
-      "v": 5,
-      "t": 0,
-      "sets": "15-6",
-      "pts": 15
-    },
-    {
       "pos": 3,
       "name": "Farum VK.3",
-      "k": 4,
+      "k": 5,
       "v": 4,
-      "t": 0,
-      "sets": "12-3",
+      "t": 1,
+      "sets": "13-6",
       "pts": 12
     },
     {
@@ -332,7 +332,7 @@
       "away": "Farum VK.3",
       "venue": "Frihedens Idrætscenter",
       "mapsUrl": null,
-      "score": null
+      "score": "3-1"
     },
     {
       "matchId": 77661,

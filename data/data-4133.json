@@ -1,13 +1,13 @@
 {
-  "updatedAt": "2026-11-21T22:15:46.615Z",
+  "updatedAt": "2026-11-22T17:34:07.348Z",
   "teams": [
     {
       "pos": 1,
       "name": "Hvidovre VK.2",
-      "k": 5,
+      "k": 6,
       "v": 4,
-      "t": 1,
-      "sets": "14-4",
+      "t": 2,
+      "sets": "15-7",
       "pts": 13
     },
     {
@@ -21,6 +21,15 @@
     },
     {
       "pos": 3,
+      "name": "Hillerød G&I",
+      "k": 6,
+      "v": 4,
+      "t": 2,
+      "sets": "13-8",
+      "pts": 12
+    },
+    {
+      "pos": 4,
       "name": "KSV.4",
       "k": 6,
       "v": 4,
@@ -29,40 +38,31 @@
       "pts": 12
     },
     {
-      "pos": 4,
-      "name": "Hillerød G&I",
+      "pos": 5,
+      "name": "VK Vestsjælland",
       "k": 5,
       "v": 3,
       "t": 2,
-      "sets": "10-8",
-      "pts": 9
-    },
-    {
-      "pos": 5,
-      "name": "VK Vestsjælland",
-      "k": 4,
-      "v": 2,
-      "t": 2,
-      "sets": "9-8",
-      "pts": 7
+      "sets": "12-9",
+      "pts": 10
     },
     {
       "pos": 6,
-      "name": "Tårnfalkene",
-      "k": 4,
+      "name": "Glostrup IC",
+      "k": 5,
       "v": 2,
-      "t": 2,
-      "sets": "9-9",
+      "t": 3,
+      "sets": "9-10",
       "pts": 7
     },
     {
       "pos": 7,
-      "name": "Glostrup IC",
-      "k": 4,
-      "v": 1,
+      "name": "Tårnfalkene",
+      "k": 5,
+      "v": 2,
       "t": 3,
-      "sets": "6-9",
-      "pts": 4
+      "sets": "10-12",
+      "pts": 7
     },
     {
       "pos": 8,
@@ -76,10 +76,10 @@
     {
       "pos": 9,
       "name": "Roskilde VK",
-      "k": 6,
+      "k": 7,
       "v": 1,
-      "t": 5,
-      "sets": "3-17",
+      "t": 6,
+      "sets": "3-20",
       "pts": 3
     }
   ],
@@ -312,7 +312,7 @@
       "away": "Hillerød G&I",
       "venue": "Roskilde Gym.",
       "mapsUrl": null,
-      "score": null
+      "score": "0-3"
     },
     {
       "matchId": 76642,
@@ -322,7 +322,7 @@
       "away": "Hvidovre VK.2",
       "venue": "Korsørhallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-1"
     },
     {
       "matchId": 76654,
@@ -332,7 +332,7 @@
       "away": "Tårnfalkene",
       "venue": "Hvissingehallen",
       "mapsUrl": null,
-      "score": null
+      "score": "3-1"
     },
     {
       "matchId": 76632,
