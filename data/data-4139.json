@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:12:18.014Z",
+  "updatedAt": "2026-11-25T01:17:32.813Z",
   "teams": [
     {
       "pos": 1,
@@ -430,8 +430,8 @@
       "time": "12:00",
       "home": "KSV.5",
       "away": "Gentofte Volley.4",
-      "venue": "Idrætshuset",
-      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
       "score": null
     },
     {

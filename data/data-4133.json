@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T03:12:17.674Z",
+  "updatedAt": "2026-11-25T01:17:32.542Z",
   "teams": [
     {
       "pos": 1,
@@ -400,8 +400,8 @@
       "time": "10:00",
       "home": "KSV.4",
       "away": "Taastrup IK",
-      "venue": "Idrætshuset",
-      "mapsUrl": "https://maps.google.com/maps?q=Gunnar%20Nu%20Hansens%20Plads%207%2C%202100%20K%C3%B8benhavn%20%C3%98",
+      "venue": "Nørrebrohallen",
+      "mapsUrl": null,
       "score": null
     },
     {
